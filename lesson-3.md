@@ -4,6 +4,10 @@
 
 You've been introduced to JavaScript in the Khan Academy course, now we'll build on that to show more of JavaScript.
 
+## Microbit Workshop
+
+Microbits are tiny computers that you can program to turn on and off coloured lights and even play music. They are a fun way to learn programming! Neill will give a short workshop on how to use and program them.
+
 ## Help with Homework Exercises
 
 Another opportunity to ask questions about last week's homework. If you would like some assistance on any of the exercises, the teaching assistants will be available to help.
