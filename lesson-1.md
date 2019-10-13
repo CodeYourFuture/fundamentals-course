@@ -1,8 +1,5 @@
 # Intro To Programming 1
 
-**What will we learn today?**
-
-
 ## Welcome
 
 Welcome to Code Your Future and to the world of programming! Now that you have built a website in CodePen, we'll look at how the basics of how programming works, start writing our own programming and we'll also look at what you can make with programming and what kind of jobs are available to programmers.
