@@ -6,7 +6,7 @@ We'll continue with the introduction to JavaScript lessons.
 
 ## Introduction to the Terminal
 
-So far we've used online tools like CodePen to develop our programs. However this is not how most programmers work. Instead they use several tools on your computer, including the "terminal" or "command line". Using this tool efficiently is an important part of being a programmer.
+So far we've used online tools like CodePen to develop our programs. However this is not how most programmers work. Instead they use several tools on their computers, including the "terminal" or "command line". Using this tool efficiently is an important part of being a programmer.
 
 We'll have a gentle introduction to what the terminal is and how to use it.
 

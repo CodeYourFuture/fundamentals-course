@@ -2,7 +2,7 @@
 
 ## Solving problems
 
-Problem solving is a critical skill for programmers, including for experts. Often programmers most of their day solving problems in their code. Learning how to solve problems efficiently is an extremely useful skill.
+Problem solving is a critical skill for programmers, including for experts. Often programmers spend most of their day solving problems in their code. Learning how to solve problems efficiently is an extremely useful skill.
 
 To help develop your problem solving skills, Ben & Melissa from the Honeycomb Works have put together a fun game to work in groups on. Then they will give a presentation about improving your problem solving.
 
