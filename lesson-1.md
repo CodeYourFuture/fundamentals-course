@@ -36,9 +36,9 @@ For your first homework you will be working on a introduction to programming cou
 
 [Code.org](https://code.org) is a website which teaches beginners how to code. We will be completing Course 3. To get set up, follow these instructions:
 
-1. [Click here](https://studio.code.org/users/sign_up) to create an account on Code.org
-2. Once you've done that, [click here](https://studio.code.org/s/course3) to open Course 3
-3. Click the orange "Try now" button to start the course
+1. [Click here](https://studio.code.org/join/YCGHSP) to join the CYF class on code.org.  This will prompt you to make an account.
+2. Once you've registered and joined the class this way, you should be taken to an overview of [course 3](https://studio.code.org/s/course3).
+3. Start by clicking on [item 1 from lesson "2. Maze"](https://studio.code.org/s/course3/stage/2/puzzle/1).  (Yes, you will skip lesson 1.)
 4. Read the instructions carefully and try to complete the exercises
 
 ### Prepare a presentation for the next class
