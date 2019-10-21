@@ -14,6 +14,10 @@ We'll have a gentle introduction to what the terminal is and how to use it.
 
 Another opportunity to ask questions about last week's homework. If you would like some assistance on any of the exercises, the teaching assistants will be available to help.
 
+## Pairing session
+
+Each student will have a pairing session with one of the instructors to solve a programming problem using JavaScript in CodePen.
+
 ## Homework
 
 ### Udacity: Intro to JavaScript

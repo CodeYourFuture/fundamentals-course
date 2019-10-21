@@ -16,6 +16,10 @@ We'll break into 2 groups and take turns to present to the rest of the groups. R
 
 This is your opportunity to ask questions about last week's homework. If you would like some assistance on any of the exercises, the teaching assistants will be available to help.
 
+## Pairing session
+
+Each student will have a *pairing* session with one of the instructors to solve a programming problem using the Code.org block-programming environment.
+
 ## Homework
 
 ### Khan Academy: Intro to JS

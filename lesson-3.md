@@ -12,6 +12,10 @@ Microbits are tiny computers that you can program to turn on and off coloured li
 
 Another opportunity to ask questions about last week's homework. If you would like some assistance on any of the exercises, the teaching assistants will be available to help.
 
+## Pairing session
+
+Each student will have a pairing session with one of the instructors to solve a programming problem using the Khan Academy Intro to JavaScript environment.
+
 ## Homework
 
 ### Udacity: Intro to JavaScript
