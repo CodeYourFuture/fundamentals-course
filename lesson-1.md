@@ -45,6 +45,8 @@ For your first homework you will be working on a introduction to programming cou
 3. Start by clicking on [item 1 from lesson "2. Maze"](https://studio.code.org/s/course3/stage/2/puzzle/1).  (Yes, you will skip lesson 1.)
 4. Read the instructions carefully and try to complete the exercises
 
+There will be some time in class to start the first exercises. Let the instructors know if you get stuck.
+
 ### Prepare a presentation for the next class
 
 Part of being a programmer is communicating your ideas to other people on your team. To help you practice this very important skill, we want you to prepare a short (5 minutes) presentation about something you learned during the week. You can use [Google Slides](https://www.google.com/slides/about/) to prepare your slides.

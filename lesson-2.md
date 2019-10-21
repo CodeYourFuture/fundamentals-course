@@ -31,6 +31,8 @@ We will be studying the [Khan Academy](https://www.khanacademy.org) Intro to JS 
 3. Click the "What is Programming?" link to start the course
 4. Read the instructions carefully and try to complete the exercises
 
+There will be some time in class to start the first exercises. Let the instructors know if you get stuck.
+
 ### The JS Way: Welcome to programming chapter
 
 [The JS Way](https://github.com/bpesquet/thejsway) is a book that is available to read online for free. It is a beginner-friendly introduction to the JavaScript programming language.
