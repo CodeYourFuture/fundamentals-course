@@ -14,7 +14,7 @@ We'll break into 2 groups and take turns to present to the rest of the groups. R
 
 ## Help with Homework Exercises
 
-Now is your opportunity to ask questions about last week's homework. If you would like some assistance on any of the exercises, the teaching assistants will be available to help.
+This is your opportunity to ask questions about last week's homework. If you would like some assistance on any of the exercises, the teaching assistants will be available to help.
 
 ## Homework
 

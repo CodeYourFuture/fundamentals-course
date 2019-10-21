@@ -26,6 +26,10 @@ Next one of our long-time instructors Jon Sharpe will give a presentation about 
 
 Link to the presentation slides: [https://docs.google.com/presentation/d/1XVVq6acZwMb7r1OAx2b54nS5WOguO3V7m7Pspledi60/edit#slide=id.g253640fe83_0_202](https://docs.google.com/presentation/d/1XVVq6acZwMb7r1OAx2b54nS5WOguO3V7m7Pspledi60/edit#slide=id.g253640fe83_0_202)
 
+## Review of Tribute Page
+
+Volunteers will be available to review the "Tribute" web pages created for the application process. If you have any questions about how to improve the page, this is your chance to ask.
+
 ## Homework
 
 As part of your learning journey with CYF you will be expected to work at home on projects that we set for you. This will help you practice what you learn on Sundays and get prepared for next week.
