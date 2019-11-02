@@ -30,6 +30,7 @@ We will be studying the [Khan Academy](https://www.khanacademy.org) Intro to JS 
 2. Once you've done that, [click here](https://www.khanacademy.org/computing/computer-programming/programming) to open the Intro to JS course
 3. Click the "What is Programming?" link to start the course
 4. Read the instructions carefully and try to complete the exercises
+5. Complete as many lessons as you can AT LEAST UP TO THE Writing Clean Code section.
 
 There will be some time in class to start the first exercises. Let the instructors know if you get stuck.
 
