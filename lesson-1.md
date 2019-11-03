@@ -64,7 +64,7 @@ Then next week, you'll present what you learned to the rest of the class.
 
 To keep track of what homework you need to do and what you have completed we use Google Classroom. To set up your account:
 
-1. Go to [classroom.google.com](classroom.google.com)
+1. Go to [classroom.google.com](https://classroom.google.com)
 2. Log in to (or create) your Google account
 3. Click the "+" button in the top right, then "Join class"
 4. Paste in this classroom code: `06fypk3` and click "Join"
