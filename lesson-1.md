@@ -51,14 +51,13 @@ There will be some time in class to start the first exercises. Let the instructo
 
 Part of being a programmer is communicating your ideas to other people on your team. To help you practice this very important skill, we want you to prepare a short (5 minutes) presentation about something you learned during the week. You can use [Google Slides](https://www.google.com/slides/about/) to prepare your slides.
 
-Here is a list of topics which you could present about:
+Here is a list of topic ideas which you could present about:
 
-- How does Computational Thinking (decompose, pattern match, abstract, algorithm) help to solve problems?
 - Why are the "Repeat" and "Repeat Until" blocks useful?
 - Why are "Functions" useful?
 - Why is the "Conditional" block useful?
 
-Then next week, you'll present what you learned to the rest of the class.
+If you want to present a different idea, that is fine as well. Then next week, you'll present what you learned to the rest of the class.
 
 ## Google Classroom
 
