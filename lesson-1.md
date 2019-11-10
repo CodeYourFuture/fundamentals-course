@@ -2,7 +2,7 @@
 
 ## Welcome
 
-Welcome to Code Your Future and to the world of programming! Now that you have built a website in CodePen, we'll look at how the basics of how programming works, start writing our own programming and we'll also look at what you can make with programming and what kind of jobs are available to programmers.
+Welcome to Code Your Future and to the world of programming! Now that you have built a website in CodePen, we'll look at how the basics of how programming works, start writing our own programs and we'll also look at what you can make with programming and what kind of jobs are available to programmers.
 
 ## Introduction to Code Your Future
 
@@ -14,7 +14,7 @@ We'll start with some introductions: so that we can get to know each other. We'l
 
 While you're at Code Your Future, we expect you to follow some rules. This is so that **everyone** has a fun, productive and enjoyable experience.
 
-We'll read through the [Code of Conduct](https://codeyourfuture.github.io/syllabus-master/CODE_OF_CONDUCT.html) and [House Rules](https://codeyourfuture.github.io/syllabus-master/others/house-rules.html) together and answer any questions you have about it.
+We'll read through the [Code of Conduct](https://codeyourfuture.github.io/syllabus-master/CODE_OF_CONDUCT.html) and [House Rules](https://codeyourfuture.github.io/syllabus-master/others/house-rules.html) together and answer any questions you have about them.
 
 ## Alumni Story
 
@@ -43,7 +43,7 @@ For your first homework you will be working on a introduction to programming cou
 1. [Click here](https://studio.code.org/join/YCGHSP) to join the CYF class on code.org.  This will prompt you to make an account.
 2. Once you've registered and joined the class this way, you should be taken to an overview of [course 3](https://studio.code.org/s/course3).
 3. Start by clicking on [item 1 from lesson "2. Maze"](https://studio.code.org/s/course3/stage/2/puzzle/1).  (Yes, you will skip lesson 1.)
-4. Read the instructions carefully and try to complete the exercises
+4. Read the instructions carefully and try to complete the exercises.
 
 There will be some time in class to start the first exercises. Let the instructors know if you get stuck.
 
@@ -63,7 +63,7 @@ If you want to present a different idea, that is fine as well. Then next week, y
 
 To keep track of what homework you need to do and what you have completed we use Google Classroom. To set up your account:
 
-1. Go to [classroom.google.com](classroom.google.com)
+1. Go to [classroom.google.com](https://classroom.google.com)
 2. Log in to (or create) your Google account
 3. Click the "+" button in the top right, then "Join class"
 4. Paste in this classroom code: `06fypk3` and click "Join"
