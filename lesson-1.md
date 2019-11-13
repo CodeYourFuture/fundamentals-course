@@ -57,7 +57,7 @@ There will be some time in class to start the first exercises. Let the instructo
 
 ### Prepare a presentation for the next class
 
-Part of being a programmer is communicating your ideas to other people on your team. To help you practice this very important skill, we want you to prepare a short (5 minutes) presentation about something you learned during the week. You can use [Google Slides](https://www.google.com/slides/about/) to prepare your slides.
+Part of being a programmer is communicating your ideas to other people on your team. To help you practice this very important skill, we want you to prepare a short (5 minutes) presentation about something you learned during the week. You can use [Google Slides](https://www.google.com/slides/about/) if you want to prepare slides (this is optional).
 
 Here is a list of topic ideas which you could present about:
 
