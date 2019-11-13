@@ -23,6 +23,12 @@ Each student will have a pairing session with one of the instructors to solve a 
 We'll have a look at some of our favourite free resources online and real, which help you towards a career in programming and web development
 (london coding "meetups", codebar, [freecodecamp](https://www.freecodecamp.org/) and [the odin project](https://www.theodinproject.com/), [stackoverflow](https://stackoverflow.com/), [glitch.com](https://glitch.com/), youtube, [free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#javascript), to name a few)
 
+## How to ask a good question
+
+When learning to program (AND as a professional developer) you'll have lots of technical questions.  If you prepare those questions well, you'll get much better help.  We'll look briefly at what that involves, and some resources such as [how do i ask a good question](https://stackoverflow.com/help/how-to-ask)
+
+(Mentor notes: 20 minutes.  cut if no time.)
+
 ## Homework
 
 ### Udacity: Intro to JavaScript
