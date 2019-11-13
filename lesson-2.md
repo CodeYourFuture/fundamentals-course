@@ -12,6 +12,12 @@ For last week's homework, you will have made a presentation about something you 
 
 We'll break into 2 groups and take turns to present to the rest of the groups. Remember that communicating information to others is a really important skill for programmers.
 
+## Homework in perspective - how is it applicable? 
+
+Although the block-based coding you practiced for homework solved only simple problems with a simple language, we'll look briefly at four concepts you used which are also at the heart of professional coding.
+
+(mentor notes: 15 minutes.  sequence, repetition with loops, conditional execution with if/else, and breaking bigger problems into smaller problems, with functions.  Possibly showing representations in JS).
+
 ## Help with Homework Exercises
 
 This is your opportunity to ask questions about last week's homework. If you would like some assistance on any of the exercises, the teaching assistants will be available to help.
