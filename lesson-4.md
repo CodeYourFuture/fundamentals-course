@@ -18,6 +18,11 @@ Another opportunity to ask questions about last week's homework. If you would li
 
 Each student will have a pairing session with one of the instructors to solve a programming problem using JavaScript in CodePen.
 
+## Other free resources
+
+We'll have a look at some of our favourite free resources online and real, which help you towards a career in programming and web development
+(london coding "meetups", codebar, [freecodecamp](https://www.freecodecamp.org/) and [the odin project](https://www.theodinproject.com/), [stackoverflow](https://stackoverflow.com/), [glitch.com](https://glitch.com/), youtube, [free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#javascript), to name a few)
+
 ## Homework
 
 ### Udacity: Intro to JavaScript
