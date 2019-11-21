@@ -30,6 +30,14 @@ Link to the presentation slides: [https://docs.google.com/presentation/d/1XVVq6a
 
 Volunteers will be available to review the "Tribute" web pages created for the application process. If you have any questions about how to improve the page, this is your chance to ask.
 
+## Where are we starting?
+
+If you've never programmed before, don't worry - you're definitely on the right course!  
+
+We'll do a 5-minute quiz to find the class's level, using the fun app called ["Kahoot"](https://kahoot.it/).
+
+To prepare, please either install the kahoot app on your phone or just visit https://kahoot.it/ on your laptop.
+ 
 ## Homework
 
 As part of your learning journey with CYF you will be expected to work at home on projects that we set for you. This will help you practice what you learn on Sundays and get prepared for next week.
