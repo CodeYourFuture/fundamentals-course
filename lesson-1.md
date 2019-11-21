@@ -16,10 +16,6 @@ While you're at Code Your Future, we expect you to follow some rules. This is so
 
 We'll read through the [Code of Conduct](https://codeyourfuture.github.io/syllabus-master/CODE_OF_CONDUCT.html) and [House Rules](https://codeyourfuture.github.io/syllabus-master/others/house-rules.html) together and answer any questions you have about them.
 
-## Alumni Story
-
-One of the House Rules is about how Code Your Future is a community. This means that your Code Your Future experience does not end after the course has finished. One of our previous graduates will talk about their time with CYF, what they achieved and what they learned.
-
 ## Getting into Technology: Why & How
 
 Next one of our long-time instructors Jon Sharpe will give a presentation about why you would want to be a programmer.
