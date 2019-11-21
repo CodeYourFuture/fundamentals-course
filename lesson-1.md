@@ -30,7 +30,7 @@ Link to the presentation slides: [https://docs.google.com/presentation/d/1XVVq6a
 
 Volunteers will be available to review the "Tribute" web pages created for the application process. If you have any questions about how to improve the page, this is your chance to ask.
 
-## Where are we starting?
+## What level is the class starting at?
 
 If you've never programmed before, don't worry - you're definitely on the right course!  
 
