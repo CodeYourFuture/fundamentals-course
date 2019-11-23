@@ -37,6 +37,6 @@ At a minimum, take note of the exercise numbers that you have problems with, eve
 
 ## Tip: Try _prediction_, to get all the juice out of each exercise!
 
-* Always try to *predict* what code will do before you run it.  Write your prediction down, or tell your team mate - you can make it a game.  After you run the program, if your guess was wrong, discuss why, FIND OUT why.
+With simple programming challenges, it is easy to just repeatedly modify and re-run your program until it works, but you won't learn much unless you are *thinking* (and this playful approach doesn't work in industry with more complicated problems), so instead...
 
-With simple challenges, it is easy to just repeatedly modify and re-run your program until it works, but you won't learn as much unless you are *thinking*.
+* Always try to *predict* what your code will do before you run it.  Write your prediction down, or tell your team mate - you can make it a game.  After you run the program, if your guess was wrong, discuss why, FIND OUT why.
