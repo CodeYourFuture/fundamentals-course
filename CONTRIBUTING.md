@@ -36,7 +36,7 @@ This will create a _Pull Request_ that is sent to us to review. If we have any f
 2. Clone the repo to your computer (e.g. `git clone git@github.com:YOUR_GITHUB_USERNAME/intro-to-programming-module.git`)
 3. Edit the relevant Markdown files. All typical Markdown syntax is supported.
 4. Commit and push your changes to your fork
-5. Visit `https://github.com/CodeYourFuture/intro-to-programming-module/compare/master...YOUR_GITHUB_USERNAME:YOUR_BRANCH_NAME?expand=1`
+5. Visit `https://github.com/YOUR_GITHUB_USERNAME/intro-to-programming-module/pull/new/YOUR_BRANCH_NAME`
 6. Fill out the Pull Request title (what changed) and description (why you made the change)
 
 ### Markdown
