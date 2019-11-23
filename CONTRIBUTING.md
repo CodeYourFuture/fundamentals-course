@@ -4,7 +4,7 @@ Thanks for your interest in contributing! All of our lessons are a "Work in Prog
 
 ## Consider the scope
 
-To help us out, please consider the scope of your change(s). If the change is a typo or other minor change, making a Pull Request is welcome.
+To help us out, please consider the scope of your change(s). If the change is a typo or other minor change, please [make a Pull Request](#making-a-pull-request).
 
 If you would like to change significant parts of a lesson, please first discuss it with us. The section of content you wish to change might be in need of significant work and we would happy accept a contribution. Other sections may be more settled and require more discussion.
 
