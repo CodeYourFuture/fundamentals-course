@@ -4,6 +4,8 @@
 
 Welcome to Code Your Future and to the world of programming! Now that you have built a website in CodePen, we'll look at how the basics of how programming works, start writing our own programs and we'll also look at what you can make with programming and what kind of jobs are available to programmers.
 
+[More about this course](about-this-course.md)
+
 ## Introduction to Code Your Future
 
 Before we get started with programming we want to learn a bit about you, and you can learn a bit about us.
