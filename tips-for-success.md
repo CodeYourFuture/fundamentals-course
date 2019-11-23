@@ -7,7 +7,9 @@
 
 ## Tip: The objective is to learn, NOT to complete the exercises
 
-Completion of all exercises is not success.  If you learn so that you can complete any *future exercises* without help (e.g. in a job interview), *that* is success.
+Completion of all exercises is *not* success.  
+
+If you learn so that you can complete any *future exercises* without help (e.g. in a job interview), *that* is success.
 
 ## Tip: Each exercise is an *opportunity to learn* - don't let anyone steal that from you
 
