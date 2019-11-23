@@ -38,6 +38,38 @@ To prepare, please either install the kahoot app on your phone or just visit htt
 
 [We have a list of some tips for success on the course](./tips-for-success.md).  We'll add to these as we progress.  At this point, make sure you understand the first tip - "don't hide when you don't know".
 
+# Software setup
+
+## Slack
+
+1) Install Slack on your laptop (and phone, if possible)
+2) Log in to the Applicants workspace
+3) Practice making a Slack call with a few classmates, including screencasting.
+
+The *Golden rule of calls on Slack*:
+* Whenever you are not talking, your microphone should be muted!
+
+## Google Classroom
+
+To keep track of what homework you need to do and what you have completed we use Google Classroom. To set up your account:
+
+1. Go to [classroom.google.com](https://classroom.google.com)
+2. Log in to (or create) your Google account
+3. Click the "+" button in the top right, then "Join class"
+4. Paste in this classroom code: `06fypk3` and click "Join"
+
+### Submitting homework on google classroom
+
+Once you have joined the class, click the "Classwork" button at the top. You will see the list of Week 1 homework. To submit homework:
+
+1. Click on the piece of homework you have completed
+2. Click the "View Assignment" button
+3. Click the "Add or Create" button on the right hand side
+4. Here you can provide a link to homework that you have completed, or upload a file
+
+Go ahead and submit the first assignment now, "first assignment: what's your favourite music?", so that we can see google classroom is working for you!
+
+
 ## Homework
 
 As part of your learning journey with CYF you will be expected to work at home on projects that we set for you. This will help you practice what you learn on Sundays and get prepared for next week.
@@ -75,20 +107,3 @@ Here is a list of topic ideas which you could present about:
 
 If you want to present a different idea, that is fine as well. Then next week, you'll present what you learned to the rest of the class.
 
-## Google Classroom
-
-To keep track of what homework you need to do and what you have completed we use Google Classroom. To set up your account:
-
-1. Go to [classroom.google.com](https://classroom.google.com)
-2. Log in to (or create) your Google account
-3. Click the "+" button in the top right, then "Join class"
-4. Paste in this classroom code: `06fypk3` and click "Join"
-
-### Submitting homework
-
-Once you have joined the class, click the "Classwork" button at the top. You will see the list of Week 1 homework. To submit homework:
-
-1. Click on the piece of homework you have completed
-2. Click the "View Assignment" button
-3. Click the "Add or Create" button on the right hand side
-4. Here you can provide a link to homework that you have completed, or upload a file
