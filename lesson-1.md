@@ -33,7 +33,11 @@ If you've never programmed before, don't worry - you're definitely on the right 
 We'll do a 5-minute quiz to find the class's level, using the fun app called ["Kahoot"](https://kahoot.it/).
 
 To prepare, please either install the kahoot app on your phone or just visit https://kahoot.it/ on your laptop.
- 
+
+## Tips for success
+
+[We have a list of some tips for success on the course](./tips-for-success.md).  We'll add to these as we progress.  At this point, make sure you understand the first tip - "don't hide when you don't know".
+
 ## Homework
 
 As part of your learning journey with CYF you will be expected to work at home on projects that we set for you. This will help you practice what you learn on Sundays and get prepared for next week.
