@@ -2,9 +2,10 @@
 
 ## Tip: Don't hide when you don't know.
 
-* It is normal not to know things in this industry.
-* The volunteers can't help you if we don't know you are lost.
+* It is *normal* not to know things in this industry
+* The volunteers can't help you if we don't know you are lost
 * Probably someone else in the class has the same question as you, and is too scared to ask.
+* If the teacher asks if everyone understands, SAY if you have doubts.
 
 ## Tip: Don't be frustrated when a volunteer does not solve your problem for you
 
