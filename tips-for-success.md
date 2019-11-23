@@ -7,11 +7,7 @@
 * Probably someone else in the class has the same question as you, and is too scared to ask.
 * If the teacher asks if everyone understands, SAY if you have doubts.
 
-## Tip: Don't be frustrated when a volunteer does not solve your problem for you
-
-The teachers have told them not to!  Because...
-
-## Tip: The objective is to learn, NOT to complete the exercises
+## Tip: The goal is NOT to complete the exercises.  The goal is to learn.
 
 Completion of all exercises is *not* success... if you do not truly understand.  
 
@@ -41,3 +37,7 @@ At a minimum, take note of the exercise numbers that you have problems with, eve
 With simple programming challenges, it is easy to just repeatedly modify and re-run your program until it works, but you won't learn much unless you are *thinking* (and this playful approach doesn't work in industry with more complicated problems), so instead...
 
 * Always try to *predict* what your code will do before you run it.  Write your prediction down, or tell your team mate - you can make it a game.  After you run the program, if your guess was wrong, discuss why, FIND OUT why.
+
+## Tip: Don't be frustrated when a volunteer does not solve your problem for you
+
+The teachers have told them not to!  Can you say why?
