@@ -34,3 +34,18 @@ You will work through some online courses, and we (or the people sitting around 
 
 We'll start to look at JavaScript in week 2.  First we're going to use a simpler language to learn and practice fundamentals.
 
+
+
+# What you will need for this course
+
+* A laptop and charger
+* A phone would be useful
+* pen and paper (ideally a simple notebook for the course duration)
+* headphones, if you have them - the course contains a lot of video content.
+
+# Software you'll need to install
+#### Slack
+#### Google classroom
+#### Kahoot (on phone or laptop)
+google classroom: on android: https://play.google.com/store/apps/details?id=com.google.android.apps.classroom&hl=en_GB
+on ios: https://apps.apple.com/us/app/google-classroom/id924620788 kahoot: https://kahoot.com/
