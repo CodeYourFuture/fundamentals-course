@@ -43,7 +43,7 @@ We'll start to look at JavaScript in week 2.  First we're going to use a simpler
 * pen and paper (ideally a simple notebook for the course duration)
 * headphones, if you have them - the course contains a lot of video content.
 
-# Software you'll need to install
+## Software you'll need to install
 #### Slack
 #### Google classroom
 * on android: https://play.google.com/store/apps/details?id=com.google.android.apps.classroom&hl=en_GB
