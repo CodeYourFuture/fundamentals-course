@@ -32,16 +32,16 @@ A volunteer should be assigned to sit down with 1 student at a time to "pair" on
 
 **Code.org**
 
-- [Readme page (for instructors)](https://github.com/CodeYourFuture/module-tests/tree/master/intro-to-programming/codeorg_giraffes_loop)
-- [Task description (for students)](https://github.com/CodeYourFuture/module-tests/blob/master/intro-to-programming/codeorg_giraffes_loop/assessment_task.md)
-- [Mentor notes (for volunteer)](https://github.com/CodeYourFuture/module-tests/blob/master/intro-to-programming/codeorg_giraffes_loop/mentor_notes.md)
+- [Readme page (for instructors)](https://github.com/CodeYourFuture/intro-to-programming-assessments/tree/master/codeorg_three_giraffes)
+- [Task description (for students)](https://github.com/CodeYourFuture/intro-to-programming-assessments/tree/master/codeorg_three_giraffes/assessment_task.md)
+- [Mentor notes (for volunteer)](https://github.com/CodeYourFuture/intro-to-programming-assessments/tree/master/codeorg_three_giraffes/mentor_notes.md)
 - [Feedback form (for volunteer)](https://docs.google.com/forms/d/e/1FAIpQLSf5RN_jYq6Jvh4LdDdjuNL3TyUOcwncSpikTr-WVbBkm3JBCQ/viewform)
 - [Edit the form (for instructors)](https://docs.google.com/forms/d/15UtSv_A089jYxdZ7Guusf440FtckUaPLHvJAfv4dOY0/edit)
 
 **Khan Academy**
 
-- [Readme page (for instructors)](https://github.com/CodeYourFuture/module-tests/tree/master/intro-to-programming/khan_academy_cars)
-- [Task description (for students)](https://github.com/CodeYourFuture/module-tests/blob/master/intro-to-programming/khan_academy_cars/assessment_task.md)
-- [Mentor notes (for volunteer)](https://github.com/CodeYourFuture/module-tests/blob/master/intro-to-programming/khan_academy_cars/mentor_notes.md)
+- [Readme page (for instructors)](https://github.com/CodeYourFuture/intro-to-programming-assessments/tree/master/khan_academy_cars)
+- [Task description (for students)](https://github.com/CodeYourFuture/intro-to-programming-assessments/tree/master/khan_academy_cars/assessment_task.md)
+- [Mentor notes (for volunteer)](https://github.com/CodeYourFuture/intro-to-programming-assessments/tree/master/khan_academy_cars/mentor_notes.md)
 - [Feedback form (for volunteer)](https://docs.google.com/forms/d/e/1FAIpQLSfPlYydoYxlsYtR3ObIzAByOjNd10gQvtUd715b8ntYaFzwbw/viewform)
 - [Edit the form (for instructors)](https://docs.google.com/forms/d/1DW-WwKuQhVGlgcUgB8GzFRK6m3Yty0nJGqtxgYQq_EI/edit)
