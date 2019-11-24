@@ -21,7 +21,8 @@ Whether you take that path or not, we want this course to be useful to you.
 ## What this course is NOT
 
 ### It's *not* a web development course
-    * Although we'll certainly learn some JavaScript - the most popular language in web development - we won't do *any* web development with it!
+
+Although we'll certainly learn some JavaScript - the most popular language in web development - we won't do *any* web development with it!
  
 ### It's *not* a teacher-led course
 
