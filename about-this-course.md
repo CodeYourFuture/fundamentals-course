@@ -46,6 +46,7 @@ We'll start to look at JavaScript in week 2.  First we're going to use a simpler
 # Software you'll need to install
 #### Slack
 #### Google classroom
+* on android: https://play.google.com/store/apps/details?id=com.google.android.apps.classroom&hl=en_GB
+* on ios: https://apps.apple.com/us/app/google-classroom/id924620788 
 #### Kahoot (on phone or laptop)
-google classroom: on android: https://play.google.com/store/apps/details?id=com.google.android.apps.classroom&hl=en_GB
-on ios: https://apps.apple.com/us/app/google-classroom/id924620788 kahoot: https://kahoot.com/
+* https://kahoot.com/
