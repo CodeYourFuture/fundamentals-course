@@ -12,4 +12,4 @@ The module will last 4 weeks. For each week, there is a web page which you can a
 
 Classes will take place every Sunday at the [Ticketmaster UK offices near Angel](https://goo.gl/maps/nKwQeGXzvX8rBbNMA).
 
-The class will start at 11:30am and should finish at around 5:30pm.
+The class will *usually* start at 11:30am and should finish at around 5:30pm, but look out for time changes in emails and on Slack.
