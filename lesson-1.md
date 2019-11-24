@@ -83,7 +83,13 @@ Here is more detail
 
 ### Code.org Course 3
 
-[Code.org](https://code.org) is a website which teaches beginners how to code and gives them lots of practice. We will be completing their "Course 3". To get set up, follow these instructions:
+[Code.org](https://code.org) is a website which teaches beginners how to code and gives them lots of practice.
+
+It uses block-based coding (we'll start JavaScript next week).  Don't be put off by the simplicity - even top universities teach block-based coding (e.g., Berkeley, Harvard).
+
+We will be completing the course called "Course 3". 
+
+To get set up, follow these instructions:
 
 1. [Click here](https://studio.code.org/join/YCGHSP) to join the CYF class on code.org.  This will prompt you to make an account.
 2. Once you've registered and joined the class this way, you should be taken to an overview of [course 3](https://studio.code.org/s/course3).
@@ -98,11 +104,11 @@ Lessons to **SKIP**:
 
 Once you're finished, press submit in google classroom, and please add a comment mentioning your code.org username.
 
-There will be some time in class to start the first exercises. Let the instructors know if you get stuck.
+There will be some time in class to start the first exercises.  Let the instructors know if you get stuck.
 
 ### Prepare a presentation for the next class
 
-Part of being a programmer is communicating your ideas to other people on your team. To help you practice this very important skill, we want you to prepare a short (5 minutes) presentation about something you learned during the week. You can use [Google Slides](https://www.google.com/slides/about/) if you want to prepare slides (this is optional).
+Part of being a programmer is communicating your ideas to other people on your team. To help you practice this very important skill, for homework we want you to prepare a short (5 minutes) presentation about something you learned during the week. You can use [Google Slides](https://www.google.com/slides/about/) if you want to prepare slides (this is optional).
 
 Here is a list of topic ideas which you could present about:
 
@@ -110,5 +116,4 @@ Here is a list of topic ideas which you could present about:
 - Why are "Functions" useful?
 - Why is the "Conditional" block useful?
 
-If you want to present a different idea, that is fine as well. Then next week, you'll present what you learned to the rest of the class.
-
+If you want to present a different idea, that is fine as well. Then next week, you'll each present what you learned to a few students from the class.
