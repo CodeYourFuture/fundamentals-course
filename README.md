@@ -6,6 +6,8 @@ description: Welcome to CYF's Intro To Programming module
 
 This is the syllabus for Code Your Future's Intro To Programming module. During the module you will get a gentle introduction to what programming is, why we want to learn and how to start learning.
 
+[More about this course](about-this-course.md).
+
 The module will last 4 weeks. For each week, there is a web page which you can access on the sidebar to the left.
 
 ### Classes
