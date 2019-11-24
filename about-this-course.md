@@ -2,9 +2,12 @@
 
 A one-month short course from [Code Your Future](https://codeyourfuture.io/)
 
-You get a taste of programming with JavaScript - one of the most popular programming languages today - and you get to find out if you like programming!
+* You get a taste of programming with JavaScript - one of the most popular and in-demand programming languages today.
+* You'll learn fundamentals of programming that can be applied to JavaScript and other languages.
+* You'll get to find out if you actually LIKE programming!
+* You'll become familiar with some free on-line resources that we recommend to help in future study.
 
-You'll become familiar with some free on-line resources that we recommend to help in future study
+We'll also look at what you can make with programming and what kind of jobs are available to programmers.
 
 ### About further study on CYF's web-development course:
 
