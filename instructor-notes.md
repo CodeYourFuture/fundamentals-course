@@ -30,7 +30,7 @@ The goal of these assessments is to assess how well the student is progressing. 
 
 A volunteer should be assigned to sit down with 1 student at a time to "pair" on a small task. It is however not quite like normal pairing: the volunteer should aim to not "give away" the answer. If the student is struggling the volunteer can ask open questions to provide a suggestion.
 
-**Code.org - three giraffes **
+#### Code.org - three giraffes
 
 - [Readme page (for instructors)](https://github.com/CodeYourFuture/intro-to-programming-assessments/tree/master/codeorg_three_giraffes)
 - [Task description (for students)](https://github.com/CodeYourFuture/intro-to-programming-assessments/tree/master/codeorg_three_giraffes/assessment_task.md)
@@ -38,7 +38,7 @@ A volunteer should be assigned to sit down with 1 student at a time to "pair" on
 - [Feedback form (for volunteer)](https://docs.google.com/forms/d/e/1FAIpQLSf5RN_jYq6Jvh4LdDdjuNL3TyUOcwncSpikTr-WVbBkm3JBCQ/viewform)
 - [Edit the form (for instructors)](https://docs.google.com/forms/d/15UtSv_A089jYxdZ7Guusf440FtckUaPLHvJAfv4dOY0/edit)
 
-**Code.org - line of boxes **
+#### Code.org - line of boxes
 - [Task description (for students)](https://github.com/CodeYourFuture/intro-to-programming-assessments/tree/master/codeorg_line_of_boxes/assessment_task.md)
 - [Mentor notes (for volunteer)](https://github.com/CodeYourFuture/intro-to-programming-assessments/tree/master/codeorg_line_of_boxes/mentor_notes.md)
 - TODO [Feedback form (for volunteer)](TODO)
