@@ -5,15 +5,17 @@ Notes for the instructors of this module.
 
 ## Equipment for running the course
 
+* wifi
+* screencasting - some set-up for presenting and live coding
 * spare laptops
-* spare headphones (week 2 onwards)
+* extra extension blocks
+* spare headphones (week 2 onwards - video courses)
 * stickers for name tag
 * Clipboards (attendance)
 * attendance sheets
 * extra airtame or chromecast in case we want to present in two rooms
 * Post-its
 * Whiteboard markers
-* extra extension blocks
 * A4 scrap paper
 * spare biros
 
