@@ -2,6 +2,21 @@
 
 Notes for the instructors of this module.
 
+
+## Equipment for running the course
+
+* spare laptops
+* spare headphones (week 2 onwards)
+* stickers for name tag
+* Clipboards (attendance)
+* attendance sheets
+* extra airtame or chromecast in case we want to present in two rooms
+* Post-its
+* Whiteboard markers
+* extra extension blocks
+* A4 scrap paper
+* spare biros
+
 ## Assessments
 
 Several assessments have been designed for this module. They should be completed during the in-person class.
