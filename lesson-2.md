@@ -32,9 +32,9 @@ Each student will have a *pairing* session with one of the instructors to solve 
 
 We will be studying the [Khan Academy](https://www.khanacademy.org) Intro to JS course. This will give you an introduction to the JavaScript programming language which we will be using for the rest of the syllabus. To get set up follow these instructions:
 
-1. [Click here](https://www.khanacademy.org/signup) to create an account on Khan Academy
-2. Once you've done that, [click here](https://www.khanacademy.org/computing/computer-programming/programming) to open the Intro to JS course
-3. Click the "What is Programming?" link to start the course
+1. [Click here](https://www.khanacademy.org/join/WU488UNX) to create an account on Khan Academy within the Intro to Programming class (you must use that link!)
+2. Click on the "Assignments" tab in the left side bar
+3. Click the "Start" button for the "What is Programming?" lesson
 4. Read the instructions carefully and try to complete the exercises
 5. Complete as many lessons as you can AT LEAST UP TO THE Writing Clean Code section.
 
