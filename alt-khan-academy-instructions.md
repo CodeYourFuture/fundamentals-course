@@ -16,3 +16,8 @@ We will be studying the [Khan Academy](https://www.khanacademy.org) Intro to JS 
 1. Complete as many lessons as you can AT LEAST UP TO THE Writing Clean Code section.
 
 There will be some time in class to start the first exercises. Let the instructors know if you get stuck.
+
+#### No headphones? Read the subtitles or video transcript
+
+If you do not have headphones to watch the videos you can click in the video window on cc (subtitles/closed captions), or underneath the video on `Transcript`.
+
