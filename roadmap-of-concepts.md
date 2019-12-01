@@ -31,7 +31,7 @@
 | Passing information to a function     | Yes: move forward by 100 pixels | Yes                  |
 | | | |
 | More Functions | | |
-| Defining your own functions           | Yes                     | Yes                          |
+| Defining your own functions           | Yes [e.g. "get 7 make 7"](https://studio.code.org/s/course3/stage/6/puzzle/8?section_id=2217957)                     | Yes                          |
 | returning information from a function | No | |
 | | | |
 | Variables | Not much. [set color red](https://studio.code.org/s/course3/stage/3/puzzle/4?section_id=2217957) | |
