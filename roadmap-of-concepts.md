@@ -1,19 +1,6 @@
 # Concept Roadmap
 
-* Simple sequence of instructions
-* If/else ("conditional execution")
-* Repetition with "loops"
-  * nested loops
-* Functions
-  * Using ("calling") a function
-  * Passing information to a function
-* More Functions
-  * Defining your own functions
-  * returning information from a function
-* Variables
-* Data Types
-* Arrays and Objects
-* Event handlers
+Here is a list of the main concepts we cover in the intro to programming course, and whether you'll see them in the code.org course or in the khan academy course.  You __don't__ have to remember the name of the concepts!  Some students like to understand where they are, and how much further there is to go.
 
 
 | Concept                               |  In code.org course 3?  | In Khan Academy Intro to JS? |
