@@ -15,6 +15,7 @@
 * Arrays and Objects
 * Event handlers
 
+
 | Concept                               |  In code.org course 3?  | In Khan Academy Intro to JS? |
 | ------------------------------------- | ------------------------| ---------------------------- |
 | Simple sequence of instructions       | Yes                     | Yes                          |
@@ -33,9 +34,9 @@
 | Defining your own functions           | Yes | |
 | returning information from a function | No | |
 | | | |
-| Variables | Not much. [https://studio.code.org/s/course3/stage/3/puzzle/4?section_id=2217957](set color red) | |
+| Variables | Not much. (set color red)[https://studio.code.org/s/course3/stage/3/puzzle/4?section_id=2217957] | |
 | | | |
 | Data Types | No | |
 | | | |
 | Arrays and Objects |No |Yes |
-| Event handlers | Yes [https://studio.code.org/s/course3/stage/15/puzzle/8?section_id=2217957]("When up pressed") | |
+| Event handlers | Yes ("When up pressed")[https://studio.code.org/s/course3/stage/15/puzzle/8?section_id=2217957] | |
