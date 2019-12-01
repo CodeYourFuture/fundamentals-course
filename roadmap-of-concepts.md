@@ -28,15 +28,17 @@
 | | | |
 | Functions | | |
 | Using ("calling") a function          | Yes                     | Yes                          |
-| Passing information to a function     | Yes: move forward by 100 pixels | Yes                          |
+| Passing information to a function     | Yes: move forward by 100 pixels | Yes                  |
 | | | |
 | More Functions | | |
-| Defining your own functions           | Yes | |
+| Defining your own functions           | Yes                     | Yes                          |
 | returning information from a function | No | |
 | | | |
 | Variables | Not much. [set color red](https://studio.code.org/s/course3/stage/3/puzzle/4?section_id=2217957) | |
 | | | |
-| Data Types | No | |
+| Data Types                            | No                       | Partially                   |
 | | | |
-| Arrays and Objects |No |Yes |
+| Arrays and Objects                    |No                        |Yes                          |
+| | | |
 | Event handlers | Yes ["When up pressed"](https://studio.code.org/s/course3/stage/15/puzzle/8?section_id=2217957) | |
+| | | |
