@@ -22,7 +22,7 @@
 | | | |
 | If/else ("conditional execution")     | Yes                     | Yes                          |
 | | | |
-| Repetition with "loops"               | Yes                     | Yes                          |
+| Repetition with "loops"               | Yes (repeat n times, repeat until, [while nectar > 0](https://studio.code.org/s/course3/stage/13/puzzle/7)) | Yes                          |
 | | | |
 | nested loops                          | Yes                     |                              |
 | | | |
