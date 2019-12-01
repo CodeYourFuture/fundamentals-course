@@ -50,3 +50,7 @@ There will be some time in class to start the first exercises. Let the instructo
 Once you've read The JS Way chapter above, you'll see that there is a section about writing algorithms. In the chapter is there is an example of a burrito "algorithm recipe".
 
 Write your own "algorithm recipe" for your favourite food. Make sure you submit it to Google Classroom.
+
+## Concepts roadmap
+
+Here's a [list of some of the main concepts](roadmap-of-concepts.md) we will cover in this course.  You are free to ignore it, but some students find it useful to know where they are.
