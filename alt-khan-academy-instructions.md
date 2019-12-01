@@ -21,3 +21,8 @@ There will be some time in class to start the first exercises. Let the instructo
 
 If you do not have headphones to watch the videos you can click in the video window on cc (subtitles/closed captions), or underneath the video on `Transcript`.
 
+
+
+### Note to instructors: propagation delay on student progress 
+
+In my experience, student progress often won't be updated on your dashboard until as much as 5-10 minutes have passed.
