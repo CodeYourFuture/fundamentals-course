@@ -61,7 +61,7 @@ In my experience, student progress often won't be updated on your dashboard unti
 
 ### Write an "algorithm recipe"
 
-Once you've read The JS Way chapter above, you'll see that there is a section about writing algorithms. In the chapter is there is an example of a burrito "algorithm recipe".
+Once you've read The JS Way chapter above, you'll see that there is a section about writing algorithms. In the chapter is there is an example of a burrito "algorithm recipe". You might also want to watch [this video](http://youtube.com/watch?v=cDA3_5982h8) which also has some "algorithm recipes" 😄. Think like the Dad when writing yours!
 
 Write your own "algorithm recipe" for your favourite food. Make sure you submit it to Google Classroom.
 
