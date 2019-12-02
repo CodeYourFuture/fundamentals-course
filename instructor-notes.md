@@ -23,6 +23,12 @@ Notes for the instructors of this module.
 
 Several assessments have been designed for this module. They should be completed during the in-person class.
 
+### Misc feedback from any volunteer
+
+* Even for small but significant interactions, volunteers should be encouraged to fill out [this feedback form](https://forms.gle/GgpFkgKCRPVtTtrJ7).  It's fine to skip bits of it - there's a free text section at the end.
+* for form administrators, that's [here](https://docs.google.com/forms/d/13F6J1HiBvmxZy-cSrgDwVxpVAZPdjU3Rv2wsXIpmo_M/edit)
+
+
 ### 10 minute assessments
 
 The goal of these assessments is to assess how well the material is being taught. Based on the results of the assessment, the instructors can decide whether some subjects need to be revisited. Consider whether they could be approached in a different way.
