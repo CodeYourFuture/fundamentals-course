@@ -4,7 +4,7 @@
 
 Problem solving is a critical skill for programmers, including for experts. Often programmers spend most of their day solving problems in their code. Learning how to solve problems efficiently is an extremely useful skill.
 
-To help develop your problem solving skills, Ben & Melissa from the Honeycomb Works have put together a fun game to work in groups on. Then they will give a presentation about improving your problem solving.
+To help develop your problem solving skills, Ben & Melissa from the Honeycomb Works have put together a fun game to work in groups on. Then they will give [a presentation](https://docs.google.com/presentation/d/1XzLUVxfiJE2llWTWn7Rf5T0cutcL9HCBwd09GBCzv_4/) about improving your problem solving.
 
 ## Homework presentation
 
