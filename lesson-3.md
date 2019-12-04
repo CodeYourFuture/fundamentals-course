@@ -1,16 +1,8 @@
 # Intro to Programming 3
 
-## Intro to JS
+## Khan Academy Projects
 
-You've been introduced to JavaScript in the Khan Academy course, now we'll build on that to show more of JavaScript.
-
-## Microbit Workshop
-
-Microbits are tiny computers that you can program to turn on and off coloured lights and even play music. They are a fun way to learn programming! Neill will give a short workshop on how to use and program them.
-
-## Help with Homework Exercises
-
-Another opportunity to ask questions about last week's homework. If you would like some assistance on any of the exercises, the teaching assistants will be available to help.
+The Khan Academy course includes some _projects_. Pick your 2 favourite projects and think about how you would improve them. Maybe you want to add more food to the dinner plate. We'll be working in groups to help make those changes together. The teaching assistants will also be available to help your group if you're stuck.
 
 ## Pairing session
 
@@ -18,14 +10,9 @@ Each student will have a pairing session with one of the instructors to solve a 
 
 ## Homework
 
-### Udacity: Intro to JavaScript
+### Khan Academy: Intro to JS
 
-We will be following the [Udacity: Intro to JavaScript](https://classroom.udacity.com/courses/ud803) course. This builds on the JavaScript knowledge that we learned in the last week's homework and today's lesson. To get set up follow these instructions:
-
-1. [Click here](https://auth.udacity.com/sign-up) to create an account on Udacity
-2. Once you've done that, [click here](https://classroom.udacity.com/courses/ud803) to open the Intro to JavaScript course
-3. Click the "View lesson" button on the "What is JavaScript" section to start the course
-4. Read the instructions carefully and try to complete the exercises
+We will continue to work on the Khan Academy course. If you have already completed everything up to the Writing Clean Code section, then you can finish the rest of the course.
 
 ### The JS Way
 
