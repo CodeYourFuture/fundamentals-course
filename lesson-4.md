@@ -1,8 +1,8 @@
 # Intro to Programming 4
 
-## Microbit Workshop
+## zombies, plants, fishtanks, draw() function... How is all this relevant in the real world?
 
-Microbits are tiny computers that you can program to turn on and off coloured lights and even play music. They are a fun way to learn programming! Neill will give a short workshop on how to use and program them.
+Believe it or not, you've been learning the basics of programming, relevant to a whole range of coding jobs.  If we have time, we'll look at specific elements you've learned about and how they're relevant elsewhere.
 
 ## Other free resources
 
