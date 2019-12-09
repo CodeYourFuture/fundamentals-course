@@ -128,7 +128,11 @@ Each student will have a pairing session with one of the instructors to solve a 
 
 ## Homework
 
+Make sure you understand the homework for next week before you leave the classroom.
+
 See google classroom for the definitive list of homework assignments.
+
+There is more homework there than shown here.
 
 ### The JS Way
 
