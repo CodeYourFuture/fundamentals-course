@@ -10,9 +10,7 @@ Each student will have a pairing session with one of the instructors to solve a 
 
 ## Homework
 
-### Khan Academy: Intro to JS
-
-We will continue to work on the Khan Academy course. If you have already completed everything up to the Writing Clean Code section, then you can finish the rest of the course.
+See google classroom for the definitive list of homework assignments.
 
 ### The JS Way
 
