@@ -14,9 +14,7 @@ We'll have a look at some of our favourite free resources online and real, which
 Each student will have a pairing session with one of the instructors to solve a programming problem using JavaScript in CodePen.
 ## Homework
 
-### Udacity: Intro to JavaScript
-
-[Udacity: Intro to JavaScript](https://classroom.udacity.com/courses/ud803) course.
+See google classroom for this week's homework.
 
 # More Javascript Drawing and Animation after this course
 
