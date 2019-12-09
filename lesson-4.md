@@ -32,7 +32,6 @@ One reason I like this site instead for p5.js work is that it has [a huge galler
 
 ## Some places to get inspiration
 
-Here are two essays I like by Jason Bailey about "generative art".  They have lots of interesting examples which might inspire you:
+Here is an essay I like by Jason Bailey about "generative art".  It has lots of interesting examples which might inspire you:
 * ["Why Love Generative Art?"](https://www.artnome.com/news/2018/8/8/why-love-generative-art)
-* ["Giving Generative Art Its Due"](https://www.artnome.com/news/2019/4/17/giving-generative-art-its-due)
 
