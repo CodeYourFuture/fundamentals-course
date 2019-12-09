@@ -106,6 +106,10 @@ SHOW what you don't understand, and get help with it.  Find a team to work in th
 
 Continue with your chosen khan academy projects either in pairs or individually or for short sessions of each.
 
+***Change pairs***: Try to change pairs so that as you work, you have the chance to learn different skills from other students, or teach your own new knowledge to others.
+
+Working on your own is ok.  Aim to do at least 3 pair-programming sessions each 30 minutes long.  In the day.
+
 During this time, you should seek help from the volunteers about your specific questions.
 
 ## Common questions - Live coding
@@ -122,9 +126,9 @@ Certainly they'll ask you to contribute suggestions for possible solutions - spe
 
 TODO: link to (or inline) some of the common questions from week 3
 
-## pairing task with instructors
+## 1-to-1 mini-assessment with instructors
 
-Each student will have a pairing session with one of the instructors to solve a programming problem using the Khan Academy Intro to JavaScript environment.
+Each student will have a pairing session with one of the instructors to solve a programming problem using the Khan Academy Intro to JavaScript environment.  We'll see how you're getting on, what help you need, and hopefully you'll get some tips from the instructor!
 
 ## Homework
 
