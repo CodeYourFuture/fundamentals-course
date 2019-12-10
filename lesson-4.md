@@ -2,7 +2,7 @@
 
 # Intro to Programming 4
 
-## zombies, plants, fishtanks, draw() function... How is all this relevant in the real world?
+## Zombies, plants, fishtanks, draw() function... How is all this relevant in the real world?
 
 Believe it or not, you've been learning the basics of programming, relevant to a whole range of coding jobs. We'll look at specific elements you've learned about and how they're relevant elsewhere.
 
