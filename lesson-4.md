@@ -6,6 +6,10 @@
 
 Believe it or not, you've been learning the basics of programming, relevant to a whole range of coding jobs. We'll look at specific elements you've learned about and how they're relevant elsewhere.
 
+## Live coding
+
+We'll work as a group to solve some more Khan Academy/Processing.js challenges. The developer volunteers will talk about how they think about the problem while solving it and show the rest of the class.
+
 ## Other free resources
 
 We'll have a look at some of our favourite free resources - both online and in person - which can help you towards a career in programming and web development.
