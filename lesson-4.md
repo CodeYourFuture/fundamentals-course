@@ -1,6 +1,5 @@
 # WARNING: This content is a work-in-progress and MAY CHANGE
 
-
 # Intro to Programming 4
 
 ## zombies, plants, fishtanks, draw() function... How is all this relevant in the real world?
@@ -15,11 +14,12 @@ We'll have a look at some of our favourite free resources online and real, which
 ## Pairing session
 
 Each student will have a pairing session with one of the instructors to solve a programming problem using JavaScript in CodePen.
+
 ## Homework
 
 See google classroom for this week's homework.
 
-# More Javascript Drawing and Animation after this course
+## More Javascript Drawing and Animation after this course
 
 If you enjoyed using javascript to make drawings and animations, here are some resources I recommend for further study.
 
@@ -33,7 +33,7 @@ One reason I like this site instead for p5.js work is that it has [a huge galler
 
 (* **Don't Panic!** Do not be worried when you find a project that looks amazing but then you look at the code and can't understand it - this is normal.  These projects can become VERY complex and the artists often aren't very concerned about how easy their code is to read.  And code reading is a skill you have to work on.  Take it slow.  Study simpler projects to start with.)
 
-## Some places to get inspiration
+### Some places to get inspiration
 
 Here is an essay I like by Jason Bailey about "generative art".  It has lots of interesting examples which might inspire you:
 * ["Why Love Generative Art?"](https://www.artnome.com/news/2018/8/8/why-love-generative-art)
