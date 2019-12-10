@@ -8,8 +8,15 @@ Believe it or not, you've been learning the basics of programming, relevant to a
 
 ## Other free resources
 
-We'll have a look at some of our favourite free resources online and real, which help you towards a career in programming and web development
-(london coding "meetups", codebar, [freecodecamp](https://www.freecodecamp.org/) and [the odin project](https://www.theodinproject.com/), [stackoverflow](https://stackoverflow.com/), [glitch.com](https://glitch.com/), youtube, [free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#javascript), to name a few)
+We'll have a look at some of our favourite free resources - both online and in person - which can help you towards a career in programming and web development.
+
+- Codebar
+- Coding "meetups"
+- [freecodecamp](https://www.freecodecamp.org/) and [the odin project](https://www.theodinproject.com/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [Glitch](https://glitch.com/)
+- Youtube
+- [Free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#javascript)
 
 ## Pairing session
 
