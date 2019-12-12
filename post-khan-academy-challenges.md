@@ -31,8 +31,10 @@ Add bubbles to your fishtank (if you have not, already), and make these objects,
 
 Go back to the ["simple snowman" challenge](https://www.khanacademy.org/computing/computer-programming/programming/drawing-basics/pc/challenge-simple-snowman) and make a spin-off.
 
+You don't need to animate this one, so you don't need a `draw()` function.
+
 * In the spin-off change the code so that you draw 100 snowmen in random places.  
 * Use an object to keep track of the position of each snowman.
-* try to have each snowman be a different size
-
-You don't need to animate this one, so you don't need a `draw()` function.
+* optional: try to have each snowman be a different size
+* optional: (very advanced) - can you have each snowman choose from 3 different faces?  One way to do this would be to have three functions: `drawFace1(x, y, size)`, `drawFace2(x, y, size)`, `drawFace3(x, y, size)` and somehow choose between them for each snowman/snow-woman.
+* optional: It would be nice to give the snow-people a colourful hat and scarf.
