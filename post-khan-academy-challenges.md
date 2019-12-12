@@ -17,3 +17,12 @@ to each object add more properties:
 
 * try with squares or rectangles
 * try with images.
+
+
+# Fishtank v2 - using objects
+
+Go back to your [https://www.khanacademy.org/computing/computer-programming/programming/functions/pp/project-fish-tank](fishtank project), and make a spin-off.
+
+In the spin-off, change your code so that each fish is represented by an object, with `x`, `y`, `speed`, `colour`, and perhaps `size` variables.
+
+Add bubbles to your fishtank (if you have not, already), and make these objects, too. (`x`, `y`, and perhaps `size`).
