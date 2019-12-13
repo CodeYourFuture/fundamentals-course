@@ -38,3 +38,13 @@ You don't need to animate this one, so you don't need a `draw()` function.
 * optional: try to have each snowman be a different size
 * optional: (very advanced) - can you have each snowman choose from 3 different faces?  One way to do this would be to have three functions: `drawFace1(x, y, size)`, `drawFace2(x, y, size)`, `drawFace3(x, y, size)` and somehow choose between them for each snowman/snow-woman.
 * optional: It would be nice to give the snow-people a colourful hat and scarf.
+
+
+# Challenge: shooting stars, with objects
+
+Go back to the ["shooting stars" project](https://www.khanacademy.org/computing/computer-programming/programming/animation-basics/pp/project-shooting-star) and make a spin-off.
+
+* In the spin-off, change your code so that shooting stars are represented by objects.  Each star would have an `x` and `y`, and a `xSpeed` and `ySpeed`.  (To move the star increment `x` by `xSpeed`, and `y` by `ySpeed`.)
+* If you didn't already add some buildings for a skyline, do so now.
+* Each building should be an object with x, y, and height.
+* You don't need to draw the windows if you haven't already done that.
