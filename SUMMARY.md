@@ -6,4 +6,7 @@
   * [Lesson 2](lesson-2.md)
   * [Lesson 3](lesson-3.md)
   * [Lesson 4](lesson-4.md)
-* [Tips for the course](tips-for-success.md)
+* Other resources
+  * [Tips for the course](tips-for-success.md)
+  * [Roadmap of concepts](roadmap-of-concepts.md)
+  * After the course: [Migrating from processing.js to p5.js](from-khan-academy-processingjs-to-p5js.md)
