@@ -27,6 +27,12 @@ In the spin-off, change your code so that each fish is represented by an object,
 
 Add bubbles to your fishtank (if you have not, already), and make these objects, too. (`x`, `y`, and perhaps `size`).
 
+### Advanced - clickable bubbles
+
+Make each bubble clickable - when you click it it changes in colour.  To track which bubbles have been clicked, you should add a `clicked` property to each bubble object.
+
+Use the function `dist(x1, x2, x2, y2)` to find the distance between two points.
+
 # Challenge: many snowmen, with objects!
 
 Go back to the ["simple snowman" challenge](https://www.khanacademy.org/computing/computer-programming/programming/drawing-basics/pc/challenge-simple-snowman) and make a spin-off.
