@@ -43,7 +43,7 @@ With your table-mates, find a quiet space in the allowed areas, and set a stopwa
 
 ## 1-to-1 with volunteers: critical questions for getting unstuck
 
-We'll now spend 30 minutes where you can ask the volunteers with help on serious *questions that have really been blocking your progress* through the khan academy course.
+Soon the teachers will answer common questions, but we'll first spend 15 minutes where you can ask the volunteers with help on serious *questions that have really been blocking your progress* through the khan academy course.
 
 If you have other more advanced questions that aren't blocking you, please don't ask them yet (unless you see that the volunteers are clearly not busy helping with more fundamental issues).  We'll have time later for those questions.
 
@@ -80,7 +80,6 @@ mentor notes:
 
 Believe it or not, you've been learning the basics of programming, relevant to a whole range of coding jobs. We'll look at specific elements you've learned about and how they're relevant elsewhere.
 
-
 ## Other free resources
 
 We'll have a look at some of our favourite free resources - both online and in person - which can help you towards a career in programming and web development.
@@ -103,7 +102,7 @@ We'll have a look at some of our favourite free resources - both online and in p
 - [Glitch](https://glitch.com/)
 - [CodeSandbox.io](https://codesandbox.io/)
 
-## Pairing session
+## Pairing session with an instructor
 
 Each student will have a pairing session with one of the instructors to solve a programming problem using JavaScript in CodePen.
 
