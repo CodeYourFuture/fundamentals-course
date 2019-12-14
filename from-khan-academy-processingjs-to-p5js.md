@@ -10,6 +10,7 @@ Instead of writing programs on the khan academy site, I suggest using the site [
  * Alternatively, [here's a starting sketch](https://www.openprocessing.org/sketch/812085) that defines functions the way you have learned so far
 * If you want to use codepen, here's a [p5.js starting "pen" in codepen](https://codepen.io/enz0/pen/vYEXyZr?editors=1010)
 * If you want to see the whole picture of html and javascript together, [here's a website project on glitch](https://glitch.com/~cyf-p5js-start) with html, css, and javascript files. 
+* [Here's a tutorial for a random words poster](https://www.openprocessing.org/sketch/812093) which works through a project using p5.js
 
 ## Why change?
 
