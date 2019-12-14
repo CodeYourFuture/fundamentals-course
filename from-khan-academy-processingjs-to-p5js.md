@@ -25,7 +25,7 @@ Instead of writing programs on the khan academy site, I suggest using the site [
     * load and show 3d models
     * interact with all sorts of other interesting javascript libraries
         * random example: [p5.js pose-detection with using PoseNet](https://codepen.io/enz0/full/wvBzoMN)
-* You can use *modern* javascript language features, which is much nicer.
+* You can use *modern* javascript language features, which make things nicer.
 
 However, some of my favourite differences are very, very small.  Here's one:
 
@@ -67,6 +67,14 @@ In addition to ["Code! Programming with p5.js"](https://www.youtube.com/playlist
 * The creators of processing have [a p5.js course on kadenze.com - "Introduction to Programming for the Visual Arts with p5.js"](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js-vi/info)
 * Joshua Davis has some courses on processing on skillshare, which is free for 2 months.
 [Programming Graphics I: Introduction to Generative Art](https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657).  This does *not* teach in javascript but in Processing, which uses the Java language instead.  However, if you LOVE the topic, you could skim these videos and still learn a lot.  Normally I would recommend getting strong in ONE language (JavaScript) for the first year or two of your programming journey.
+* Mostly aimed at teachers: [Introduction to Computational Media with p5.js](https://nycdoe-cs4all.github.io/) has material for teachers to run a course.  Students can find some interesting project ideas.
+
+* If you want to stick with processing.js and Khan Academy longer, there is [Advanced JS: Games and Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations).  I haven't worked through this course, yet.
+
+# Other migration guides
+
+* If you want to stick with processing.js, Khan Academy have [this guide to using processingjs outside khan academy](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations/advanced-development-tools/a/using-processingjs-outside-khan-academy)
+
 
 ## List of important differences between (khan academy) processing.js and p5.js
 
