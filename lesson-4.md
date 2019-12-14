@@ -80,6 +80,13 @@ mentor notes:
 
 Believe it or not, you've been learning the basics of programming, relevant to a whole range of coding jobs. We'll look at specific elements you've learned about and how they're relevant elsewhere.
 
+Look back at the [roadmap](roadmap-of-concepts.md)
+
+#### JavaScript differences
+
+* let and const instead of var
+* functions can be created many ways (khan academy way is uncommon)
+
 ## Other free resources
 
 We'll have a look at some of our favourite free resources - both online and in person - which can help you towards a career in programming and web development.
