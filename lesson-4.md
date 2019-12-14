@@ -14,13 +14,23 @@ We'll work as a group to solve some more Khan Academy/Processing.js challenges. 
 
 We'll have a look at some of our favourite free resources - both online and in person - which can help you towards a career in programming and web development.
 
-- Codebar
+### Physical events
 - Coding "meetups"
-- [freecodecamp](https://www.freecodecamp.org/) and [the odin project](https://www.theodinproject.com/)
+    - [JavaScript meetups in London](https://www.meetup.com/topics/javascript/gb/17/london/).  Don't be scared of these, just go!  There is very often free pizza at these free evening events.
+    - [Learn to code meetups in London](https://www.meetup.com/topics/learn-to-code/gb/17/london/)
+- [Codebar](https://codebar.io/)
+### Online
+- [freecodecamp](https://www.freecodecamp.org/)
+- [the odin project](https://www.theodinproject.com/)
 - [Stack Overflow](https://stackoverflow.com/)
-- [Glitch](https://glitch.com/)
-- Youtube
+- Youtube: Some favourite channels of the recent graduates include [Traversy Media](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)  and [Wes Bos](https://www.youtube.com/user/wesbos).  
+    - Find the teaching and learning style you like, but...
+    - ...[be cautious that you are not following tutorials blindly](https://www.youtube.com/watch?v=g_aMpyMvQ9k)
 - [Free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#javascript)
+### Editors and hosting
+- [CodePen](https://codepen.io/)
+- [Glitch](https://glitch.com/)
+- [CodeSandbox.io](https://codesandbox.io/)
 
 ## Pairing session
 
