@@ -112,17 +112,8 @@ See google classroom for this week's homework.
 
 ## More Javascript Drawing and Animation after this course
 
-If you enjoyed using javascript to make drawings and animations, here are some resources I recommend for further study.
-
-#### Daniel Shiffman: "Code! Programming with p5.js"
-
-I recommend Daniel Shiffman's youtube course: ["Code! Programming with p5.js"](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA).  "p5.js" is another drawing library nearly identical to the "processing.js" library that you've been using in the Khan Academy course (except p5.js is more powerful and now much more widely used than processing.js).
-
-The above course introduces a website called "p5.js web editor" which allows you to quickly write your projects and test them out.  I happen to prefer a different website which does the same thing: https://www.openprocessing.org/
-
-One reason I like this site instead for p5.js work is that it has [a huge gallery of work by other artists](https://www.openprocessing.org/browse/), and you can see all of their code to learn from*!
-
-(* **Don't Panic!** Do not be worried when you find a project that looks amazing but then you look at the code and can't understand it - this is normal.  These projects can become VERY complex and the artists often aren't very concerned about how easy their code is to read.  And code reading is a skill you have to work on.  Take it slow.  Study simpler projects to start with.)
+If you enjoyed using javascript to make drawings and animations, I recommend further study and play with the p5.js library, using (for example) the [openprocessing](https://openprocessing.org) platform (or codepen)).
+I've a lot of [notes on moving to p5.js, here](./from-khan-academy-processingjs-to-p5js.md).
 
 ### Some places to get inspiration
 
