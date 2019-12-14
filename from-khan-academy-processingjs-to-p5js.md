@@ -57,6 +57,14 @@ One reason I like this site instead for p5.js work is that it has [a huge galler
 
 (* **Don't Panic!** Do not be worried when you find a project that looks amazing but then you look at the code and can't understand it - this is normal.  These projects can become VERY complex and the artists often aren't very concerned about how easy their code is to read.  And code reading is a skill you have to work on.  Take it slow.  Study simpler projects to start with.)
 
+## Other courses
+
+In addition to ["Code! Programming with p5.js"](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)...
+
+* The creators of processing have [a p5.js course on kadenze.com - "Introduction to Programming for the Visual Arts with p5.js"](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js-vi/info)
+* Joshua Davis has some courses on processing on skillshare, which is free for 2 months.
+[Programming Graphics I: Introduction to Generative Art](https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657).  This does *not* teach in javascript but in Processing, which uses the Java language instead.  However, if you LOVE the topic, you could skim these videos and still learn a lot.  Normally I would recommend getting strong in ONE language (JavaScript) for the first year or two of your programming journey.
+
 ## List of important differences between (khan academy) processing.js and p5.js
 
 ### You must always define the `draw()` function.
