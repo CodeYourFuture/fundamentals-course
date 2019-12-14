@@ -21,9 +21,10 @@ Instead of writing programs on the khan academy site, I suggest using the site [
 * p5.js has more and better documentation and tutorials
 * p5.js is more advanced and more powerful than processing.js.  You can make sketches that: 
     * process video from the webcam
-    * process audio from your microphone
+    * [process audio from your microphone](https://www.openprocessing.org/sketch/812282) - ([simplest example](https://www.openprocessing.org/sketch/812284/)).
     * load and show 3d models
-    * interact with all sorts of other javascript libraries
+    * interact with all sorts of other interesting javascript libraries
+        * random example: [p5.js pose-detection with using PoseNet](https://codepen.io/enz0/full/wvBzoMN)
 
 However, some of my favourite differences are very small.  Here's one:
 
