@@ -1,11 +1,12 @@
-## Questions from week 3 (neill's class)
+# Questions from week 3 (neill's class)
 
-Some VERY rough answers here.
+This is a rough resource for instructors.
 
-# Changing drawing size & position.
-Interested: Yusuf, Ryan, Sonj, Constantine
+Any question that the student raised at the start of the day went up on the whiteboard and was later transcribed here (Thanks Jon and Jacobo!).  Most were answered by volunteers in 1-to-1 discussion.
 
-Answered in class.
+I've added some VERY rough answers here.
+
+This may give us insight into what to cover in direct instruction and live-coding in subsequent runs of the course.
 
 # When and how to use functions
 Interested: R.M, Ajmal
@@ -20,7 +21,7 @@ You can read the first couple of paragraphs from some of these texts:
 * [javascript.info on functions](https://javascript.info/function-basics)
 * [Long MDN Article on Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions) * 
 
-# How to cover the sun with clouds
+# Very specific: How to cover the sun with clouds
 Interested: Tam, Hamid, S.C
 
 Very specific question hopefully answered 1-to-1 in class.
@@ -45,10 +46,10 @@ Interested: Cd, Tayfun
 * The official processing.js documentation for the most recent version is at http://processingjs.org/reference/
 * [Khan Academy also has processing.js reference documentation](https://www.khanacademy.org/computing/computer-programming/pjs-documentation) - this may differ from the above documentation, as khan academy doesn't use the latest version of processing.js (for the sake of course stability).
 
-# Nested loops - multiplication vs. increment
+# Very specific: Nested loops - multiplication vs. increment
 Interested: S.C, Hamid, Abdullah, Ajmal, R.M, (Illegible)
 
-# Changing animation speed for a single function
+# Very specific: Changing animation speed for a single function
 Interested: R.M, CoreA, S.C, Hamid, Ajmal
 
 If you want to make something move slower (or faster) change the size of increment that's being made to its position, rather than changing the rate of animation.
@@ -68,8 +69,16 @@ var draw = function(){
 
 The `%` is called the [**remainder** operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Remainder).  (Many call it the **modulo** operator.)  `frameCount % 3` will be 0 when frameCount is 0, 3, 6, 9, 12, ... etc, and false the other times.  Here's [a video tutorial about the % operator](https://www.youtube.com/watch?v=r5Iy3v1co0A) in a creative coding context.
 
-# Making groups of shapes - resize
+
+# Changing (animating) drawing size & position.
+Interested: Yusuf, Ryan, Sonj, Constantine
+
+Answered in class.  The game loop & updating a global variable.
+
+# Making groups of shapes resize
+
 Interested: -
+
 The best way to do this is to use [`scale()`](http://processingjs.org/reference/scale_/) along with `translate()`.  It takes a while to learn it, however.  [Here's khan academy's discussion of scale()](https://www.khanacademy.org/computer-programming/scalex-y/6712922034143232).
 
 # Background image upload?
@@ -93,6 +102,8 @@ Interested: Tayfun
 
 # Fill in a shape incrementally
 Interested: -
+
+(I don't know what this is.)
 
 # When do we need the draw function?
 Interested: Kyaw, Tam, Sonj
