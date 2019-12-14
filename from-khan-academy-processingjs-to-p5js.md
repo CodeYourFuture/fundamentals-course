@@ -25,12 +25,15 @@ Instead of writing programs on the khan academy site, I suggest using the site [
     * load and show 3d models
     * interact with all sorts of other interesting javascript libraries
         * random example: [p5.js pose-detection with using PoseNet](https://codepen.io/enz0/full/wvBzoMN)
+* You can use *modern* javascript language features, which is much nicer.
 
-However, some of my favourite differences are very small.  Here's one:
+However, some of my favourite differences are very, very small.  Here's one:
 
 #### pick one element at random from an array
 
 If you have an array, you can pick one element of it at random, simply by passing the array as a parameter to the `random()` function.
+
+Example:
 
 ```
 //(inside your draw() function...)
@@ -44,7 +47,7 @@ var chosenWord = random(words);
 text(chosenWord, 100, 100);
 ```
 
-## Best place to learn: Daniel Shiffman: "Code! Programming with p5.js"
+## Best place to learn p5.js: Daniel Shiffman: "Code! Programming with p5.js"
 
 I recommend Daniel Shiffman's youtube course: ["Code! Programming with p5.js"](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA).  "p5.js" is another drawing library nearly identical to the "processing.js" library that you've been using in the Khan Academy course (except p5.js is more powerful and now much more widely used than processing.js).
 
@@ -76,7 +79,7 @@ In addition to ["Code! Programming with p5.js"](https://www.youtube.com/playlist
 It will be called before the first call to your `draw()` function.
 
 
-### If you don't want animation, you must call noLoop()
+### If you *don't* want animation, you must call noLoop()
 
 Unlike khan academy's processing.js, you must always define a draw() function, even if you don't want animation.  
 `noLoop()` and `loop()` can be used to prevent or enable animation by repeated calls to the `draw()` function.  The default is to animate.
@@ -92,15 +95,13 @@ var draw = function(){
 }
 ```
 
-### You can't call processing functions at the top level
+### You can't call processing.js functions at the top level
 
-You can't call functions like `random()`, `fill()`, `color()`, `rect()` at the top-level (i.e.) outside of the p5.js functions such `setup()`, `draw()`, `mousePressed()`, etc.
+You can't call functions like `random()`, `fill()`, `color()`, `rect()` at the top-level (i.e.) outside of the p5.js functions such `setup()`, `draw()`, `mousePressed()`, etc.  
 
-If you try to do this, you'll get an error 
+If you try to do this, you'll get an error such as `Uncaught ReferenceError: random is not defined`
 
-`Uncaught ReferenceError: random is not defined`
-
-The editor at openprocessing.org is kind enough to add the following advice:  `Did you just try to use p5.js's random() function? If so, you may want to move it into your sketch's setup() function.`
+The editor at openprocessing.org is kind enough to add the following good advice - read your error messages!:  `Did you just try to use p5.js's random() function? If so, you may want to move it into your sketch's setup() function.`
 
 
 ### Global variables must be initialised in `setup()`, if they need p5.js functions
@@ -128,18 +129,16 @@ var draw = function(){
 };
 ```
 
-
-
 ### The default canvas is only 100, 100...
 
-...but you can make it bigger using `createCanvas()` in `setup()`
+however, you can make it bigger calling `createCanvas()` in `setup()`
 
-[Live Demo of specifying canvas size]()
 ```
 var setup = function(){
     createCanvas(windowWidth, windowHeight);
 }
 ```
+[Live Demo of specifying canvas size](https://www.openprocessing.org/sketch/create)
 
 p5.js provides global variables `windowWidth` and `windowHeight`, AND `width` and `height` which will hold the size of the canvas.
 
