@@ -27,5 +27,5 @@ Here is a list of the main concepts we cover in the intro to programming course,
 | __Data Types__ | No                       | Partially                   |
 | __Arrays and Objects__                    |No                        |Yes                          |
 | | | |
-| __Event handlers__ | Yes ["When up pressed"](https://studio.code.org/s/course3/stage/15/puzzle/8?section_id=2217957) | |
+| __Event handlers__ | Yes ["When up pressed"](https://studio.code.org/s/course3/stage/15/puzzle/8?section_id=2217957) | Yes `mouseClicked()` function|
 | | | |
