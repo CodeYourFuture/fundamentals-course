@@ -1,7 +1,4 @@
-# WARNING: This content is a work-in-progress and MAY CHANGE
-
 # Intro to Programming 4
-
 
 ## Warm up game
 
