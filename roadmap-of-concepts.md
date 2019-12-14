@@ -22,7 +22,7 @@ Here is a list of the main concepts we cover in the intro to programming course,
 | Defining your own functions           | Yes [e.g. "get 7 make 7"](https://studio.code.org/s/course3/stage/6/puzzle/8?section_id=2217957)                     | Yes                          |
 | returning information from a function | No | |
 | | | |
-| __Variables__ | Not much. [set color red](https://studio.code.org/s/course3/stage/3/puzzle/4?section_id=2217957) | |
+| __Variables__ | Not much. [set color red](https://studio.code.org/s/course3/stage/3/puzzle/4?section_id=2217957) | Yes.  `var xPos = 200;  xPos++;` |
 | | | |
 | __Data Types__ | No                       | Partially                   |
 | __Arrays and Objects__                    |No                        |Yes                          |
