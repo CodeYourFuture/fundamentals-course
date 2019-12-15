@@ -139,6 +139,10 @@ We'll have a look at some of our favourite free resources - both online and in p
 - [CodeSandbox.io](https://codesandbox.io/)
 - [repl.it](https://repl.it/)
 
+### Program stepped visualisation
+
+- [pythontutor.com](http://pythontutor.com/javascript.html) - it does javascript, too.
+
 ## Homework
 
 Know what homework you have.  See google classroom for this week's.  Check it every couple of days.
