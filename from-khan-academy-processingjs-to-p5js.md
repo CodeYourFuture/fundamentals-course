@@ -71,11 +71,6 @@ In addition to ["Code! Programming with p5.js"](https://www.youtube.com/playlist
 
 * If you want to stick with processing.js and Khan Academy longer, there is [Advanced JS: Games and Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations).  I haven't worked through this course, yet.
 
-# Other migration guides
-
-* If you want to stick with processing.js, Khan Academy have [this guide to using processingjs outside khan academy](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations/advanced-development-tools/a/using-processingjs-outside-khan-academy)
-
-
 # Differences between (khan academy) processing.js and p5.js
 
 ### You must always define the `draw()` function.
@@ -154,3 +149,8 @@ p5.js provides global variables `windowWidth` and `windowHeight`, AND `width` an
 
 * The documentation is at https://p5js.org/reference/
 * Each function has multiple examples of how it can be used.
+
+
+# Other migration guides
+
+* If you want to stick with processing.js, Khan Academy have [this guide to using processingjs outside khan academy](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations/advanced-development-tools/a/using-processingjs-outside-khan-academy)
