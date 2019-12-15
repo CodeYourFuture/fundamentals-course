@@ -1,6 +1,6 @@
-# Getting to know p5.js and openprocessing.org (very quickly)
+# (Rough) workshop outline - migrating to p5.js and openprocessing.org
 
-Bookmark [neill's longer notes on migrating from khan academy's processing.js to p5.js](from-khan-academy-processingjs-to-p5js.md).  You can read them at home.
+Bookmark [Neill's longer notes on migrating from khan academy's processing.js to p5.js](from-khan-academy-processingjs-to-p5js.md).  You can read them at home.
 
 Make an account on [openprocessing.org](https://openprocessing.org)
 
