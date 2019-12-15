@@ -23,20 +23,37 @@ to each object add more properties:
 
 Go back to your [https://www.khanacademy.org/computing/computer-programming/programming/functions/pp/project-fish-tank](fishtank project), and make a spin-off.
 
-In the spin-off, change your code so that each fish is represented by an object, with:
+In the spin-off, change your code so that each fish is represented by an object
+
+fish objects have these properties
 * `x`, 
 * `y`, 
 * `speed`, 
 * `colour`, and perhaps 
-* `size` properties.
+* `size`.
 
-Add bubbles to your fishtank (if you have not, already), and make these objects, too, having `x`, `y`, and perhaps `size` properties.
+*Add bubbles* (if you have not, already):
+
+Make these bubbles objects, too, with these properties:
+* `x`, 
+* `y`, 
+* `size`
+* `speed` (if you want some to move at different speeds)
+
+Add a pebble sea-bed
+
+Add *seaweed*:
+* random x pos, fixed y pos
+* random height
+* random color *variation*
 
 ### Advanced - clickable bubbles
 
 Make each bubble clickable - when you click it it changes in colour.  To track which bubbles have been clicked, you should add a `clicked` property to each bubble object.
 
 Use the function `dist(x1, x2, x2, y2)` to find the distance between two points.
+
+### Advanced - have fish swimming the other way.
 
 # Challenge: many snowmen, with objects!
 
