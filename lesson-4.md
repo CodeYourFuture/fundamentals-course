@@ -58,9 +58,19 @@ Certainly they'll ask you to contribute suggestions for possible solutions - spe
 
 *Tip*: Help us: A quiet class with no questions or suggestions is a difficult class for a volunteer to teach
 
-## Khan Academy Projects
+## Work on Khan Academy Projects
 
-The Khan Academy course includes some _projects_. Pick your 2 favourite projects and think about how you would improve them. Maybe you want to add more food to the dinner plate. We'll be working in groups to help make those changes together. The teaching assistants will also be available to help your group if you're stuck.
+As last week, pick a favourite Khan Academy project and think about how you would improve it. 
+
+We'll be working in small groups to help make those changes together. 
+
+The teaching assistants will also be available to help your group if you're stuck.
+
+### Extra challenges with arrays and objects
+
+If you have finished all of the Khan Academy projects up to and including arrays and objects, [here is a list of further  challenges](post-khan-academy-challenges.md).  
+
+These mostly challenge you to return to an earlier project and make a spin-off which uses objects and/or arrays to make it better, cleaner, and to make it easier for you to do cooler things!
 
 ### Pair-programming (2 students)
 
@@ -73,16 +83,34 @@ mentor notes:
 * volunteers to call out to switch navigator and driver roles every 10 minutes loosely
 * don't run the session too long.  stressful for some.
 
-## Zombies, plants, fishtanks, draw() function... How is all this relevant in the real world?
+# After lunch
 
-Believe it or not, you've been learning the basics of programming, relevant to a whole range of coding jobs. We'll look at specific elements you've learned about and how they're relevant elsewhere.
+## Pairing session with an instructor
+
+Each student will have a pairing session with one of the instructors to solve a programming problem using JavaScript in CodePen.
+
+## Continue working on khan academy projects
+
+sometimes individually
+
+sometimes in pairs
+
+sometimes with the teacher, live coding
+
+## Retro: Zombies, plants, fishtanks, draw() function... How is all this relevant in the real world?
+
+Let's do the first Kahoot again.  (Instructor's note: [run quiz here](https://play.kahoot.it/v2/?quizId=62bd599b-af55-41c3-b335-c28c9060c023))
 
 Look back at the [roadmap](roadmap-of-concepts.md)
 
-#### JavaScript differences
+Believe it or not, you've been learning the basics of programming, relevant to a whole range of coding jobs. We'll look at specific elements you've learned about and how they're relevant elsewhere.
 
-* let and const instead of var
+Outside of the Khan Academy course, you'll see some differences in JavaScript:
+
+* `let` and `const` used instead of var
 * functions can be created many ways (khan academy way is uncommon)
+* more features to learn about
+* ...
 
 ## Other free resources
 
@@ -93,6 +121,7 @@ We'll have a look at some of our favourite free resources - both online and in p
     - [JavaScript meetups in London](https://www.meetup.com/topics/javascript/gb/17/london/).  Don't be scared of these, just go!  There is very often free pizza at these free evening events.
     - [Learn to code meetups in London](https://www.meetup.com/topics/learn-to-code/gb/17/london/)
 - [Codebar](https://codebar.io/)
+
 ### Online
 - [freecodecamp](https://www.freecodecamp.org/)
 - [the odin project](https://www.theodinproject.com/)
@@ -101,24 +130,22 @@ We'll have a look at some of our favourite free resources - both online and in p
     - Find the teaching and learning style you like, but...
     - ...[be cautious that you are not following tutorials blindly](https://www.youtube.com/watch?v=g_aMpyMvQ9k)
 - [Free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#javascript)
+
 ### Editors and hosting
 - [CodePen](https://codepen.io/)
 - [Glitch](https://glitch.com/)
 - [CodeSandbox.io](https://codesandbox.io/)
-
-## Pairing session with an instructor
-
-Each student will have a pairing session with one of the instructors to solve a programming problem using JavaScript in CodePen.
+- [repl.it](https://repl.it/)
 
 ## Homework
 
-See google classroom for this week's homework.
+Know what homework you have.  See google classroom for this week's.  Check it every couple of days.
 
-## More Javascript Drawing and Animation after this course
+## Continuing with Javascript Drawing and Animation after this course
 
 If you enjoyed using javascript to make drawings and animations, I recommend further study and play with the p5.js library, using (for example) the [openprocessing](https://openprocessing.org) platform (or codepen)).
 
-I've a lot of [notes on moving to p5.js, here](./from-khan-academy-processingjs-to-p5js.md).
+I have a lot of [notes on moving to p5.js, here](./from-khan-academy-processingjs-to-p5js.md).
 
 Also, we may have time to do [a short (sub-30 minute) workshop moving to p5.js](p5js-and-openprocessing-workshop.md).
 
