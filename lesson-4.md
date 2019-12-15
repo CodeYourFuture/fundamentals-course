@@ -16,6 +16,8 @@ During the break we'd also like you to add your initials next to the questions t
 
 Mentor notes: have a volunteer write up the questions (e.g. as https://gist.github.com/) and share.
 
+[Questions from last week, with answers](questions-week3-neill.md)
+
 ## Present your favourite project to your classmates
 
 You will give a very, very simple 2 minute presentation to 2 or 3 other students and a volunteer (if one is available).
