@@ -76,7 +76,7 @@ In addition to ["Code! Programming with p5.js"](https://www.youtube.com/playlist
 * If you want to stick with processing.js, Khan Academy have [this guide to using processingjs outside khan academy](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations/advanced-development-tools/a/using-processingjs-outside-khan-academy)
 
 
-## List of important differences between (khan academy) processing.js and p5.js
+# Differences between (khan academy) processing.js and p5.js
 
 ### You must always define the `draw()` function.
 * The draw() function is not optional.
