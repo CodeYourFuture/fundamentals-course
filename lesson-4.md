@@ -117,7 +117,10 @@ See google classroom for this week's homework.
 ## More Javascript Drawing and Animation after this course
 
 If you enjoyed using javascript to make drawings and animations, I recommend further study and play with the p5.js library, using (for example) the [openprocessing](https://openprocessing.org) platform (or codepen)).
+
 I've a lot of [notes on moving to p5.js, here](./from-khan-academy-processingjs-to-p5js.md).
+
+Also, we may have time to do [a short (sub-30 minute) workshop moving to p5.js](p5js-and-openprocessing-workshop.md).
 
 ### Some places to get inspiration
 
