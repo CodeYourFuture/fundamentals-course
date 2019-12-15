@@ -60,7 +60,7 @@ Check out some examples - each function has multiple examples of how it can be u
 
 Create a new sketch, and bring your favourite project across from khan academy.  
 
-You will need to consider [these notes about migrating from khan academy processing.js to p5.js](from-khan-academy-processingjs-to-p5js.md)
+You will need to consider [these notes about migrating from khan academy processing.js to p5.js](from-khan-academy-processingjs-to-p5js.md#differences-between-khan-academy-processingjs-and-p5js)
 
 
 # Other starting points
