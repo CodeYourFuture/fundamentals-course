@@ -10,5 +10,6 @@
   * [Tips for the course](tips-for-success.md)
   * [Roadmap of concepts](roadmap-of-concepts.md)
   * [More exercises with objects and arrays](post-khan-academy-challenges.md)
-  * After the course: [Migrating from processing.js to p5.js](from-khan-academy-processingjs-to-p5js.md)
+  * [Workshop on migrating to p5.js](p5js-and-openprocessing-workshop.md)
+  * After the course: [Notes on migrating from processing.js to p5.js](from-khan-academy-processingjs-to-p5js.md)
   
