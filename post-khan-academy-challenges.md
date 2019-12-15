@@ -76,3 +76,12 @@ Go back to the ["shooting stars" project](https://www.khanacademy.org/computing/
 * If you didn't already add some buildings for a skyline, do so now.
 * Each building should be an object with x, y, and height.
 * You don't need to draw the windows if you haven't already done that.
+
+
+# p5.js Challenge - font outline
+
+(If you've seen p5.js and openprocessing before)
+
+* Fork (spin-off) [this "font as dots" challenge project](https://www.openprocessing.org/sketch/812356)
+* Read the code comments for details
+* Essentially, you are provided with an array of points on the outline of some text, and you must draw a circle at each point.
