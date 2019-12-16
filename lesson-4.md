@@ -117,6 +117,10 @@ We'll have a look at some of our favourite free resources - both online and in p
 - [Free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#javascript)
 - [Stack Overflow](https://stackoverflow.com/)
 
+### Podcasts
+
+- [CodeNewbie](https://www.codenewbie.org/podcast)
+
 ### Editors and hosting
 
 - [CodePen](https://codepen.io/)
