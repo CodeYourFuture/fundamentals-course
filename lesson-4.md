@@ -50,58 +50,40 @@ If you have other more advanced questions that aren't blocking you, please don't
 
 We'll work as a group to solve some more Khan Academy/Processing.js challenges and to answer some common questions and difficulties. 
 
-The developer volunteers will talk about how they think about the problem while solving it and show the rest of the class.
+The teachers will talk about how they think about the problem while solving it and show the rest of the class. Can you spot the teacher's coding mistakes before they do?
 
-Can you spot the teacher's coding mistakes before they do?
+You might be asked to do some of the coding for the class, please contribute and don't worry about mistakes, they are normal! Certainly the teachers will ask you to contribute suggestions for possible solutions - speak up, that is how you help the teacher. There is no one correct way.
 
-They might ask you to do some of the coding for the class, please contribute and don't worry about mistakes, they are normal!
+*Tip*: Help us: A quiet class with no questions or suggestions is a difficult class for a volunteer to teach.
 
-Certainly they'll ask you to contribute suggestions for possible solutions - speak up, that is how you help the teacher.  There is no one correct way.
+## Improve your Khan Academy Projects with Arrays and Objects
 
-*Tip*: Help us: A quiet class with no questions or suggestions is a difficult class for a volunteer to teach
+As last week, pick a favourite Khan Academy project and think about how you would improve it.
 
-## Work on Khan Academy Projects
-
-As last week, pick a favourite Khan Academy project and think about how you would improve it. 
-
-We'll be working in small groups to help make those changes together. 
-
-The teaching assistants will also be available to help your group if you're stuck.
-
-### Extra challenges with arrays and objects
-
-If you have finished all of the Khan Academy projects up to and including arrays and objects, [here is a list of further  challenges](post-khan-academy-challenges.md).  
+If you have finished all of the Khan Academy projects up to and including arrays and objects, [here is a list of further challenges](post-khan-academy-challenges.md).  
 
 These mostly challenge you to return to an earlier project and make a spin-off which uses objects and/or arrays to make it better, cleaner, and to make it easier for you to do cooler things!
 
+We'll be working in small groups or pairs to help make those changes together. The teaching assistants will also be available to help your group if you're stuck.
+
 ### Pair-programming (2 students)
 
-It's good to code with a friend.  You learn SO much.  Many professional teams program in pairs for a part of each day.
+It's good to code with a friend. You learn **so** much. Many professional teams program in pairs for a part of each day.
 
-See lesson-3 for introduction and guidance on pair programming.
+See [lesson 3](lesson-3.md#pair-programming-2-students) for introduction and guidance on pair programming.
 
-mentor notes:
+Volunteer notes:
 
-* volunteers to call out to switch navigator and driver roles every 10 minutes loosely
-* don't run the session too long.  stressful for some.
+* Volunteers to call out to switch navigator and driver roles every 10 minutes loosely
+* Don't run the session too long. Stressful for some.
 
-# After lunch
+### Pairing session with an instructor
 
-## Pairing session with an instructor
+Each student will have a pairing session with one of the instructors to solve a programming problem together.
 
-Each student will have a pairing session with one of the instructors to solve a programming problem using JavaScript in CodePen.
+## Retro: Zombies, plants, fish tanks, draw() function... How is all this relevant in the real world?
 
-## Continue working on khan academy projects
-
-sometimes individually
-
-sometimes in pairs
-
-sometimes with the teacher, live coding
-
-## Retro: Zombies, plants, fishtanks, draw() function... How is all this relevant in the real world?
-
-Let's do the first Kahoot again.  (Instructor's note: [run quiz here](https://play.kahoot.it/v2/?quizId=62bd599b-af55-41c3-b335-c28c9060c023))
+Let's do the first Kahoot again. (Instructor's note: [run quiz here](https://play.kahoot.it/v2/?quizId=62bd599b-af55-41c3-b335-c28c9060c023))
 
 Look back at the [roadmap](roadmap-of-concepts.md)
 
@@ -118,22 +100,25 @@ Outside of the Khan Academy course, you'll see some differences in JavaScript:
 
 We'll have a look at some of our favourite free resources - both online and in person - which can help you towards a career in programming and web development.
 
-### Physical events
+### In-person events
+
 - Coding "meetups"
-    - [JavaScript meetups in London](https://www.meetup.com/topics/javascript/gb/17/london/).  Don't be scared of these, just go!  There is very often free pizza at these free evening events.
+    - [JavaScript meetups in London](https://www.meetup.com/topics/javascript/gb/17/london/). Don't be scared of these, just go! There is very often free pizza at these free evening events.
     - [Learn to code meetups in London](https://www.meetup.com/topics/learn-to-code/gb/17/london/)
 - [Codebar](https://codebar.io/)
 
 ### Online
+
 - [freecodecamp](https://www.freecodecamp.org/)
-- [the odin project](https://www.theodinproject.com/)
-- [Stack Overflow](https://stackoverflow.com/)
+- [The Odin Project](https://www.theodinproject.com/)
 - Youtube: Some favourite channels of the recent graduates include [Traversy Media](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)  and [Wes Bos](https://www.youtube.com/user/wesbos).  
     - Find the teaching and learning style you like, but...
     - ...[be cautious that you are not following tutorials blindly](https://www.youtube.com/watch?v=g_aMpyMvQ9k)
 - [Free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#javascript)
+- [Stack Overflow](https://stackoverflow.com/)
 
 ### Editors and hosting
+
 - [CodePen](https://codepen.io/)
 - [Glitch](https://glitch.com/)
 - [CodeSandbox.io](https://codesandbox.io/)
@@ -147,18 +132,22 @@ We'll have a look at some of our favourite free resources - both online and in p
 
 Know what homework you have.  See google classroom for this week's.  Check it every couple of days.
 
-## Continuing with Javascript Drawing and Animation after this course
+## Continuing with JavaScript Drawing and Animation after this course
 
-If you enjoyed using javascript to make drawings and animations, I recommend further study and play with the p5.js library, using (for example) the [openprocessing](https://openprocessing.org) platform (or codepen)).
+If you enjoyed using JavaScript to make drawings and animations, I recommend further study and play with the p5.js library, using (for example) the [openprocessing](https://openprocessing.org) platform (or codepen)).
 
 I have a lot of [notes on moving to p5.js, here](./from-khan-academy-processingjs-to-p5js.md).
 
 Also, we may have time to do [a short (sub-30 minute) workshop moving to p5.js](p5js-and-openprocessing-workshop.md).
 
-### Some places to get inspiration
+### Some places to get inspiration with p5.js
 
-Here is an essay I like by Jason Bailey about "generative art".  It has lots of interesting examples which might inspire you:
+Here is an essay I like by Jason Bailey about "generative art". It has lots of interesting examples which might inspire you:
 * ["Why Love Generative Art?"](https://www.artnome.com/news/2018/8/8/why-love-generative-art)
 
-
 ## End with a game or two
+
+Suggestions:
+
+- More zip-zap-bong
+- Happy Salmon
