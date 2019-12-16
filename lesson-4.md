@@ -149,6 +149,8 @@ Also, we may have time to do [a short (sub-30 minute) workshop moving to p5.js](
 Here is an essay I like by Jason Bailey about "generative art". It has lots of interesting examples which might inspire you:
 * ["Why Love Generative Art?"](https://www.artnome.com/news/2018/8/8/why-love-generative-art)
 
+If you use twitter, here is an artist I like: https://twitter.com/manoloidee
+
 ## End with a game or two
 
 Suggestions:
