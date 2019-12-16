@@ -77,7 +77,7 @@ Volunteer notes:
 * Volunteers to call out to switch navigator and driver roles every 10 minutes loosely
 * Don't run the session too long. Stressful for some.
 
-### Pairing session with an instructor
+## Pairing session with an instructor
 
 Each student will have a pairing session with one of the instructors to solve a programming problem together.
 
