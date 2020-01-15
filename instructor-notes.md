@@ -63,12 +63,6 @@ A volunteer should be assigned to sit down with 1 student at a time to "pair" on
 - [Feedback form (for volunteer)](https://docs.google.com/forms/d/e/1FAIpQLSf5RN_jYq6Jvh4LdDdjuNL3TyUOcwncSpikTr-WVbBkm3JBCQ/viewform)
 - [Edit the form (for instructors)](https://docs.google.com/forms/d/15UtSv_A089jYxdZ7Guusf440FtckUaPLHvJAfv4dOY0/edit)
 
-#### Code.org - line of boxes
-- [Task description (for students)](https://github.com/CodeYourFuture/intro-to-programming-assessments/tree/master/codeorg_line_of_boxes/assessment_task.md)
-- [Mentor notes (for volunteer)](https://github.com/CodeYourFuture/intro-to-programming-assessments/tree/master/codeorg_line_of_boxes/mentor_notes.md)
-- TODO [Feedback form (for volunteer)](TODO)
-- TODO [Edit the form (for instructors)](TODO)
-
 **Khan Academy**
 
 - [Readme page (for instructors)](https://github.com/CodeYourFuture/intro-to-programming-assessments/tree/master/khan_academy_cars)
