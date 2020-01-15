@@ -1,7 +1,3 @@
----
-description: Welcome to CYF's Intro To Programming module
----
-
 # CYF Intro To Programming
 
 This is the syllabus for Code Your Future's Intro To Programming module. During the module you will get a gentle introduction to what programming is, why we want to learn and how to start learning.
