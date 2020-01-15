@@ -1,6 +1,6 @@
 # Table of contents
 
-* [CYF Intro To Programming](README.md)
+* [Introduction](README.md)
 * [About This Course](about-this-course.md)
 * Lessons
   * [Lesson 1](lesson-1.md)
