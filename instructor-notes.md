@@ -1,23 +1,25 @@
 # Instructor Notes
 
-Notes for the instructors of this module.
-
+Notes for the instructors of this course.
 
 ## Equipment for running the course
 
-* wifi
-* screencasting - some set-up for presenting and live coding
-* spare laptops
-* extra extension blocks
-* spare headphones (week 2 onwards - video courses)
-* stickers for name tag
-* Clipboards (attendance)
-* attendance sheets
-* extra airtame or chromecast in case we want to present in two rooms
-* Post-its
+* Wifi
+* Screencasting
+  * Some set-up for presenting your screen and live coding
+  * Bring a spare if there's space for 2 rooms
+  * A good, cheap solution is a Chromecast
+* Power extensions/strips
+  * Student laptops tend to have poor battery life
+* Spare headphones
+  * Useful video courses for week 2 onwards
+* Blank stickers for name tags
+* Attendance sheets
+  * Clipboard might be useful too
 * Whiteboard markers
-* A4 scrap paper
-* spare biros
+* Post-its
+* Paper/pens for making notes
+* Spare laptops
 
 ## Assessments
 
@@ -25,11 +27,11 @@ Several assessments have been designed for this module. They should be completed
 
 ### Misc feedback from any volunteer
 
-* Even for small but significant interactions, volunteers should be encouraged to fill out [this feedback form](https://forms.gle/GgpFkgKCRPVtTtrJ7).  It's fine to skip bits of it - there's a free text section at the end.
-* for form administrators, that's [here](https://docs.google.com/forms/d/13F6J1HiBvmxZy-cSrgDwVxpVAZPdjU3Rv2wsXIpmo_M/edit)
+* Even for small but significant interactions, volunteers should be encouraged to fill out [this feedback form](https://forms.gle/GgpFkgKCRPVtTtrJ7). It's fine to skip bits of it - there's a free text section at the end.
+* For form administrators, that's [here](https://docs.google.com/forms/d/13F6J1HiBvmxZy-cSrgDwVxpVAZPdjU3Rv2wsXIpmo_M/edit)
 
 
-### 10 minute assessments
+### 10 minute formative assessments
 
 The goal of these assessments is to assess how well the material is being taught. Based on the results of the assessment, the instructors can decide whether some subjects need to be revisited. Consider whether they could be approached in a different way.
 
@@ -66,7 +68,6 @@ A volunteer should be assigned to sit down with 1 student at a time to "pair" on
 - [Mentor notes (for volunteer)](https://github.com/CodeYourFuture/intro-to-programming-assessments/tree/master/codeorg_line_of_boxes/mentor_notes.md)
 - TODO [Feedback form (for volunteer)](TODO)
 - TODO [Edit the form (for instructors)](TODO)
-
 
 **Khan Academy**
 
