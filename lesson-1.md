@@ -4,8 +4,6 @@
 
 Welcome to Code Your Future and to the world of programming! Now that you have built a website in CodePen, we'll look at how the basics of how programming works, start writing our own programs and we'll also look at what you can make with programming and what kind of jobs are available to programmers.
 
-[More about this course](about-this-course.md)
-
 ## Introduction to Code Your Future
 
 Before we get started with programming we want to learn a bit about you, and you can learn a bit about us.
@@ -26,33 +24,31 @@ Link to the presentation slides: [https://docs.google.com/presentation/d/1XVVq6a
 
 ## What level is the class starting at?
 
-If you've never programmed before, don't worry - you're definitely on the right course!  
+If you've never programmed before, don't worry - you're definitely on the right course!
 
 We'll do a 5-minute quiz to help us find out the class's level, using the fun app called ["Kahoot"](https://kahoot.it/).
 
-To prepare, please either install the kahoot app on your phone or just visit https://kahoot.it/ on your laptop.
+## Software Setup
 
-# Software setup
+### Slack
 
-## Slack
+1. Install Slack on your laptop (and phone, if possible)
+2. Log in to the [Code Your Future Applicants workspace](https://cyf-applicants.slack.com/)
 
-1) Install Slack on your laptop (and phone, if possible)
-2) Log in to the Applicants workspace
-3) Practice making a Slack call with a few classmates, including screencasting.
+### The Golden rule of video calls on Slack & Google Meet
 
-The *Golden rule of calls on Slack*:
-* Whenever you are not talking, your microphone should be muted!
+Whenever you are not talking, your microphone should be muted! This prevents distracting noise for the other participants.
 
-## Google Classroom
+### Google Classroom
 
 To keep track of what homework you need to do and what you have completed we use Google Classroom. To set up your account:
 
 1. Go to [classroom.google.com](https://classroom.google.com)
 2. Log in to (or create) your Google account
 3. Click the "+" button in the top right, then "Join class"
-4. Paste in this classroom code: `06fypk3` and click "Join"
+4. Paste in this classroom code that your instructor gives you and click "Join"
 
-### Submitting homework on google classroom
+#### Submitting homework on Google Classroom
 
 Once you have joined the class, click the "Classwork" button at the top. You will see the list of Week 1 homework. To submit homework:
 
@@ -61,31 +57,30 @@ Once you have joined the class, click the "Classwork" button at the top. You wil
 3. Click the "Add or Create" button on the right hand side
 4. Here you can provide a link to homework that you have completed, or upload a file
 
-Go ahead and submit the first assignment now, "first assignment: what's your favourite music?", so that we can see google classroom is working for you!
+Go ahead and submit the first assignment now, "first assignment: what's your favourite music?", so that we can see Google Classroom is working for you!
 
 ## Tips for success
 
-[We have a list of some tips for success on the course](./tips-for-success.md).  We'll discuss some of these next week, and add to these as we progress.
+[Here is a list of some tips for success on the course](./tips-for-success.md). We'll discuss some of these next week, and add to these as we progress.
 
-At this point, make sure you understand the first tip - "don't hide when you don't know".
+Make sure you understand the first tip now ("don't hide when you don't know"). If you have questions, let the volunteers know.
 
 ## Homework
 
 As part of your learning journey with CYF you will be expected to work at home on projects that we set for you. This will help you practice what you learn on Sundays and get prepared for next week.
 
-You will always be able to see a list of your homework assignments on google classroom.
+You will always be able to see a list of your homework assignments on Google Classroom.
 
-For your first week of homework you will mostly be 
+For your first week of homework you will mostly be:
+
 * working on a introduction to programming course and 
 * preparing a very short presentation for the rest of the class
-
-Here is more detail
 
 ### Code.org Course 3
 
 [Code.org](https://code.org) is a website which teaches beginners how to code and gives them lots of practice.
 
-It uses block-based coding (we'll start JavaScript next week).  Don't be put off by the simplicity - even top universities teach block-based coding (e.g., Berkeley, Harvard).
+It uses block-based coding (we'll start JavaScript next week). Don't be put off by the simplicity - even top universities teach block-based coding (e.g. Berkeley & Harvard).
 
 We will be completing the course called "Course 3". 
 
@@ -93,18 +88,22 @@ To get set up, follow these instructions:
 
 1. [Click here](https://studio.code.org/join/YCGHSP) to join the CYF class on code.org.  This will prompt you to make an account.
 2. Once you've registered and joined the class this way, you should be taken to an overview of [course 3](https://studio.code.org/s/course3).
-3. Start by clicking on [item 1 from lesson "2. Maze"](https://studio.code.org/s/course3/stage/2/puzzle/1).  (Yes, you should skip lesson 1.)
-4. Read the instructions carefully and try to complete all stages of ALL lessons **EXCEPT** the ones below:
+3. Start by clicking on [item 1 from lesson "2. Maze"](https://studio.code.org/s/course3/stage/2/puzzle/1).  (Yes, you should skip lesson 1). Let the instructors know if you get stuck - it will be harder for us to help when you're at home
+4. Read the instructions carefully and try to complete all stages of ALL lessons **EXCEPT** the ones below
 
-Lessons to **SKIP**:
-* 1,
-* 4,
-* 9, 10,
-* 18, 19, 20
+**SKIP** all of the lessons starting with these numbers:
 
-Once you're finished, press submit in google classroom, and please add a comment mentioning your code.org username.
+* 1
+* 4
+* 9
+* 10
+* 18
+* 19
+* 20
 
-There will be some time in class to start the first exercises.  Let the instructors know if you get stuck.
+(All of the lessons starting with "Unplugged Activity")
+
+Once you're finished, press submit in Google Classroom, and please add a comment mentioning your Code.org username.
 
 ### Prepare a presentation for the next class
 
