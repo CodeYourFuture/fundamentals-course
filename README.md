@@ -13,3 +13,5 @@ The module will last 4 weeks. For each week, there is a web page which you can a
 ## Classes
 
 Classes will take place every Sunday and will *usually* start at 11:30am and should finish at around 5:30pm, but look out for time changes in emails and on Slack.
+
+Please arrive on time so that we can finish on time.
