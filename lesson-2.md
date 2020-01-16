@@ -4,7 +4,7 @@
 
 Problem solving is a critical skill for programmers, including for experts. Often programmers spend most of their day solving problems in their code. Learning how to solve problems efficiently is an extremely useful skill.
 
-To help develop your problem solving skills, Ben & Melissa from the Honeycomb Works have put together a fun game to work in groups on. Then they will give [a presentation](https://docs.google.com/presentation/d/1XzLUVxfiJE2llWTWn7Rf5T0cutcL9HCBwd09GBCzv_4/) about improving your problem solving.
+To help develop your problem solving skills, we'll play a fun game in small groups. Followed by a short [presentation](https://docs.google.com/presentation/d/1XzLUVxfiJE2llWTWn7Rf5T0cutcL9HCBwd09GBCzv_4/) about improving your problem solving.
 
 ## Homework presentation
 
@@ -47,11 +47,7 @@ There will be some time in class to start the first exercises. Let the instructo
 
 #### No headphones? Read the subtitles or video transcript
 
-If you do not have headphones to watch the videos you can click in the video window on cc (subtitles/closed captions), or underneath the video on `Transcript`.
-
-#### Note to instructors: propagation delay on student progress 
-
-In my experience, student progress often won't be updated on your dashboard until as much as 5-10 minutes have passed.
+If you do not have headphones to watch the videos you can click on "CC" (subtitles/closed captions) in the video window, or underneath the video on "Transcript".
 
 ### The JS Way: Welcome to programming chapter
 
@@ -64,7 +60,3 @@ In my experience, student progress often won't be updated on your dashboard unti
 Once you've read The JS Way chapter above, you'll see that there is a section about writing algorithms. In the chapter is there is an example of a burrito "algorithm recipe". You might also want to watch [this video](http://youtube.com/watch?v=cDA3_5982h8) which also has some "algorithm recipes" 😄. Think like the Dad when writing yours!
 
 Write your own "algorithm recipe" for your favourite food. Make sure you submit it to Google Classroom.
-
-## Concepts roadmap
-
-Here's a [list of some of the main concepts](roadmap-of-concepts.md) we will cover in this course.  You are free to ignore it, but some students find it useful to know where they are.

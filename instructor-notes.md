@@ -21,6 +21,10 @@ Notes for the instructors of this course.
 * Paper/pens for making notes
 * Spare laptops
 
+## Khan Academy Notes
+
+- Student progress often won't be updated on your dashboard until as much as 5-10 minutes have passed
+
 ## Assessments
 
 Several assessments have been designed for this module. They should be completed during the in-person class.
