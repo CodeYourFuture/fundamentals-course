@@ -11,7 +11,11 @@ A one-month short course from [Code Your Future](https://codeyourfuture.io/)
 
 We'll also look at what you can make with programming and what kind of jobs are available to programmers.
 
-#### About further study on CYF's web-development course:
+### Concept Roadmap
+
+If you want more detail about the topics that we're covering, take a look at the [concept roadmap](roadmap-of-concepts.md)
+
+### About further study on CYF's web-development course:
 
 At the end of this short course,
 
@@ -23,19 +27,19 @@ there will be the possibility to apply for further study on the next full-stack 
 
 Whether you take that path or not, we want this course to be useful to you.
 
-### What this course is NOT
+## What this course is NOT
 
-#### It's *not* a web development course
+### It's *not* a web development course
 
 Although we'll certainly learn some JavaScript - the most popular language in web development - we won't do *any* web development with it!
  
-#### It's *not* a teacher-led course
+### It's *not* a teacher-led course
 
 We're not going to lecture you.
 
 You will work through some online courses, and we (or the people sitting around you) will help you when you're really stuck.
 
-#### … and we're *not* starting with JavaScript!
+### … and we're *not* starting with JavaScript!
 
 We'll start to look at JavaScript in week 2.  First we're going to use a simpler language to learn and practice fundamentals.
 
