@@ -16,15 +16,16 @@ We'll break into 2 groups and take turns to present to the rest of the groups. R
 
 Although the block-based coding you practiced for homework solved only simple problems with a simple language, we'll look briefly at four concepts you used which are also at the heart of professional coding.
 
+<!-- TODO: write this up properly -->
 (mentor notes: 15 minutes.  sequence, repetition with loops, conditional execution with if/else, and breaking bigger problems into smaller problems, with functions.  Possibly showing representations in JS).
 
 ## Help with Homework Exercises
 
 This is your opportunity to ask questions about last week's homework. If you would like some assistance on any of the exercises, the teaching assistants will be available to help.
 
-## Pairing session
+## 1-to-1 programming problem with an instructor
 
-Each student will have a *pairing* session with one of the instructors to solve a programming problem using the Code.org block-programming environment.
+Each student will have a work with one of the instructors to solve a programming problem using the Code.org block-programming environment.
 
 ## Homework
 

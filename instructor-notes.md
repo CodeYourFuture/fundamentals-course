@@ -21,6 +21,26 @@ Notes for the instructors of this course.
 * Paper/pens for making notes
 * Spare laptops
 
+## Classroom Tips
+
+### Write questions on a whiteboard
+
+At the beginning of a lesson, it is good to get the students thinking about questions that they had during the week. To avoid getting distracted with answering a question for too long, run a short session where you write down all the questions on a whiteboard.
+
+You can then prioritise answering the questions, or split into groups to answer several questions at once.
+
+It is also useful to get a volunteer write up the questions in a more permanent place (e.g. [as a Gist](https://gist.github.com/)) and share on Slack.
+
+### Pairing
+
+In the lesson we ask the students to do some pair-programming. This is very likely to be the first time they have ever paired on a programming problem. Here are some tips on running a good pairing session:
+
+* Assign a volunteer to call out to switch navigator and driver roles every 10 minutes loosely
+  * Make sure the students actually switch!
+* Monitor closely to check that one side isn't dominating
+* Don't run the session too long - it is stressful for some
+* Switch partners at least once (e.g. different partners before and after lunch)
+
 ## Khan Academy Notes
 
 - Student progress often won't be updated on your dashboard until as much as 5-10 minutes have passed
