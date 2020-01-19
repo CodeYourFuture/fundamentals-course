@@ -130,17 +130,15 @@ Make sure you understand the homework for next week before you leave the classro
 
 ## Continuing with JavaScript Drawing and Animation after this course
 
-If you enjoyed using JavaScript to make drawings and animations, I recommend further study and play with the p5.js library, using (for example) the [openprocessing](https://openprocessing.org) platform (or codepen)).
+If you enjoyed using JavaScript to make drawings and animations, we recommend further study and play with the p5.js library, using the [OpenProcessing](https://openprocessing.org) platform or CodePen.
 
-I have a lot of [notes on moving to p5.js, here](./from-khan-academy-processingjs-to-p5js.md).
+Here are some [notes on moving to p5.js](./from-khan-academy-processingjs-to-p5js.md).
 
-Also, we may have time to do [a short (sub-30 minute) workshop moving to p5.js](./p5js-and-openprocessing-workshop.md).
+If we have time, we will do [a short workshop on moving your work to to p5.js](./p5js-and-openprocessing-workshop.md).
 
 ### Some places to get inspiration with p5.js
 
-Here is an essay I like by Jason Bailey about "generative art". It has lots of interesting examples which might inspire you:
-
-* ["Why Love Generative Art?"](https://www.artnome.com/news/2018/8/8/why-love-generative-art)
+Here is an essay by Jason Bailey about "generative art". It has lots of interesting examples which might inspire you: ["Why Love Generative Art?"](https://www.artnome.com/news/2018/8/8/why-love-generative-art)
 
 ## End with a game or two
 
