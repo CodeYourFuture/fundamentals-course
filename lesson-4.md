@@ -14,11 +14,7 @@ Let's make a list of all of the programming questions we'd like to get answered 
 
 ## Present your favourite project to your classmates
 
-You will give a very, very simple 2 minute presentation to 2 or 3 other students and a volunteer (if one is available).
-
-5 minutes to prep:
-
-Pick your favourite project (or the one that's most interesting to talk about) and get ready to explain:
+You will give a very, very simple 2 minute presentation to 2 or 3 other students and a volunteer (if one is available). Before the presentations we'll have 5 minutes to prep. Pick your favourite project (or the one that's most interesting to talk about) and get ready to explain:
 
 * What you added to it
 * What was difficult
@@ -26,15 +22,9 @@ Pick your favourite project (or the one that's most interesting to talk about) a
 * What you would add if you had time
 * Any parts of the code you still don't understand and might want help with
 
-With your group, find a quiet space, and set a stopwatch for 2 minutes and present. Here are some tips:
+With your group, find a quiet space, and set a stopwatch for 2 minutes and present.
 
-* Present to your classmates, not just to the volunteer
-* Cover the above points
-* Speak clearly
-* Face the people you're talking to, as much as possible. Don't just face the screen
-* Try to make it fun!
-* Stick to the time. The volunteer will cut you off at 2 minutes!
-* Don't go into too much detail on one point - 2 minutes is NOT much time at all
+If you need a reminder of how to give a good presentation, see [the tips from lesson 3](./lesson-3.md#present-your-favourite-project-to-your-classmates.md)
 
 ## Getting unstuck
 
@@ -58,13 +48,13 @@ The instructor will likely ask for suggestions on how to do something from the c
 
 Like last week, we'll work in *pairs* to make the changes to your favourite Khan Academy you described in your presentation earlier. Remember that if you and your pair are totally stuck on something, ask a volunteer to help you - they're here to help!
 
-If you have finished all of the Khan Academy projects up to and including the arrays and objects sections and you need some inspiration, [here is a list of further challenges](post-khan-academy-challenges.md). These mostly challenge you to return to an earlier project and make a spin-off which uses objects and/or arrays to make it better, cleaner, and to make it easier for you to do cooler things!
+If you have finished all of the Khan Academy projects up to and including the arrays and objects sections and you need some inspiration, [here is a list of further challenges](./post-khan-academy-challenges.md). These mostly challenge you to return to an earlier project and make a spin-off which uses objects and/or arrays to make it better, cleaner, and to make it easier for you to do cooler things!
 
 ### Pair-programming (2 students)
 
 It's good to code with a friend. You learn SO much. Programmers call this *pair programming* and many professional teams program in pairs for a part of each day.
 
-If you need a reminder on how to pair-program effectively, see the [the notes from lesson 3](lesson-3.md#pair-programming).
+If you need a reminder on how to pair-program effectively, see the [the notes from lesson 3](./lesson-3.md#pair-programming).
 
 ## 1-to-1 programming problem with an instructor
 
@@ -76,7 +66,7 @@ Let's do the first Kahoot quiz again, to find out if you feel any differently ab
 
 ## Retro: Zombies, plants, fish tanks, draw() function... How is all this relevant in the real world?
 
-Looking back at the [concept roadmap](roadmap-of-concepts.md), believe it or not, you've been learning the basics of programming, relevant to a whole range of coding jobs.
+Looking back at the [concept roadmap](./roadmap-of-concepts.md), believe it or not, you've been learning the basics of programming, relevant to a whole range of coding jobs.
 
 Now the instructors will look at specific elements you've learned about and how they're relevant elsewhere.
 
@@ -144,11 +134,12 @@ If you enjoyed using JavaScript to make drawings and animations, I recommend fur
 
 I have a lot of [notes on moving to p5.js, here](./from-khan-academy-processingjs-to-p5js.md).
 
-Also, we may have time to do [a short (sub-30 minute) workshop moving to p5.js](p5js-and-openprocessing-workshop.md).
+Also, we may have time to do [a short (sub-30 minute) workshop moving to p5.js](./p5js-and-openprocessing-workshop.md).
 
 ### Some places to get inspiration with p5.js
 
 Here is an essay I like by Jason Bailey about "generative art". It has lots of interesting examples which might inspire you:
+
 * ["Why Love Generative Art?"](https://www.artnome.com/news/2018/8/8/why-love-generative-art)
 
 ## End with a game or two

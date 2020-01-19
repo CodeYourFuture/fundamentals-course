@@ -14,11 +14,7 @@ Let's make a list of all of the programming questions we'd like to get answered 
 
 ## Present your favourite project to your classmates
 
-You will give a very, very simple 2 minute presentation to 2 or 3 other students and a volunteer (if one is available).
-
-5 minutes to prep:
-
-Pick your favourite project (or the one that's most interesting to talk about) and get ready to explain:
+You will give a very, very simple 2 minute presentation to 2 or 3 other students and a volunteer (if one is available). Before the presentations we'll have 5 minutes to prep. Pick your favourite project (or the one that's most interesting to talk about) and get ready to explain:
 
 * What you added to it
 * What was difficult

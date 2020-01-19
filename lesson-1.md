@@ -18,7 +18,7 @@ We'll read through the [Code of Conduct](https://codeyourfuture.github.io/syllab
 
 ## Getting into Technology: Why & How
 
-Next one of our long-time instructors Jon Sharpe will give a presentation about why you would want to be a programmer.
+Next we'll have a presentation about why you would want to be a programmer.
 
 Link to the presentation slides: [https://docs.google.com/presentation/d/1XVVq6acZwMb7r1OAx2b54nS5WOguO3V7m7Pspledi60/edit#slide=id.g253640fe83_0_202](https://docs.google.com/presentation/d/1XVVq6acZwMb7r1OAx2b54nS5WOguO3V7m7Pspledi60/edit#slide=id.g253640fe83_0_202)
 
@@ -29,6 +29,8 @@ If you've never programmed before, don't worry - you're definitely on the right 
 We'll do a 5-minute quiz to help us find out the class's level, using the fun app called ["Kahoot"](https://kahoot.it/).
 
 ## Software Setup
+
+Finally, to help us communicate with you during the course you'll need to install some software.
 
 ### Slack
 

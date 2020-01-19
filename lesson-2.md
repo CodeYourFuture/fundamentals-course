@@ -1,5 +1,17 @@
 # Intro To Programming 2
 
+## Warm up game
+
+Some students will teach Zip-Zap-Boing to the others.
+
+## Introductions
+
+Let's make sure we know each other! Ask for a name tag if you don't already have one.
+
+## Shout out your questions
+
+Let's make a list of all of the programming questions we'd like to get answered today, and put them on the whiteboard. When you have time, put your initials next to the questions that interest you the most.
+
 ## Solving problems
 
 Problem solving is a critical skill for programmers, including for experts. Often programmers spend most of their day solving problems in their code. Learning how to solve problems efficiently is an extremely useful skill.
@@ -8,16 +20,22 @@ To help develop your problem solving skills, we'll play a fun game in small grou
 
 ## Homework presentation
 
-For last week's homework, you will have made a presentation about something you learned in the last week. Now is your chance to present it!
+For last week's homework, you will have made a presentation about something you learned in the last week. Now is your chance to present it! We'll break into groups of 3 - 4 and take turns to present to the rest of your group for **5 minutes**.
 
-We'll break into 2 groups and take turns to present to the rest of the groups. Remember that communicating information to others is a really important skill for programmers.
+Remember that communicating information to others is a really important skill for programmers. Here are some tips for your presentation:
+
+* Present to your classmates, not just to the volunteer
+* Speak clearly
+* Face the people you're talking to, as much as possible. Don't just face the screen
+* Try to make it fun!
+* Stick to the time. The volunteer will cut you off at 5 minutes!
 
 ## Homework in perspective - how is it applicable? 
 
 Although the block-based coding you practiced for homework solved only simple problems with a simple language, we'll look briefly at four concepts you used which are also at the heart of professional coding.
 
 <!-- TODO: write this up properly -->
-(mentor notes: 15 minutes.  sequence, repetition with loops, conditional execution with if/else, and breaking bigger problems into smaller problems, with functions.  Possibly showing representations in JS).
+(mentor notes: 15 minutes. sequence, repetition with loops, conditional execution with if/else, and breaking bigger problems into smaller problems, with functions. Possibly showing representations in JS).
 
 ## Help with Homework Exercises
 
