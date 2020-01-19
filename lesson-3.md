@@ -116,3 +116,11 @@ Each student will have a pairing session with one of the instructors to solve a 
 Make sure you understand the homework for next week before you leave the classroom. See Google Classroom for the definitive list of homework assignments. Make sure you check it regularly.
 
 <!-- TODO: Make sure the homework is all here -->
+
+### Khan Academy: Intro to JS
+
+Continue to work on the [Khan Academy: Intro to JS course](https://www.khanacademy.org/computing/computer-programming/programming).
+
+First, make sure that you have completed everything up to the "Text and Strings" section.
+
+If you have already done that, then you should continue **AT LEAST UP TO** the ["Writing Clean Code" section](https://www.khanacademy.org/computing/computer-programming/programming#writing-clean-code).
