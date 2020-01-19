@@ -2,7 +2,7 @@
 
 ## Warm up game
 
-Some students will teach zip zap boing to the others.
+Some students will teach Zip-Zap-Boing to the others.
 
 ## Introductions
 
@@ -26,7 +26,7 @@ Pick your favourite project (or the one that's most interesting to talk about) a
 * What you would add if you had time
 * Any parts of the code you still don't understand and might want help with
 
-With your table-mates, find a quiet space, and set a stopwatch for 2 minutes and present. Here are some tips:
+With your group, find a quiet space, and set a stopwatch for 2 minutes and present. Here are some tips:
 
 * Present to your classmates, not just to the volunteer
 * Cover the above points
@@ -36,7 +36,7 @@ With your table-mates, find a quiet space, and set a stopwatch for 2 minutes and
 * Stick to the time. The volunteer will cut you off at 2 minutes!
 * Don't go into too much detail on one point - 2 minutes is NOT much time at all
 
-## 1-to-1 with volunteers: critical questions for getting unstuck
+## Getting unstuck
 
 We'll now spend 30 minutes where you can ask the volunteers with help on serious *questions that have really been blocking your progress* through the Khan Academy course.
 
@@ -46,7 +46,7 @@ If you have other more advanced questions that aren't blocking you, please **don
 
 Now we'll work in *pairs* to make the changes to your favourite Khan Academy you described in your presentation earlier. Remember that if you and your pair are totally stuck on something, ask a volunteer to help you - they're here to help!
 
-### Pair-programming (2 students)
+### Pair-programming
 
 It's good to code with a friend. You learn SO much. Programmers call this *pair programming* and many professional teams program in pairs for a part of each day.
 
@@ -109,7 +109,7 @@ The instructor will likely ask for suggestions on how to do something from the c
 
 *Tip*: A quiet class with no questions or suggestions is a difficult class to teach
 
-<!-- TODO: link to (or inline) some of the common questions from week 3 -->
+<!-- TODO: link to (or inline) some of the common questions -->
 
 ## 1-to-1 programming problem with an instructor
 
@@ -117,7 +117,7 @@ Each student will have a pairing session with one of the instructors to solve a 
 
 ## Homework
 
-Make sure you understand the homework for next week before you leave the classroom. See Google Classroom for the definitive list of homework assignments.
+Make sure you understand the homework for next week before you leave the classroom. See Google Classroom for the definitive list of homework assignments. Make sure you check it regularly.
 
 <!-- TODO: Make sure the homework is all here -->
 

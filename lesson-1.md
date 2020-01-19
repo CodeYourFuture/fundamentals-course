@@ -8,7 +8,7 @@ Welcome to Code Your Future and to the world of programming! Now that you have b
 
 Before we get started with programming we want to learn a bit about you, and you can learn a bit about us.
 
-We'll start with some introductions: so that we can get to know each other. We'll play some games including Zip Zap Bong and Happy Salmon.
+We'll start with some introductions: so that we can get to know each other. We'll play some games including Zip-Zap-Boing and Happy Salmon.
 
 ## Code of Conduct & House Rules
 
