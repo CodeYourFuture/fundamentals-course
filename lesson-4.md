@@ -2,98 +2,83 @@
 
 ## Warm up game
 
-Some students will teach zip zap boing to the others.
+Some students will teach Zip-Zap-Boing to the others.
 
 ## Introductions
 
-As you'll have seen during the game, we have new volunteers today!  Let's make sure we know each other!  Ask for a name tag if you don't already have one.
+Let's make sure we know each other! Ask for a name tag if you don't already have one.
 
 ## Shout out your questions
 
-Let's make a list of all of the programming questions we'd like to get answered today, and put them on the whiteboard.
-
-During the break we'd also like you to add your initials next to the questions that interest you the most.
-
-Mentor notes: have a volunteer write up the questions (e.g. as https://gist.github.com/) and share.
-
-[Questions from last week, with answers](questions-week3-neill.md)
+Let's make a list of all of the programming questions we'd like to get answered today, and put them on the whiteboard. When you have time, put your initials next to the questions that interest you the most.
 
 ## Present your favourite project to your classmates
 
-You will give a very, very simple 2 minute presentation to 2 or 3 other students and a volunteer (if one is available).
+You will give a very, very simple 2 minute presentation to 2 or 3 other students and a volunteer (if one is available). Before the presentations we'll have 5 minutes to prep. Pick your favourite project (or the one that's most interesting to talk about) and get ready to explain:
 
-5 minutes to prep:
-
-Pick your favourite project (or the one that's most interesting to talk about) and get ready to explain:
-* what you added to it
-* what was difficult
-* what you like and don't like about it
-* what you would add if you had time
+* What you added to it
+* What was difficult
+* What you like and don't like about it
+* What you would add if you had time
 * Any parts of the code you still don't understand and might want help with
 
-With your table-mates, find a quiet space in the allowed areas, and set a stopwatch for 2 minutes.  First presenter to go ahead:
-* Present to your classmates, not just to the volunteer
-* cover the above points
-* speak clearly
-* face the people you're talking to, as much as possible.  Don't just face the screen
-* try to make it fun!
-* stick to the time.  The volunteer will cut you off at 2 minutes! 
-* don't go into too much detail on one point - 2 minutes is NOT much time at all.
+With your group, find a quiet space, and set a stopwatch for 2 minutes and present.
 
-## 1-to-1 with volunteers: critical questions for getting unstuck
+If you need a reminder of how to give a good presentation, see [the tips from lesson 3](./lesson-3.md#present-your-favourite-project-to-your-classmates.md)
 
-Soon the teachers will answer common questions, but we'll first spend 15 minutes where you can ask the volunteers with help on serious *questions that have really been blocking your progress* through the khan academy course.
+## Getting unstuck
 
-If you have other more advanced questions that aren't blocking you, please don't ask them yet (unless you see that the volunteers are clearly not busy helping with more fundamental issues).  We'll have time later for those questions.
+We'll now spend 30 minutes where you can ask the volunteers with help on serious *questions that have really been blocking your progress* through the Khan Academy course.
 
-## Live coding - common questions
+If you have other more advanced questions that aren't blocking you, please **don't** ask them yet (unless you see that the volunteers are clearly not busy helping with more fundamental issues). We'll have time later for those questions.
 
-We'll work as a group to solve some more Khan Academy/Processing.js challenges and to answer some common questions and difficulties. 
+## Live coding
 
-The teachers will talk about how they think about the problem while solving it and show the rest of the class. Can you spot the teacher's coding mistakes before they do?
+The instructor will do some *live-coding* to demonstrate solutions to some of the class's common questions. This means they will be showing their screen on the projector and working on solving a problem. This is a very effective way to learn! The instructors are professionals and there are many small (and large!) tips you can pick up from them.
 
-You might be asked to do some of the coding for the class, please contribute and don't worry about mistakes, they are normal! Certainly the teachers will ask you to contribute suggestions for possible solutions - speak up, that is how you help the teacher. There is no one correct way.
+Can you spot the instructor's coding mistakes before they do? (There will definitely be some, that is normal!)
 
-*Tip*: Help us: A quiet class with no questions or suggestions is a difficult class for a volunteer to teach.
+The instructor will likely ask for suggestions on how to do something from the class = speak up, it helps the their teaching. Don't worry about getting the answer "wrong" - there is no one correct way. They might also ask you to do some of the coding, please contribute and don't worry about mistakes!
+
+*Tip*: A quiet class with no questions or suggestions is a difficult class to teach
+
+<!-- TODO: link to (or inline) some of the common questions -->
 
 ## Improve your Khan Academy Projects with Arrays and Objects
 
-As last week, pick a favourite Khan Academy project and think about how you would improve it.
+Like last week, we'll work in *pairs* to make the changes to your favourite Khan Academy you described in your presentation earlier. Remember that if you and your pair are totally stuck on something, ask a volunteer to help you - they're here to help!
 
-If you have finished all of the Khan Academy projects up to and including arrays and objects, [here is a list of further challenges](post-khan-academy-challenges.md).  
-
-These mostly challenge you to return to an earlier project and make a spin-off which uses objects and/or arrays to make it better, cleaner, and to make it easier for you to do cooler things!
-
-We'll be working in small groups or pairs to help make those changes together. The teaching assistants will also be available to help your group if you're stuck.
+If you have finished all of the Khan Academy projects up to and including the arrays and objects sections and you need some inspiration, [here is a list of further challenges](./post-khan-academy-challenges.md). These mostly challenge you to return to an earlier project and make a spin-off which uses objects and/or arrays to make it better, cleaner, and to make it easier for you to do cooler things!
 
 ### Pair-programming (2 students)
 
-It's good to code with a friend. You learn **so** much. Many professional teams program in pairs for a part of each day.
+It's good to code with a friend. You learn SO much. Programmers call this *pair programming* and many professional teams program in pairs for a part of each day.
 
-See [lesson 3](lesson-3.md#pair-programming-2-students) for introduction and guidance on pair programming.
+If you need a reminder on how to pair-program effectively, see the [the notes from lesson 3](./lesson-3.md#pair-programming).
 
-Volunteer notes:
+## 1-to-1 programming problem with an instructor
 
-* Volunteers to call out to switch navigator and driver roles every 10 minutes loosely
-* Don't run the session too long. Stressful for some.
+Each student will have a pairing session with one of the instructors to solve a programming problem using the Khan Academy Intro to JavaScript environment. We'll see how you're getting on, what help you need, and hopefully you'll get some tips from the instructor!
 
-## Pairing session with an instructor
+## Kahoot (again)
 
-Each student will have a pairing session with one of the instructors to solve a programming problem together.
+Let's do the first Kahoot quiz again, to find out if you feel any differently about programming now.
 
 ## Retro: Zombies, plants, fish tanks, draw() function... How is all this relevant in the real world?
 
-Let's do the first Kahoot again. (Instructor's note: [run quiz here](https://play.kahoot.it/v2/?quizId=62bd599b-af55-41c3-b335-c28c9060c023))
+Looking back at the [concept roadmap](./roadmap-of-concepts.md), believe it or not, you've been learning the basics of programming, relevant to a whole range of coding jobs.
 
-Look back at the [roadmap](roadmap-of-concepts.md)
+Now the instructors will look at specific elements you've learned about and how they're relevant elsewhere.
 
-Believe it or not, you've been learning the basics of programming, relevant to a whole range of coding jobs. We'll look at specific elements you've learned about and how they're relevant elsewhere.
+<!-- TODO: flesh this out -->
 
-Outside of the Khan Academy course, you'll see some differences in JavaScript:
+### Different JavaScript environments
 
-* `let` and `const` used instead of var
-* functions can be created many ways (khan academy way is uncommon)
-* more features to learn about
+Outside of the Khan Academy course platform, you'll see some differences in JavaScript:
+
+* `let` and `const` used instead of `var`
+* Functions can be created many ways (the Khan Academy way is uncommon)
+* More features to learn about
 * ...
 
 ## Other free resources
@@ -103,19 +88,24 @@ We'll have a look at some of our favourite free resources - both online and in p
 ### In-person events
 
 - Coding "meetups"
-    - [JavaScript meetups in London](https://www.meetup.com/topics/javascript/gb/17/london/). Don't be scared of these, just go! There is very often free pizza at these free evening events.
-    - [Learn to code meetups in London](https://www.meetup.com/topics/learn-to-code/gb/17/london/)
+  - Free evening events, with 2 - 3 talks from other developers
+  - There is very often free pizza!
+  - Don't be scared of these, just go!
+  - Googling for "JavaScript meetup" or "Learn to code meetup" in your city is a good way to find these
 - [Codebar](https://codebar.io/)
+  - Meetup for people learning to code
+  - Professional developers will help with your coding problems
 
 ### Online
 
-- [freecodecamp](https://www.freecodecamp.org/)
+- [freeCodeCamp](https://www.freecodecamp.org/)
 - [The Odin Project](https://www.theodinproject.com/)
-- Youtube: Some favourite channels of the recent graduates include [Traversy Media](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)  and [Wes Bos](https://www.youtube.com/user/wesbos).  
-    - Find the teaching and learning style you like, but...
-    - ...[be cautious that you are not following tutorials blindly](https://www.youtube.com/watch?v=g_aMpyMvQ9k)
+- Youtube: Some favourite channels of the recent graduates include [Traversy Media](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX) and [Wes Bos](https://www.youtube.com/user/wesbos). 
+  - Find the teaching and learning style you like, but... [be cautious that you are not following tutorials blindly](https://www.youtube.com/watch?v=g_aMpyMvQ9k)
 - [Free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#javascript)
 - [Stack Overflow](https://stackoverflow.com/)
+  - A forum for posting programming questions
+  - It can be a little intimidating, but it has a huge community so someone is likely to know the answer to your question
 
 ### Podcasts
 
@@ -130,24 +120,25 @@ We'll have a look at some of our favourite free resources - both online and in p
 
 ### Program stepped visualisation
 
-- [pythontutor.com](http://pythontutor.com/javascript.html) - it does javascript, too.
+- [pythontutor.com](http://pythontutor.com/javascript.html) - it does JavaScript, too.
 
 ## Homework
 
-Know what homework you have.  See google classroom for this week's.  Check it every couple of days.
+Make sure you understand the homework for next week before you leave the classroom. See Google Classroom for the definitive list of homework assignments. Make sure you check it regularly.
+
+<!-- TODO: Make sure the homework is all here -->
 
 ## Continuing with JavaScript Drawing and Animation after this course
 
-If you enjoyed using JavaScript to make drawings and animations, I recommend further study and play with the p5.js library, using (for example) the [openprocessing](https://openprocessing.org) platform (or codepen)).
+If you enjoyed using JavaScript to make drawings and animations, we recommend further study and play with the p5.js library, using the [OpenProcessing](https://openprocessing.org) platform or CodePen.
 
-I have a lot of [notes on moving to p5.js, here](./from-khan-academy-processingjs-to-p5js.md).
+Here are some [notes on moving to p5.js](./from-khan-academy-processingjs-to-p5js.md).
 
-Also, we may have time to do [a short (sub-30 minute) workshop moving to p5.js](p5js-and-openprocessing-workshop.md).
+If we have time, we will do [a short workshop on moving your work to to p5.js](./p5js-and-openprocessing-workshop.md).
 
 ### Some places to get inspiration with p5.js
 
-Here is an essay I like by Jason Bailey about "generative art". It has lots of interesting examples which might inspire you:
-* ["Why Love Generative Art?"](https://www.artnome.com/news/2018/8/8/why-love-generative-art)
+Here is an essay by Jason Bailey about "generative art". It has lots of interesting examples which might inspire you: ["Why Love Generative Art?"](https://www.artnome.com/news/2018/8/8/why-love-generative-art)
 
 If you use twitter, here is an artist I like: https://twitter.com/manoloidee
 
@@ -155,5 +146,5 @@ If you use twitter, here is an artist I like: https://twitter.com/manoloidee
 
 Suggestions:
 
-- More zip-zap-bong
+- More Zip-Zap-Boing
 - Happy Salmon

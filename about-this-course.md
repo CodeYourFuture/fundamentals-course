@@ -1,4 +1,6 @@
-# What this course IS
+# About This Course
+
+## What this course IS
 
 A one-month short course from [Code Your Future](https://codeyourfuture.io/)
 
@@ -9,11 +11,15 @@ A one-month short course from [Code Your Future](https://codeyourfuture.io/)
 
 We'll also look at what you can make with programming and what kind of jobs are available to programmers.
 
+### Concept Roadmap
+
+If you want more detail about the topics that we're covering, take a look at the [concept roadmap](roadmap-of-concepts.md)
+
 ### About further study on CYF's web-development course:
 
 At the end of this short course,
 
-* if you decide programming's definitely for you
+* if you decide programming is definitely for you
 
 * and if we think you're ready
 
@@ -37,19 +43,18 @@ You will work through some online courses, and we (or the people sitting around 
 
 We'll start to look at JavaScript in week 2.  First we're going to use a simpler language to learn and practice fundamentals.
 
-
-
-# What you will need for this course
+## What you will need for this course
 
 * A laptop and charger
 * A phone would be useful
-* pen and paper (ideally a simple notebook for the course duration)
-* headphones, if you have them - the course contains a lot of video content.
+* Pen and paper (ideally a simple notebook for the course duration)
+* Headphones, if you have them - the course contains a lot of video content
 
 ## Software you'll need to install
-#### Slack
-#### Google classroom
-* on android: https://play.google.com/store/apps/details?id=com.google.android.apps.classroom&hl=en_GB
-* on ios: https://apps.apple.com/us/app/google-classroom/id924620788 
-#### Kahoot (on phone or laptop)
-* https://kahoot.com/
+
+- Slack
+  - https://slack.com/download
+- Google Classroom
+  - On Android: https://play.google.com/store/apps/details?id=com.google.android.apps.classroom&hl=en_GB
+  - on iOS: https://apps.apple.com/us/app/google-classroom/id924620788 
+- That's it! Most of the software we'll be using is web-based

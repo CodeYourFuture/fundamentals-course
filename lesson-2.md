@@ -1,30 +1,49 @@
 # Intro To Programming 2
 
+## Warm up game
+
+Some students will teach Zip-Zap-Boing to the others.
+
+## Introductions
+
+Let's make sure we know each other! Ask for a name tag if you don't already have one.
+
+## Shout out your questions
+
+Let's make a list of all of the programming questions we'd like to get answered today, and put them on the whiteboard. When you have time, put your initials next to the questions that interest you the most.
+
 ## Solving problems
 
 Problem solving is a critical skill for programmers, including for experts. Often programmers spend most of their day solving problems in their code. Learning how to solve problems efficiently is an extremely useful skill.
 
-To help develop your problem solving skills, Ben & Melissa from the Honeycomb Works have put together a fun game to work in groups on. Then they will give [a presentation](https://docs.google.com/presentation/d/1XzLUVxfiJE2llWTWn7Rf5T0cutcL9HCBwd09GBCzv_4/) about improving your problem solving.
+To help develop your problem solving skills, we'll play a fun game in small groups. Followed by a short [presentation](https://docs.google.com/presentation/d/1XzLUVxfiJE2llWTWn7Rf5T0cutcL9HCBwd09GBCzv_4/) about improving your problem solving.
 
 ## Homework presentation
 
-For last week's homework, you will have made a presentation about something you learned in the last week. Now is your chance to present it!
+For last week's homework, you will have made a presentation about something you learned in the last week. Now is your chance to present it! We'll break into groups of 3 - 4 and take turns to present to the rest of your group for **5 minutes**.
 
-We'll break into 2 groups and take turns to present to the rest of the groups. Remember that communicating information to others is a really important skill for programmers.
+Remember that communicating information to others is a really important skill for programmers. Here are some tips for your presentation:
+
+* Present to your classmates, not just to the volunteer
+* Speak clearly
+* Face the people you're talking to, as much as possible. Don't just face the screen
+* Try to make it fun!
+* Stick to the time. The volunteer will cut you off at 5 minutes!
 
 ## Homework in perspective - how is it applicable? 
 
 Although the block-based coding you practiced for homework solved only simple problems with a simple language, we'll look briefly at four concepts you used which are also at the heart of professional coding.
 
-(mentor notes: 15 minutes.  sequence, repetition with loops, conditional execution with if/else, and breaking bigger problems into smaller problems, with functions.  Possibly showing representations in JS).
+<!-- TODO: write this up properly -->
+(mentor notes: 15 minutes. sequence, repetition with loops, conditional execution with if/else, and breaking bigger problems into smaller problems, with functions. Possibly showing representations in JS).
 
 ## Help with Homework Exercises
 
 This is your opportunity to ask questions about last week's homework. If you would like some assistance on any of the exercises, the teaching assistants will be available to help.
 
-## Pairing session
+## 1-to-1 programming problem with an instructor
 
-Each student will have a *pairing* session with one of the instructors to solve a programming problem using the Code.org block-programming environment.
+Each student will have a work with one of the instructors to solve a programming problem using the Code.org block-programming environment.
 
 ## Homework
 
@@ -47,11 +66,7 @@ There will be some time in class to start the first exercises. Let the instructo
 
 #### No headphones? Read the subtitles or video transcript
 
-If you do not have headphones to watch the videos you can click in the video window on cc (subtitles/closed captions), or underneath the video on `Transcript`.
-
-#### Note to instructors: propagation delay on student progress 
-
-In my experience, student progress often won't be updated on your dashboard until as much as 5-10 minutes have passed.
+If you do not have headphones to watch the videos you can click on "CC" (subtitles/closed captions) in the video window, or underneath the video on "Transcript".
 
 ### The JS Way: Welcome to programming chapter
 
@@ -64,7 +79,3 @@ In my experience, student progress often won't be updated on your dashboard unti
 Once you've read The JS Way chapter above, you'll see that there is a section about writing algorithms. In the chapter is there is an example of a burrito "algorithm recipe". You might also want to watch [this video](http://youtube.com/watch?v=cDA3_5982h8) which also has some "algorithm recipes" 😄. Think like the Dad when writing yours!
 
 Write your own "algorithm recipe" for your favourite food. Make sure you submit it to Google Classroom.
-
-## Concepts roadmap
-
-Here's a [list of some of the main concepts](roadmap-of-concepts.md) we will cover in this course.  You are free to ignore it, but some students find it useful to know where they are.
