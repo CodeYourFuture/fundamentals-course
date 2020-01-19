@@ -18,6 +18,10 @@ Problem solving is a critical skill for programmers, including for experts. Ofte
 
 To help develop your problem solving skills, we'll play a fun game in small groups. Followed by a short [presentation](https://docs.google.com/presentation/d/1XzLUVxfiJE2llWTWn7Rf5T0cutcL9HCBwd09GBCzv_4/) about improving your problem solving.
 
+## "Algorithm recipe" review
+
+Last week you should have written a "algorithm recipe". The instructor will pick out a few of the best to read with the rest of the class. We'll see if there are any missing steps!
+
 ## Homework presentation
 
 For last week's homework, you will have made a presentation about something you learned in the last week. Now is your chance to present it! We'll break into groups of 3 - 4 and take turns to present to the rest of your group for **5 minutes**.
@@ -30,7 +34,7 @@ Remember that communicating information to others is a really important skill fo
 * Try to make it fun!
 * Stick to the time. The volunteer will cut you off at 5 minutes!
 
-## Homework in perspective - how is it applicable? 
+## Homework in perspective - how is it applicable?
 
 Although the block-based coding you practiced for homework solved only simple problems with a simple language, we'll look briefly at four concepts you used which are also at the heart of professional coding.
 
@@ -67,15 +71,3 @@ There will be some time in class to start the first exercises. Let the instructo
 #### No headphones? Read the subtitles or video transcript
 
 If you do not have headphones to watch the videos you can click on "CC" (subtitles/closed captions) in the video window, or underneath the video on "Transcript".
-
-### The JS Way: Welcome to programming chapter
-
-[The JS Way](https://github.com/bpesquet/thejsway) is a book that is available to read online for free. It is a beginner-friendly introduction to the JavaScript programming language.
-
-[Click here](https://github.com/bpesquet/thejsway/blob/master/manuscript/intro02.md) to read the "Welcome to programming" chapter.
-
-### Write an "algorithm recipe"
-
-Once you've read The JS Way chapter above, you'll see that there is a section about writing algorithms. In the chapter is there is an example of a burrito "algorithm recipe". You might also want to watch [this video](http://youtube.com/watch?v=cDA3_5982h8) which also has some "algorithm recipes" 😄. Think like the Dad when writing yours!
-
-Write your own "algorithm recipe" for your favourite food. Make sure you submit it to Google Classroom.
