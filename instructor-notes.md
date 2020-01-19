@@ -41,6 +41,12 @@ In the lesson we ask the students to do some pair-programming. This is very like
 * Don't run the session too long - it is stressful for some
 * Switch partners at least once (e.g. different partners before and after lunch)
 
+## Kahoot
+
+Kahoot is a web app for running quick, fun quizzes with the whole class.
+
+A prepared quiz is [available here](https://play.kahoot.it/v2/?quizId=62bd599b-af55-41c3-b335-c28c9060c023). It is intended to get a general level of confidence in their programming ability from the class. To be able to compare we suggest running it in the first and last classes.
+
 ## Khan Academy Notes
 
 - Student progress often won't be updated on your dashboard until as much as 5-10 minutes have passed
