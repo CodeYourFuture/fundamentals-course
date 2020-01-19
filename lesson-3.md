@@ -42,6 +42,18 @@ We'll now spend 30 minutes where you can ask the volunteers with help on serious
 
 If you have other more advanced questions that aren't blocking you, please **don't** ask them yet (unless you see that the volunteers are clearly not busy helping with more fundamental issues). We'll have time later for those questions.
 
+## Live coding
+
+The instructor will do some *live-coding* to demonstrate solutions to some of the class's common questions. This means they will be showing their screen on the projector and working on solving a problem. This is a very effective way to learn! The instructors are professionals and there are many small (and large!) tips you can pick up from them.
+
+Can you spot the instructor's coding mistakes before they do? (There will definitely be some, that is normal!)
+
+The instructor will likely ask for suggestions on how to do something from the class = speak up, it helps the their teaching. Don't worry about getting the answer "wrong" - there is no one correct way. They might also ask you to do some of the coding, please contribute and don't worry about mistakes!
+
+*Tip*: A quiet class with no questions or suggestions is a difficult class to teach
+
+<!-- TODO: link to (or inline) some of the common questions -->
+
 ## Improve your favourite Khan Academy project
 
 Now we'll work in *pairs* to make the changes to your favourite Khan Academy you described in your presentation earlier. Remember that if you and your pair are totally stuck on something, ask a volunteer to help you - they're here to help!
@@ -98,18 +110,6 @@ You will be free (and encouraged) to work like this in some of the sessions this
 If you are working in a pair (or team) so that you can hide what you don't understand, but you think it is ok because the team are getting the work done, you are failing yourself. Hiding like this is one of the few ways to genuinely mess up.
 
 SHOW what you don't understand, and get help with it. Otherwise you will never learn, and there won't be other people there to support you. Find a team to work in that is at YOUR level, and work on a simpler task that is one you fully understand, at your speed.
-
-## Live coding
-
-The instructor will do some *live-coding* to demonstrate solutions to some of the class's common questions. This means they will be showing their screen on the projector and working on solving a problem. This is a very effective way to learn! The instructors are professionals and there are many small (and large!) tips you can pick up from them.
-
-Can you spot the instructor's coding mistakes before they do? (There will definitely be some, that is normal!)
-
-The instructor will likely ask for suggestions on how to do something from the class = speak up, it helps the their teaching. Don't worry about getting the answer "wrong" - there is no one correct way. They might also ask you to do some of the coding, please contribute and don't worry about mistakes!
-
-*Tip*: A quiet class with no questions or suggestions is a difficult class to teach
-
-<!-- TODO: link to (or inline) some of the common questions -->
 
 ## 1-to-1 programming problem with an instructor
 
