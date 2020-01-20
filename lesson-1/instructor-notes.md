@@ -27,6 +27,6 @@ A prepared quiz is [available here](https://play.kahoot.it/v2/?quizId=62bd599b-a
 
 Create a private channel for the class and invite the whole class to it.
 
-## Code.org in class
+## Start Code.org homework in class
 
 It is a good idea to spend some time in the class working through the first few lessons. You can help with problems getting signed in, with the interface, etc.
