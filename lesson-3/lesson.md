@@ -12,6 +12,24 @@ Let's make sure we know each other! Ask for a name tag if you don't already have
 
 Let's make a list of all of the programming questions we'd like to get answered today, and put them on the whiteboard. When you have time, put your initials next to the questions that interest you the most.
 
+## Getting unstuck
+
+We'll now spend 30 minutes where you can ask the volunteers with help on serious *questions that have really been blocking your progress* through the Khan Academy course.
+
+If you have other more advanced questions that aren't blocking you, please **don't** ask them yet (unless you see that the volunteers are clearly not busy helping with more fundamental issues). We'll have time later for those questions.
+
+## Live coding
+
+The instructor will do some *live-coding* to demonstrate solutions to some of the class's common questions. This means they will be showing their screen on the projector and working on solving a problem. This is a very effective way to learn! The instructors are professionals and there are many small (and large!) tips you can pick up from them.
+
+Can you spot the instructor's coding mistakes before they do? (There will definitely be some, that is normal!)
+
+The instructor will likely ask for suggestions on how to do something from the class = speak up, it helps the their teaching. Don't worry about getting the answer "wrong" - there is no one correct way. They might also ask you to do some of the coding, please contribute and don't worry about mistakes!
+
+*Tip*: A quiet class with no questions or suggestions is a difficult class to teach
+
+<!-- TODO: link to (or inline) some of the common questions -->
+
 ## Present your favourite project to your classmates
 
 You will give a very, very simple 2 minute presentation to 2 or 3 other students and a volunteer (if one is available). Before the presentations we'll have 5 minutes to prep. Pick your favourite project (or the one that's most interesting to talk about) and get ready to explain:
@@ -31,24 +49,6 @@ With your group, find a quiet space, and set a stopwatch for 2 minutes and prese
 * Try to make it fun!
 * Stick to the time. The volunteer will cut you off at 2 minutes!
 * Don't go into too much detail on one point - 2 minutes is NOT much time at all
-
-## Getting unstuck
-
-We'll now spend 30 minutes where you can ask the volunteers with help on serious *questions that have really been blocking your progress* through the Khan Academy course.
-
-If you have other more advanced questions that aren't blocking you, please **don't** ask them yet (unless you see that the volunteers are clearly not busy helping with more fundamental issues). We'll have time later for those questions.
-
-## Live coding
-
-The instructor will do some *live-coding* to demonstrate solutions to some of the class's common questions. This means they will be showing their screen on the projector and working on solving a problem. This is a very effective way to learn! The instructors are professionals and there are many small (and large!) tips you can pick up from them.
-
-Can you spot the instructor's coding mistakes before they do? (There will definitely be some, that is normal!)
-
-The instructor will likely ask for suggestions on how to do something from the class = speak up, it helps the their teaching. Don't worry about getting the answer "wrong" - there is no one correct way. They might also ask you to do some of the coding, please contribute and don't worry about mistakes!
-
-*Tip*: A quiet class with no questions or suggestions is a difficult class to teach
-
-<!-- TODO: link to (or inline) some of the common questions -->
 
 ## Improve your favourite Khan Academy project
 

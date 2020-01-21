@@ -38,7 +38,7 @@ Possibly showing representations in JS, by clicking the "Show code" button on Co
 
 ## 1-to-1 assessment
 
-Please read the [1-to-1 assessment goals](../instructor-notes.md#1-to-1#assessments).
+Please read the [1-to-1 assessment goals](../instructor-notes.md#1-to-1-assessments).
 
 ### Code.org - Three giraffes
 
