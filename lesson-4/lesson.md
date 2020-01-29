@@ -140,9 +140,9 @@ You should **SKIP** the "Object-Orientated Design" section. It is out-of-date an
 
 If you enjoyed using JavaScript to make drawings and animations, we recommend further study and play with the p5.js library, using the [OpenProcessing](https://openprocessing.org) platform or CodePen.
 
-Here are some [notes on moving to p5.js](./from-khan-academy-processingjs-to-p5js.md).
+Here are some [notes on moving to p5.js](../from-khan-academy-processingjs-to-p5js.md).
 
-If we have time, we will do [a short workshop on moving your work to to p5.js](./p5js-and-openprocessing-workshop.md).
+If we have time, we will do [a short workshop on moving your work to to p5.js](../p5js-and-openprocessing-workshop.md).
 
 ### Some places to get inspiration with p5.js
 
