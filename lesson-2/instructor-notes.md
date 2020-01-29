@@ -1,7 +1,5 @@
 # Lesson 2 - Instructor Notes
 
-Notes for the instructor for lesson 2.
-
 ## Rough Schedule
 
 | Time | Activity |

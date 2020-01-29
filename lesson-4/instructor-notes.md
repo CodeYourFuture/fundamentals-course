@@ -1,6 +1,4 @@
-# Lesson 3 - Instructor Notes
-
-Notes for the instructor for lesson 3.
+# Lesson 4 - Instructor Notes
 
 ## Rough Schedule
 
