@@ -39,11 +39,3 @@ Several assessments have been designed for this module. They should be completed
 The goal of these assessments is to assess how well the student is progressing. Based on the outcome of the assessment, the instructor(s) can decide whether the student has a good understanding of the subject.
 
 A volunteer should be assigned to sit down with 1 student at a time to "pair" on a small task. It is however not quite like normal pairing: the volunteer should aim to not "give away" the answer. If the student is struggling the volunteer can ask open questions to provide a suggestion.
-
-#### Khan Academy - Three Boxes
-
-- [Readme page (for instructors)](https://github.com/CodeYourFuture/intro-to-programming-assessments/tree/master/khan-academy-boxes-and-ribbons)
-- [Task description (for students)](https://github.com/CodeYourFuture/intro-to-programming-assessments/blob/master/khan-academy-boxes-and-ribbons/assessment-tasks-for-students.md)
-- [Example solutions](https://github.com/CodeYourFuture/intro-to-programming-assessments/tree/master/khan-academy-boxes-and-ribbons)
-- [Feedback form (for volunteer)](https://docs.google.com/forms/d/e/1FAIpQLSdkyYCIltW9bhoDhpJIDEmCEKWKD7NGVOk-vj3Bc9fJbqkmAA/viewform)
-- TODO: add link to edit the form

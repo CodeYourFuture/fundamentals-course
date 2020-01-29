@@ -12,20 +12,6 @@ Let's make sure we know each other! Ask for a name tag if you don't already have
 
 Let's make a list of all of the programming questions we'd like to get answered today, and put them on the whiteboard. When you have time, put your initials next to the questions that interest you the most.
 
-## Present your favourite project to your classmates
-
-You will give a very, very simple 2 minute presentation to 2 or 3 other students and a volunteer (if one is available). Before the presentations we'll have 5 minutes to prep. Pick your favourite project (or the one that's most interesting to talk about) and get ready to explain:
-
-* What you added to it
-* What was difficult
-* What you like and don't like about it
-* What you would add if you had time
-* Any parts of the code you still don't understand and might want help with
-
-With your group, find a quiet space, and set a stopwatch for 2 minutes and present.
-
-If you need a reminder of how to give a good presentation, see [the tips from lesson 3](./lesson-3.md#present-your-favourite-project-to-your-classmates.md)
-
 ## Getting unstuck
 
 We'll now spend 30 minutes where you can ask the volunteers with help on serious *questions that have really been blocking your progress* through the Khan Academy course.
@@ -43,6 +29,20 @@ The instructor will likely ask for suggestions on how to do something from the c
 *Tip*: A quiet class with no questions or suggestions is a difficult class to teach
 
 <!-- TODO: link to (or inline) some of the common questions -->
+
+## Present your favourite project to your classmates
+
+You will give a very, very simple 2 minute presentation to 2 or 3 other students and a volunteer (if one is available). Before the presentations we'll have 5 minutes to prep. Pick your favourite project (or the one that's most interesting to talk about) and get ready to explain:
+
+* What you added to it
+* What was difficult
+* What you like and don't like about it
+* What you would add if you had time
+* Any parts of the code you still don't understand and might want help with
+
+With your group, find a quiet space, and set a stopwatch for 2 minutes and present.
+
+If you need a reminder of how to give a good presentation, see [the tips from lesson 3](./lesson-3.md#present-your-favourite-project-to-your-classmates.md)
 
 ## Improve your Khan Academy Projects with Arrays and Objects
 
@@ -64,9 +64,9 @@ Each student will have a pairing session with one of the instructors to solve a 
 
 Let's do the first Kahoot quiz again, to find out if you feel any differently about programming now.
 
-## Retro: Zombies, plants, fish tanks, draw() function... How is all this relevant in the real world?
+## Reflection: Zombies, plants, fish tanks, draw() function... How is all this relevant in the real world?
 
-Looking back at the [concept roadmap](./roadmap-of-concepts.md), believe it or not, you've been learning the basics of programming, relevant to a whole range of coding jobs.
+Looking back at the [concept roadmap](../roadmap-of-concepts.md), believe it or not, you've been learning the basics of programming, relevant to a whole range of coding jobs.
 
 Now the instructors will look at specific elements you've learned about and how they're relevant elsewhere.
 
@@ -146,9 +146,7 @@ If we have time, we will do [a short workshop on moving your work to to p5.js](.
 
 ### Some places to get inspiration with p5.js
 
-Here is an essay by Jason Bailey about "generative art". It has lots of interesting examples which might inspire you: ["Why Love Generative Art?"](https://www.artnome.com/news/2018/8/8/why-love-generative-art)
-
-If you use twitter, here is an artist I like: https://twitter.com/manoloidee
+Here is an essay by Jason Bailey about "generative art". It has lots of interesting examples which might inspire you: ["Why Love Generative Art?"](https://www.artnome.com/news/2018/8/8/why-love-generative-art). If you use Twitter, here is a recommended "generative" artist: https://twitter.com/manoloidee.
 
 ## End with a game or two
 

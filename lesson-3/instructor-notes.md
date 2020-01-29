@@ -15,7 +15,8 @@ Notes for the instructor for lesson 3.
 | 13:30 - 14:00 | Favourite Khan Academy project presentation |
 | 14:00 - 14:45 | Lunch |
 | 14:45 - 14:50 | Introduce pairing |
-| 14:50 - 17:30 | Pairing/1-to-1 assessments |
+| 14:50 - 17:15 | Pairing/1-to-1 assessments |
+| 17:15 - 17:30 | Set up homework |
 
 ## Shout out questions
 
