@@ -128,6 +128,14 @@ Make sure you understand the homework for next week before you leave the classro
 
 <!-- TODO: Make sure the homework is all here -->
 
+## Khan Academy: Intro to JS
+
+Finish the [Khan Academy: Intro to JS course](https://www.khanacademy.org/computing/computer-programming/programming).
+
+**IMPORTANT!!**
+
+You should **SKIP** the "Object-Orientated Design" section. It is out-of-date and confusing!
+
 ## Continuing with JavaScript Drawing and Animation after this course
 
 If you enjoyed using JavaScript to make drawings and animations, we recommend further study and play with the p5.js library, using the [OpenProcessing](https://openprocessing.org) platform or CodePen.

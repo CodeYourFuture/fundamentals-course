@@ -64,7 +64,7 @@ We will be studying the [Khan Academy](https://www.khanacademy.org) Intro to JS 
 1. To the right of `Intro to JS: Drawing and Animation`, press Start
 1. Click the "Start" button for the "What is Programming?" lesson
 1. Read the instructions carefully and try to complete the exercises
-1. Complete as many lessons as you can AT LEAST UP TO THE Writing Clean Code section.
+1. Complete as many lessons as you can **AT LEAST UP TO** the ["Text and Strings" section](https://www.khanacademy.org/computing/computer-programming/programming#text-basics). You can **SKIP** the "Becoming a community coder" section.
 
 There will be some time in class to start the first exercises. Let the instructors know if you get stuck.
 
