@@ -116,14 +116,3 @@ Each student will have a pairing session with one of the instructors to solve a 
 Make sure you understand the homework for next week before you leave the classroom. See Google Classroom for the definitive list of homework assignments. Make sure you check it regularly.
 
 <!-- TODO: Make sure the homework is all here -->
-
-### The JS Way
-
-We're going to read more of [The JS Way](https://github.com/bpesquet/thejsway) book. The chapters that we want to read are:
-
-1. [Environment setup](https://github.com/bpesquet/thejsway/blob/master/manuscript/intro04.md) (note: **please use Solution A**)
-2. [Chapter 1: 3, 2, 1... Code!](https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter01.md)
-3. [Chapter 2: Play with variables](https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter02.md)
-4. [Chapter 3: Add conditions](https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter03.md)
-5. [Chapter 4: Repeat statements](https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter04.md)
-6. [Chapter 5: Write functions](https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter05.md)

@@ -118,3 +118,14 @@ Here is a list of topic ideas which you could present about:
 - Why is the "Conditional" block useful?
 
 If you want to present a different idea, that is fine as well. Then next week, you'll each present what you learned to a few students from the class.
+
+### Write an "algorithm recipe"
+
+Programming is all about writing *algorithms*. What is an algorithm?
+
+1. Read this [section of a book](https://github.com/thejsway/thejsway/blob/master/manuscript/intro02.md#introduction-to-algorithms)
+1. Watch [this video](http://youtube.com/watch?v=cDA3_5982h8) 😄
+
+These show "algorithm recipes", and the video shows that you have to think carefully when writing them!
+
+Write your own "algorithm recipe" for your favourite food and submit it to Google Classroom. Next week we'll read some of the best algorithms to see if they have any missing steps!
