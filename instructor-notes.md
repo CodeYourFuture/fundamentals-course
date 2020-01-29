@@ -60,26 +60,7 @@ Several assessments have been designed for this module. They should be completed
 * Even for small but significant interactions, volunteers should be encouraged to fill out [this feedback form](https://forms.gle/GgpFkgKCRPVtTtrJ7). It's fine to skip bits of it - there's a free text section at the end.
 * For form administrators, that's [here](https://docs.google.com/forms/d/13F6J1HiBvmxZy-cSrgDwVxpVAZPdjU3Rv2wsXIpmo_M/edit)
 
-
-### 10 minute formative assessments
-
-The goal of these assessments is to assess how well the material is being taught. Based on the results of the assessment, the instructors can decide whether some subjects need to be revisited. Consider whether they could be approached in a different way.
-
-They should take no more than 10 minutes to run.
-
-**Code.org**
-
-- [Form (for students)](https://docs.google.com/forms/d/e/1FAIpQLSf_5VO4d2sRRSxiIQk1h28iSGojTQ70Yjl4_tFT-fFtUaEX4w/viewform?usp=sf_link)
-- [Responses spreadsheet (for instructors)](https://docs.google.com/spreadsheets/d/1yIgzNir1sI9SAfbGi4PN1NXTEwQ7hDhxetTx24KgiVI/edit?usp=sharing)
-- [Edit the form (for instructors)](https://docs.google.com/forms/d/18Ap4_CImrR8n7fJBhrJmwV9Cih2OtttyAD3Oolembhc/edit)
-
-**Khan Academy**
-
-- [Form (for students)](https://docs.google.com/forms/d/e/1FAIpQLScLsing_4dNOfKkaL4W3qqoS7uUni1-IQ54bIQLkA3ML6n6Gg/viewform?usp=sf_link)
-- [Responses spreadsheet (for instructors)](https://docs.google.com/spreadsheets/d/1hE32rieJVIdl1EgHwWOvxovAkLwVu0c_wsqXKjkWHzA/edit?usp=sharing)
-- [Edit the form (for instructors)](https://docs.google.com/forms/d/1zCZDmrg0-nX8fmWcHeJslrNK8io6s7W5YLv2C2Ia4Ls/edit?usp=sharing)
-
-### Pairing assessments
+## 1-to-1 assessments
 
 The goal of these assessments is to assess how well the student is progressing. Based on the outcome of the assessment, the instructor(s) can decide whether the student has a good understanding of the subject.
 
@@ -100,7 +81,6 @@ A volunteer should be assigned to sit down with 1 student at a time to "pair" on
 - [Volunteer notes](https://github.com/CodeYourFuture/intro-to-programming-assessments/tree/master/khan_academy_cars/mentor_notes.md)
 - [Feedback form (for volunteer)](https://docs.google.com/forms/d/e/1FAIpQLSfPlYydoYxlsYtR3ObIzAByOjNd10gQvtUd715b8ntYaFzwbw/viewform)
 - [Edit the form (for instructors)](https://docs.google.com/forms/d/1DW-WwKuQhVGlgcUgB8GzFRK6m3Yty0nJGqtxgYQq_EI/edit)
-
 
 **Khan Academy - Three Boxes**
 
