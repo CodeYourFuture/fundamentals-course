@@ -70,3 +70,7 @@ There will be some time in class to start the first exercises. Let the instructo
 #### No headphones? Read the subtitles or video transcript
 
 If you do not have headphones to watch the videos you can click on "CC" (subtitles/closed captions) in the video window, or underneath the video on "Transcript".
+
+### Learning How to Learn course
+
+Continue to **Week 2** of the [Learning How to Learn course](https://www.coursera.org/learn/learning-how-to-learn). It should take around 3 hours to complete.

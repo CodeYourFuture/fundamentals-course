@@ -124,3 +124,7 @@ Continue to work on the [Khan Academy: Intro to JS course](https://www.khanacade
 First, make sure that you have completed everything up to the "Text and Strings" section.
 
 If you have already done that, then you should continue **AT LEAST UP TO** the ["Writing Clean Code" section](https://www.khanacademy.org/computing/computer-programming/programming#writing-clean-code).
+
+### Learning How to Learn course
+
+Continue to **Week 3** of the [Learning How to Learn course](https://www.coursera.org/learn/learning-how-to-learn). It should take around 4 hours to complete.

@@ -126,15 +126,17 @@ We'll have a look at some of our favourite free resources - both online and in p
 
 Make sure you understand the homework for next week before you leave the classroom. See Google Classroom for the definitive list of homework assignments. Make sure you check it regularly.
 
-<!-- TODO: Make sure the homework is all here -->
-
-## Khan Academy: Intro to JS
+### Khan Academy: Intro to JS
 
 Finish the [Khan Academy: Intro to JS course](https://www.khanacademy.org/computing/computer-programming/programming).
 
 **IMPORTANT!!**
 
 You should **SKIP** the "Object-Orientated Design" section. It is out-of-date and confusing!
+
+### Learning How to Learn course
+
+Continue to **Week 4** of the [Learning How to Learn course](https://www.coursera.org/learn/learning-how-to-learn). It should take around 4 hours to complete.
 
 ## Continuing with JavaScript Drawing and Animation after this course
 

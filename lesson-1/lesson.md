@@ -119,6 +119,13 @@ Here is a list of topic ideas which you could present about:
 
 If you want to present a different idea, that is fine as well. Then next week, you'll each present what you learned to a few students from the class.
 
+### Learning How to Learn course
+
+[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) is a video course on the Coursera site that teaches you how to be the most effective at learning.
+
+1. Click the "Join for Free" button and sign up for an account
+2. Watch the videos in **Week 1** of the course. It should take around 4 hours to complete
+
 ### Write an "algorithm recipe"
 
 Programming is all about writing *algorithms*. What is an algorithm?
