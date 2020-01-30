@@ -88,10 +88,9 @@ We will be completing the course called "Course 3".
 
 To get set up, follow these instructions:
 
-1. [Click here](https://studio.code.org/join/YCGHSP) to join the CYF class on code.org.  This will prompt you to make an account.
-2. Once you've registered and joined the class this way, you should be taken to an overview of [course 3](https://studio.code.org/s/course3).
-3. Start by clicking on [item 1 from lesson "2. Maze"](https://studio.code.org/s/course3/stage/2/puzzle/1).  (Yes, you should skip lesson 1). Let the instructors know if you get stuck - it will be harder for us to help when you're at home
-4. Read the instructions carefully and try to complete all stages of ALL lessons **EXCEPT** the ones below
+1. Follow the instructions for registering a Code.org account provided by the instructors
+2. Start by clicking on [item 1 from lesson "2. Maze"](https://studio.code.org/s/course3/stage/2/puzzle/1). (Yes, you should skip lesson 1). Let the instructors know if you get stuck - it will be harder for us to help when you're at home
+3. Read the instructions carefully and try to complete all stages of ALL lessons **EXCEPT** the ones below
 
 **SKIP** all of the lessons starting with these numbers:
 

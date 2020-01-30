@@ -54,9 +54,7 @@ Each student will have a work with one of the instructors to solve a programming
 
 We will be studying the [Khan Academy](https://www.khanacademy.org) Intro to JS course. This will give you an introduction to the JavaScript programming language which we will be using for the rest of the syllabus. To get set up follow these instructions:
 
-1. [Click here](https://www.khanacademy.org/join/WU488UNX) to create an account on Khan Academy within the Fundamentals class (you must use that link!)
-1. Finish creating your account
-1. [Click here too](https://www.khanacademy.org/join/YYP65VVP) and click "Join class".  (To enable both teachers to see your progress)
+1. Follow the instructions for registering a Khan Academy account provided by the instructors
 1. Click on Courses under `My Stuff`
 1. Choose `Adult learner` and go to the next step
 1. Choose `Computer Programming` and continue
