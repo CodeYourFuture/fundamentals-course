@@ -1,4 +1,4 @@
-# Intro To Programming 1
+# Fundamentals 1
 
 ## Welcome
 

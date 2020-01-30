@@ -1,4 +1,4 @@
-# Intro To Programming 2
+# Fundamentals 2
 
 ## Warm up game
 
@@ -54,7 +54,7 @@ Each student will have a work with one of the instructors to solve a programming
 
 We will be studying the [Khan Academy](https://www.khanacademy.org) Intro to JS course. This will give you an introduction to the JavaScript programming language which we will be using for the rest of the syllabus. To get set up follow these instructions:
 
-1. [Click here](https://www.khanacademy.org/join/WU488UNX) to create an account on Khan Academy within the Intro to Programming class (you must use that link!)
+1. [Click here](https://www.khanacademy.org/join/WU488UNX) to create an account on Khan Academy within the Fundamentals class (you must use that link!)
 1. Finish creating your account
 1. [Click here too](https://www.khanacademy.org/join/YYP65VVP) and click "Join class".  (To enable both teachers to see your progress)
 1. Click on Courses under `My Stuff`

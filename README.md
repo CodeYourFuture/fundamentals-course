@@ -1,6 +1,6 @@
-# CYF Intro To Programming
+# CYF Fundamentals Course
 
-This is the syllabus for Code Your Future's Intro To Programming course. During the course you will get a gentle introduction to what programming is, why we want to learn and how to start learning.
+This is the syllabus for Code Your Future's Fundamentals course. During the course you will get a gentle introduction to what programming is, why we want to learn and how to start learning.
 
 [More about this course](about-this-course.md).
 

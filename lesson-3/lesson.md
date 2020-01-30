@@ -1,4 +1,4 @@
-# Intro to Programming 3
+# Fundamentals 3
 
 ## Warm up game
 

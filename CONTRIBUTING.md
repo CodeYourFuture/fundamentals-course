@@ -33,10 +33,10 @@ This will create a _Pull Request_ that is sent to us to review. If we have any f
 ### Git
 
 1. Click the Fork button to make a copy on your own account
-2. Clone the repo to your computer (e.g. `git clone git@github.com:YOUR_GITHUB_USERNAME/intro-to-programming-module.git`)
+2. Clone the repo to your computer (e.g. `git clone git@github.com:YOUR_GITHUB_USERNAME/fundamentals-course.git`)
 3. Edit the relevant Markdown files. All typical Markdown syntax is supported.
 4. Commit and push your changes to your fork
-5. Visit `https://github.com/YOUR_GITHUB_USERNAME/intro-to-programming-module/pull/new/YOUR_BRANCH_NAME`
+5. Visit `https://github.com/YOUR_GITHUB_USERNAME/fundamentals-course/pull/new/YOUR_BRANCH_NAME`
 6. Fill out the Pull Request title (what changed) and description (why you made the change)
 
 ### Markdown
