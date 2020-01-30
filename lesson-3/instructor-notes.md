@@ -69,8 +69,8 @@ Please read the [1-to-1 assessment goals](../instructor-notes.md#1-to-1-assessme
 
 ### Khan Academy - Three Cars
 
-- [Readme page (for instructors)](https://github.com/CodeYourFuture/intro-to-programming-assessments/tree/master/khan_academy_cars)
-- [Task description (for students)](https://github.com/CodeYourFuture/intro-to-programming-assessments/tree/master/khan_academy_cars/assessment_task.md)
-- [Volunteer notes](https://github.com/CodeYourFuture/intro-to-programming-assessments/tree/master/khan_academy_cars/mentor_notes.md)
+- [Readme page (for instructors)](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/khan_academy_cars)
+- [Task description (for students)](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/khan_academy_cars/assessment_task.md)
+- [Volunteer notes](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/khan_academy_cars/mentor_notes.md)
 - [Feedback form (for volunteer)](https://docs.google.com/forms/d/e/1FAIpQLSfPlYydoYxlsYtR3ObIzAByOjNd10gQvtUd715b8ntYaFzwbw/viewform)
 - [Edit the form (for instructors)](https://docs.google.com/forms/d/1DW-WwKuQhVGlgcUgB8GzFRK6m3Yty0nJGqtxgYQq_EI/edit)

@@ -51,9 +51,9 @@ The assessment is also structured a little differently to the previous two, as i
 
 ### Khan Academy - Three Boxes
 
-- [Readme page (for instructors)](https://github.com/CodeYourFuture/intro-to-programming-assessments/tree/master/khan-academy-boxes-and-ribbons)
-- [Task description (for students)](https://github.com/CodeYourFuture/intro-to-programming-assessments/blob/master/khan-academy-boxes-and-ribbons/assessment-tasks-for-students.md)
-- [Example solutions](https://github.com/CodeYourFuture/intro-to-programming-assessments/tree/master/khan-academy-boxes-and-ribbons)
+- [Readme page (for instructors)](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/khan-academy-boxes-and-ribbons)
+- [Task description (for students)](https://github.com/CodeYourFuture/fundamentals-course-assessments/blob/master/khan-academy-boxes-and-ribbons/assessment-tasks-for-students.md)
+- [Example solutions](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/khan-academy-boxes-and-ribbons)
 - [Feedback form (for volunteer)](https://docs.google.com/forms/d/e/1FAIpQLSdkyYCIltW9bhoDhpJIDEmCEKWKD7NGVOk-vj3Bc9fJbqkmAA/viewform)
 - TODO: add link to edit the form
 
