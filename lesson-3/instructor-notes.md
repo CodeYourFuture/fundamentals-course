@@ -44,6 +44,7 @@ Potential ideas for live coding:
 - Pick one of the projects from the course and implement one of their suggestions
   - E.g. adding more stars to the Shooting stars project
 - Deliberately introduce a bug into a project, then debug the problem with suggestions from the class
+<!-- TODO: add more ideas for live coding -->
 
 ## Favourite Khan Academy project presentations
 

@@ -28,8 +28,6 @@ The instructor will likely ask for suggestions on how to do something from the c
 
 *Tip*: A quiet class with no questions or suggestions is a difficult class to teach
 
-<!-- TODO: link to (or inline) some of the common questions -->
-
 ## Present your favourite project to your classmates
 
 You will give a very, very simple 2 minute presentation to 2 or 3 other students and a volunteer (if one is available). Before the presentations we'll have 5 minutes to prep. Pick your favourite project (or the one that's most interesting to talk about) and get ready to explain:
@@ -114,8 +112,6 @@ Each student will have a pairing session with one of the instructors to solve a 
 ## Homework
 
 Make sure you understand the homework for next week before you leave the classroom. See Google Classroom for the definitive list of homework assignments. Make sure you check it regularly.
-
-<!-- TODO: Make sure the homework is all here -->
 
 ### Khan Academy: Intro to JS
 
