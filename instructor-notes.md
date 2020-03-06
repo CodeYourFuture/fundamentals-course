@@ -42,6 +42,7 @@ TODO: add some of these
 ## Khan Academy
 
 <!-- TODO: add notes on signing up as a teacher -->
+In order to monitor student progress on the course, it is recommended that several teacher and TA volunteers set themselves up a 'class' in KA right at the very start of the module, and then get ALL students to join ALL classes.  This gives visibility of the student rota, their exercise progress, and perhaps most importantly, their project attempts.
 
 Student progress often won't be updated on your dashboard until as much as 5-10 minutes have passed
 
