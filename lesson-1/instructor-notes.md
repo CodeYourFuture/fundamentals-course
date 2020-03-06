@@ -19,7 +19,7 @@
 
 Kahoot is a web app for running quick, fun quizzes with the whole class.
 
-A prepared quiz is [available here](https://play.kahoot.it/v2/?quizId=62bd599b-af55-41c3-b335-c28c9060c023). It is intended to get a general level of confidence in their programming ability from the class. To be able to compare we suggest running it in the first and last classes.
+A prepared quiz is [available here](https://play.kahoot.it/v2/?quizId=62bd599b-af55-41c3-b335-c28c9060c023) (editor view [here](https://create.kahoot.it/details/62bd599b-af55-41c3-b335-c28c9060c023)). It is intended to get a general level of confidence in their programming ability from the class. To be able to compare we suggest running it in the first and last classes.
 
 ## Slack
 
