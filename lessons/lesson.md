@@ -1,4 +1,4 @@
-# Fundamentals 1
+# Lesson 1
 
 ## Welcome
 
@@ -20,13 +20,13 @@ We'll read through the [Code of Conduct](https://codeyourfuture.github.io/syllab
 
 Next we'll have a presentation about why you would want to be a programmer.
 
-Link to the presentation slides: [https://docs.google.com/presentation/d/1XVVq6acZwMb7r1OAx2b54nS5WOguO3V7m7Pspledi60/edit#slide=id.g253640fe83_0_202](https://docs.google.com/presentation/d/1XVVq6acZwMb7r1OAx2b54nS5WOguO3V7m7Pspledi60/edit#slide=id.g253640fe83_0_202)
+Link to the presentation slides: [https://docs.google.com/presentation/d/1XVVq6acZwMb7r1OAx2b54nS5WOguO3V7m7Pspledi60/edit\#slide=id.g253640fe83\_0\_202](https://docs.google.com/presentation/d/1XVVq6acZwMb7r1OAx2b54nS5WOguO3V7m7Pspledi60/edit#slide=id.g253640fe83_0_202)
 
 ## What level is the class starting at?
 
 If you've never programmed before, don't worry - you're definitely on the right course!
 
-We'll do a 5-minute quiz to help us find out the class's level, using the fun app called ["Kahoot"](https://kahoot.it/).
+We'll do a 5-minute quiz to help us find out the class's level, using the fun app called ["Kahoot"](https://play.kahoot.it/v2/?quizId=62bd599b-af55-41c3-b335-c28c9060c023).
 
 ## Software Setup
 
@@ -34,7 +34,7 @@ Finally, to help us communicate with you during the course you'll need to instal
 
 ### Slack
 
-1. Install Slack on your laptop (and phone, if possible)
+1. Install Slack on your laptop \(and phone, if possible\)
 2. Log in to the [Code Your Future Applicants workspace](https://cyf-applicants.slack.com/)
 
 ### The Golden rule of video calls on Slack & Google Meet
@@ -46,7 +46,7 @@ Whenever you are not talking, your microphone should be muted! This prevents dis
 To keep track of what homework you need to do and what you have completed we use Google Classroom. To set up your account:
 
 1. Go to [classroom.google.com](https://classroom.google.com)
-2. Log in to (or create) your Google account
+2. Log in to \(or create\) your Google account
 3. Click the "+" button in the top right, then "Join class"
 4. Paste in this classroom code that your instructor gives you and click "Join"
 
@@ -63,9 +63,9 @@ Go ahead and submit the first assignment now, "first assignment: what's your fav
 
 ## Tips for success
 
-[Here is a list of some tips for success on the course](../tips-for-success.md). We'll discuss some of these next week, and add to these as we progress.
+[Here is a list of some tips for success on the course](../other-resources/tips-for-success.md). We'll discuss some of these next week, and add to these as we progress.
 
-Make sure you understand the first tip now ("don't hide when you don't know"). If you have questions, let the volunteers know.
+Make sure you understand the first tip now \("don't hide when you don't know"\). If you have questions, let the volunteers know.
 
 ## Homework
 
@@ -82,14 +82,14 @@ For your first week of homework you will mostly be:
 
 [Code.org](https://code.org) is a website which teaches beginners how to code and gives them lots of practice.
 
-It uses block-based coding (we'll start JavaScript next week). Don't be put off by the simplicity - even top universities teach block-based coding (e.g. Berkeley & Harvard).
+It uses block-based coding \(we'll start JavaScript next week\). Don't be put off by the simplicity - even top universities teach block-based coding \(e.g. Berkeley & Harvard\).
 
-We will be completing the course called "Course 3". 
+We will be completing the course called "Course 3".
 
 To get set up, follow these instructions:
 
 1. Follow the instructions for registering a Code.org account provided by the instructors
-2. Start by clicking on [item 1 from lesson "2. Maze"](https://studio.code.org/s/course3/stage/2/puzzle/1). (Yes, you should skip lesson 1). Let the instructors know if you get stuck - it will be harder for us to help when you're at home
+2. Start by clicking on [item 1 from lesson "2. Maze"](https://studio.code.org/s/course3/stage/2/puzzle/1). \(Yes, you should skip lesson 1\). Let the instructors know if you get stuck - it will be harder for us to help when you're at home
 3. Read the instructions carefully and try to complete all stages of ALL lessons **EXCEPT** the ones below
 
 **SKIP** all of the lessons starting with these numbers:
@@ -102,19 +102,19 @@ To get set up, follow these instructions:
 * 19
 * 20
 
-(All of the lessons starting with "Unplugged Activity")
+\(All of the lessons starting with "Unplugged Activity"\)
 
 Once you're finished, press submit in Google Classroom, and please add a comment mentioning your Code.org username.
 
 ### Prepare a presentation for the next class
 
-Part of being a programmer is communicating your ideas to other people on your team. To help you practice this very important skill, for homework we want you to prepare a short (5 minutes) presentation about something you learned during the week. You can use [Google Slides](https://www.google.com/slides/about/) if you want to prepare slides (this is optional).
+Part of being a programmer is communicating your ideas to other people on your team. To help you practice this very important skill, for homework we want you to prepare a short \(5 minutes\) presentation about something you learned during the week. You can use [Google Slides](https://www.google.com/slides/about/) if you want to prepare slides \(this is optional\).
 
 Here is a list of topic ideas which you could present about:
 
-- Why are the "Repeat" and "Repeat Until" blocks useful?
-- Why are "Functions" useful?
-- Why is the "Conditional" block useful?
+* Why are the "Repeat" and "Repeat Until" blocks useful?
+* Why are "Functions" useful?
+* Why is the "Conditional" block useful?
 
 If you want to present a different idea, that is fine as well. Then next week, you'll each present what you learned to a few students from the class.
 
@@ -127,11 +127,12 @@ If you want to present a different idea, that is fine as well. Then next week, y
 
 ### Write an "algorithm recipe"
 
-Programming is all about writing *algorithms*. What is an algorithm?
+Programming is all about writing _algorithms_. What is an algorithm?
 
 1. Read this [section of a book](https://github.com/thejsway/thejsway/blob/master/manuscript/intro02.md#introduction-to-algorithms)
-1. Watch [this video](http://youtube.com/watch?v=cDA3_5982h8) 😄
+2. Watch [this video](http://youtube.com/watch?v=cDA3_5982h8) 😄
 
 These show "algorithm recipes", and the video shows that you have to think carefully when writing them!
 
 Write your own "algorithm recipe" for your favourite food and submit it to Google Classroom. Next week we'll read some of the best algorithms to see if they have any missing steps!
+

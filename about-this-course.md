@@ -1,4 +1,4 @@
-# About This Course
+# About this course
 
 ## What this course IS
 
@@ -13,14 +13,13 @@ We'll also look at what you can make with programming and what kind of jobs are 
 
 ### Concept Roadmap
 
-If you want more detail about the topics that we're covering, take a look at the [concept roadmap](roadmap-of-concepts.md)
+If you want more detail about the topics that we're covering, take a look at the [concept roadmap](other-resources/roadmap-of-concepts.md)
 
 ### About further study on CYF's web-development course:
 
 At the end of this short course,
 
 * if you decide programming is definitely for you
-
 * and if we think you're ready
 
 there will be the possibility to apply for further study on the next full-stack web development course.
@@ -29,32 +28,33 @@ Whether you take that path or not, we want this course to be useful to you.
 
 ## What this course is NOT
 
-### It's *not* a web development course
+### It's _not_ a web development course
 
-Although we'll certainly learn some JavaScript - the most popular language in web development - we won't do *any* web development with it!
- 
-### It's *not* a teacher-led course
+Although we'll certainly learn some JavaScript - the most popular language in web development - we won't do _any_ web development with it!
+
+### It's _not_ a teacher-led course
 
 We're not going to lecture you.
 
-You will work through some online courses, and we (or the people sitting around you) will help you when you're really stuck.
+You will work through some online courses, and we \(or the people sitting around you\) will help you when you're really stuck.
 
-### … and we're *not* starting with JavaScript!
+### … and we're _not_ starting with JavaScript!
 
-We'll start to look at JavaScript in week 2.  First we're going to use a simpler language to learn and practice fundamentals.
+We'll start to look at JavaScript in week 2. First we're going to use a simpler language to learn and practice fundamentals.
 
 ## What you will need for this course
 
 * A laptop and charger
 * A phone would be useful
-* Pen and paper (ideally a simple notebook for the course duration)
+* Pen and paper \(ideally a simple notebook for the course duration\)
 * Headphones, if you have them - the course contains a lot of video content
 
 ## Software you'll need to install
 
-- Slack
-  - https://slack.com/download
-- Google Classroom
-  - On Android: https://play.google.com/store/apps/details?id=com.google.android.apps.classroom&hl=en_GB
-  - on iOS: https://apps.apple.com/us/app/google-classroom/id924620788 
-- That's it! Most of the software we'll be using is web-based
+* Slack
+  * [https://slack.com/download](https://slack.com/download)
+* Google Classroom
+  * On Android: [https://play.google.com/store/apps/details?id=com.google.android.apps.classroom&hl=en\_GB](https://play.google.com/store/apps/details?id=com.google.android.apps.classroom&hl=en_GB)
+  * on iOS: [https://apps.apple.com/us/app/google-classroom/id924620788](https://apps.apple.com/us/app/google-classroom/id924620788) 
+* That's it! Most of the software we'll be using is web-based
+

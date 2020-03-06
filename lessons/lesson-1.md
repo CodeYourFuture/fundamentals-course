@@ -1,4 +1,4 @@
-# Fundamentals 2
+# Lesson 2
 
 ## Warm up game
 
@@ -38,8 +38,6 @@ Remember that communicating information to others is a really important skill fo
 
 Although the block-based coding you practiced for homework solved only simple problems with a simple language, we'll look briefly at four concepts you used which are also at the heart of professional coding.
 
-<!-- TODO: write this up properly -->
-
 ## Help with Homework Exercises
 
 This is your opportunity to ask questions about last week's homework. If you would like some assistance on any of the exercises, the teaching assistants will be available to help.
@@ -55,20 +53,21 @@ Each student will have a work with one of the instructors to solve a programming
 We will be studying the [Khan Academy](https://www.khanacademy.org) Intro to JS course. This will give you an introduction to the JavaScript programming language which we will be using for the rest of the syllabus. To get set up follow these instructions:
 
 1. Follow the instructions for registering a Khan Academy account provided by the instructors
-1. Click on Courses under `My Stuff`
-1. Choose `Adult learner` and go to the next step
-1. Choose `Computer Programming` and continue
-1. To the right of `Intro to JS: Drawing and Animation`, press Start
-1. Click the "Start" button for the "What is Programming?" lesson
-1. Read the instructions carefully and try to complete the exercises
-1. Complete as many lessons as you can **AT LEAST UP TO** the ["Text and Strings" section](https://www.khanacademy.org/computing/computer-programming/programming#text-basics). You can **SKIP** the "Becoming a community coder" section.
+2. Click on Courses under `My Stuff`
+3. Choose `Adult learner` and go to the next step
+4. Choose `Computer Programming` and continue
+5. To the right of `Intro to JS: Drawing and Animation`, press Start
+6. Click the "Start" button for the "What is Programming?" lesson
+7. Read the instructions carefully and try to complete the exercises
+8. Complete as many lessons as you can **AT LEAST UP TO** the ["Text and Strings" section](https://www.khanacademy.org/computing/computer-programming/programming#text-basics). You can **SKIP** the "Becoming a community coder" section.
 
 There will be some time in class to start the first exercises. Let the instructors know if you get stuck.
 
 #### No headphones? Read the subtitles or video transcript
 
-If you do not have headphones to watch the videos you can click on "CC" (subtitles/closed captions) in the video window, or underneath the video on "Transcript".
+If you do not have headphones to watch the videos you can click on "CC" \(subtitles/closed captions\) in the video window, or underneath the video on "Transcript".
 
 ### Learning How to Learn course
 
 Continue to **Week 2** of the [Learning How to Learn course](https://www.coursera.org/learn/learning-how-to-learn). It should take around 3 hours to complete.
+
