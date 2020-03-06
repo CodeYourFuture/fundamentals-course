@@ -60,6 +60,7 @@ We will be studying the [Khan Academy](https://www.khanacademy.org) Intro to JS 
 6. Click the "Start" button for the "What is Programming?" lesson
 7. Read the instructions carefully and try to complete the exercises
 8. Complete as many lessons as you can **AT LEAST UP TO** the ["Text and Strings" section](https://www.khanacademy.org/computing/computer-programming/programming#text-basics). You can **SKIP** the "Becoming a community coder" section.
+9. As soon as you complete any "project", make sure you submit it for evaluation immediately, to get feedback.
 
 There will be some time in class to start the first exercises. Let the instructors know if you get stuck.
 
