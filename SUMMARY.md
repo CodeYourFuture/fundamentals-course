@@ -11,7 +11,7 @@
   - [Lesson 1](lesson-1/instructor-notes.md)
   - [Lesson 2](lesson-2/instructor-notes.md)
   - [Lesson 3](lesson-3/instructor-notes.md)
-  - [Lesson 4](lessons-4/instructor-notes.md)
+  - [Lesson 4](lesson-4/instructor-notes.md)
 - [Other resources](other-resources/README.md)
   - [Tips for success](other-resources/tips-for-success.md)
   - [Roadmap of concepts](other-resources/roadmap-of-concepts.md)
