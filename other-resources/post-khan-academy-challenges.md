@@ -77,9 +77,20 @@ Go back to the ["Shooting stars" project](https://www.khanacademy.org/computing/
 
 ## p5.js Challenge - font outline
 
-Only attempt this challenge if you've seen and understand p5.js and OpenProcessing before.
+Only attempt this challenge if you've already learned about p5.js and OpenProcessing.
+
+* In this challenge you'll draw circles (or other shapes) at points around the outline of some text to display it in a novel way.  (An array of points from the text outline will be provided.)
 
 * Fork \(spin-off\) [this "Font as points" challenge project](https://www.openprocessing.org/sketch/812356)
-* Read the code comments for details
-* Essentially, you are provided with an array of points on the outline of some text, and you must draw a circle at each point.
+* Read the code comments for details of the challenge.
+
+
+## p5.js Challenge 2 - Random Words poster
+
+Only attempt this challenge if you've already learned about p5.js and OpenProcessing.
+
+This is a tutorial but it is made up of many small challenges and there is plenty of room for creativity.  In it you will make a "poster" of random words in random colours at random positions, in one or more custom fonts of your choice  (advanced: rotated to random angles).
+
+* Fork \(spin-off\) [this "Random Words Tutorial" sketch](https://www.openprocessing.org/sketch/812093)
+* Page through it and attempt the challenges within
 
