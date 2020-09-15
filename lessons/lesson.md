@@ -2,19 +2,19 @@
 
 ## Welcome
 
-Welcome to Code Your Future and to the world of programming! Now that you have built a website in CodePen, we'll look at the basics of how programming works. We will start writing our own programs and what you can make with programming. We will also explore what kind of jobs are available to programmers.
+Welcome to Code Your Future and to the world of programming! This course was designed for people new to coding as well as more experienced people. Now that you have built a website in CodePen, we'll look at the basics of how programming works. We will start writing our own programs and what you can make with programming. We will also explore what kind of jobs are available to programmers.
 
 ## Introduction to Code Your Future
 
 Before we get started with programming we want to learn a bit about you, and you can learn a bit about us.
 
-We'll start with some introductions: so that we can get to know each other. We'll play some games.
+We'll start with some introductions so that we can get to know each other. We'll play some games.
 
-## Code of Conduct & House Rules
+## Student Agreement, Code of Conduct & House Rules
 
 While you're at Code Your Future, we expect you to follow some rules. This is so that **everyone** has a fun, productive and enjoyable experience.
 
-We'll read through the [Code of Conduct](https://codeyourfuture.github.io/syllabus-master/CODE_OF_CONDUCT.html) and [House Rules](https://codeyourfuture.github.io/syllabus-master/others/house-rules.html) together and answer any questions you have about them.
+We'll read through the [Student Agreement](https://docs.codeyourfuture.io/students/student-agreement), [Code of Conduct](https://codeyourfuture.github.io/syllabus-master/CODE_OF_CONDUCT.html) and [House Rules](https://codeyourfuture.github.io/syllabus-master/others/house-rules.html) together and answer any questions you have about them.
 
 ## Getting into Technology: Why & How
 
@@ -28,22 +28,25 @@ This course is designed for complete beginners. If you've never programmed befor
 
 We'll do a 5-minute quiz to help us find out the class's level, using the fun app called ["Kahoot"](https://play.kahoot.it/v2/?quizId=62bd599b-af55-41c3-b335-c28c9060c023).
 
-## Software Setup
+## Software Check
 
-Finally, to help us communicate with you during the course you'll need to install some software.
+Let's look at some of the tools we use to communicate with you during the course.  You should have installed the following but let's check to make sure we all know what we are doing.
 
 ### Slack
 
 1. Install Slack on your laptop \(and phone, if possible\)
 2. Log in to the [Code Your Future Intro to Coding Workspace](https://cyf-introtocoding.slack.com)
+3. Make sure your Slack name is your real name
+4. Add a clear face photo of yourself 
+5. Post 5 interesting things about yourself in a thread
 
-### The Golden Rule of video calls on Slack, Zoom & Google Meet
+### The Golden Rule of video calls on Zoom, Slack & Google Meet
 
 Whenever you are not talking, your microphone should be muted! This prevents distracting noise for the other participants.
 
 ### Google Classroom
 
-To keep track of what homework you need to do and what you have completed we use Google Classroom. To set up your account:
+To keep track of your course assignments we use Google Classroom. To set up your account:
 
 1. Go to [classroom.google.com](https://classroom.google.com)
 2. Log in to \(or create\) your Google account
