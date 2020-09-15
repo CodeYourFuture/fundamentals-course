@@ -1,9 +1,9 @@
-# Lesson 2 - Instructor Notes
+# Lesson 2
 
 ## Rough Schedule
 
 | Time | Activity |
-|------|----------|
+| :--- | :--- |
 | 10:45 - 11:00 | Preparation of space |
 | 11:00 - 11:30 | Warm up game/Intros |
 | 11:30 - 11:40 | Shout out questions |
@@ -22,11 +22,9 @@ At the beginning of the lesson, get the students thinking about questions that t
 
 You can then prioritise answering the questions on your own time, or split into groups to answer several questions at once.
 
-It is also useful to get a volunteer write up the questions in a more permanent place (e.g. [as a Gist](https://gist.github.com/)) and share on Slack.
+It is also useful to get a volunteer write up the questions in a more permanent place \(e.g. [as a Gist](https://gist.github.com/)\) and share on Slack.
 
 ## Homework in perspective
-
-<!-- TODO: Flesh this out -->
 
 Quick presentation to discuss how block-based programming is relevant in the "real world", as it can appear a little "childish" to adults.
 
@@ -36,20 +34,21 @@ Possibly showing representations in JS, by clicking the "Show code" button on Co
 
 ## 1-to-1 assessment
 
-Please read the [1-to-1 assessment goals](../instructor-notes.md#1-to-1-assessments).
+Please read the [1-to-1 assessment goals](https://github.com/CodeYourFuture/fundamentals-course/tree/235b87473817bb3a95403fbbeb9c54297c282998/instructor-notes.md#1-to-1-assessments).
 
 ### Code.org - Three giraffes
 
 For this lesson we have prepared the "Three giraffes" assessment.
 
-- [Readme page (for instructors)](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/codeorg_three_giraffes)
-- [Task description (for students)](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/codeorg_three_giraffes/assessment_task.md)
-- [Volunteer notes](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/codeorg_three_giraffes/mentor_notes.md)
-- [Feedback form (for volunteer)](https://docs.google.com/forms/d/e/1FAIpQLSf5RN_jYq6Jvh4LdDdjuNL3TyUOcwncSpikTr-WVbBkm3JBCQ/viewform)
-- [Edit the form (for instructors)](https://docs.google.com/forms/d/15UtSv_A089jYxdZ7Guusf440FtckUaPLHvJAfv4dOY0/edit)
+* [Readme page \(for instructors\)](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/codeorg_three_giraffes)
+* [Task description \(for students\)](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/codeorg_three_giraffes/assessment_task.md)
+* [Volunteer notes](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/codeorg_three_giraffes/mentor_notes.md)
+* [Feedback form \(for volunteer\)](https://docs.google.com/forms/d/e/1FAIpQLSf5RN_jYq6Jvh4LdDdjuNL3TyUOcwncSpikTr-WVbBkm3JBCQ/viewform)
+* [Edit the form \(for instructors\)](https://docs.google.com/forms/d/15UtSv_A089jYxdZ7Guusf440FtckUaPLHvJAfv4dOY0/edit)
 
 ## Start Khan Academy homework in class
 
 It is a good idea to spend some time in the class working through the first few lessons. You can help with problems getting signed in, with the interface, etc.
 
-However, note that most of the Khan Academy lessons start with a (short) video. Encourage students to bring a pair of headphones or to turn on subtitles.
+However, note that most of the Khan Academy lessons start with a \(short\) video. Encourage students to bring a pair of headphones or to turn on subtitles.
+

@@ -2,13 +2,13 @@
 
 ## Welcome
 
-Welcome to Code Your Future and to the world of programming! Now that you have built a website in CodePen, we'll look at how the basics of how programming works, start writing our own programs and we'll also look at what you can make with programming and what kind of jobs are available to programmers.
+Welcome to Code Your Future and to the world of programming! Now that you have built a website in CodePen, we'll look at the basics of how programming works. We will start writing our own programs and what you can make with programming. We will also explore what kind of jobs are available to programmers.
 
 ## Introduction to Code Your Future
 
 Before we get started with programming we want to learn a bit about you, and you can learn a bit about us.
 
-We'll start with some introductions: so that we can get to know each other. We'll play some games including Zip-Zap-Boing and Happy Salmon.
+We'll start with some introductions: so that we can get to know each other. We'll play some games.
 
 ## Code of Conduct & House Rules
 
@@ -24,7 +24,7 @@ Link to the presentation slides: [https://docs.google.com/presentation/d/1XVVq6a
 
 ## What level is the class starting at?
 
-If you've never programmed before, don't worry - you're definitely on the right course!
+This course is designed for complete beginners. If you've never programmed before, don't worry - you're definitely on the right course!
 
 We'll do a 5-minute quiz to help us find out the class's level, using the fun app called ["Kahoot"](https://play.kahoot.it/v2/?quizId=62bd599b-af55-41c3-b335-c28c9060c023).
 
@@ -35,9 +35,9 @@ Finally, to help us communicate with you during the course you'll need to instal
 ### Slack
 
 1. Install Slack on your laptop \(and phone, if possible\)
-2. Log in to the [Code Your Future Applicants workspace](https://cyf-applicants.slack.com/)
+2. Log in to the [Code Your Future Intro to Coding Workspace](https://cyf-introtocoding.slack.com)
 
-### The Golden rule of video calls on Slack & Google Meet
+### The Golden Rule of video calls on Slack, Zoom & Google Meet
 
 Whenever you are not talking, your microphone should be muted! This prevents distracting noise for the other participants.
 
@@ -67,16 +67,17 @@ Go ahead and submit the first assignment now, "first assignment: what's your fav
 
 Make sure you understand the first tip now \("don't hide when you don't know"\). If you have questions, let the volunteers know.
 
-## Homework
+## Coursework
 
-As part of your learning journey with CYF you will be expected to work at home on projects that we set for you. This will help you practice what you learn on Sundays and get prepared for next week.
+As part of your learning journey with CYF you will be expected to work at home on projects that we set for you. This will help you practice what you learn in class and get prepared for next week.
 
-You will always be able to see a list of your homework assignments on Google Classroom.
+You will always be able to see a list of your coursework assignments on Google Classroom.
 
-For your first week of homework you will mostly be:
+Your first week assignments will mostly be:
 
-* working on a introduction to programming course and 
+* working on a introduction to programming course 
 * preparing a very short presentation for the rest of the class
+* working on your learning plan
 
 ### Code.org Course 3
 
@@ -124,6 +125,19 @@ If you want to present a different idea, that is fine as well. Then next week, y
 
 1. Click the "Join for Free" button and sign up for an account
 2. Watch the videos in **Week 1** of the course. It should take around 4 hours to complete
+
+### Get ready for remote learning
+
+We will be working remotely while government regulations prevent large gatherings. As you will be learning at home, it's important to make sure you have what you need to study effectively.
+
+1. Read this article on [Tips for Studying Online](https://www.timeshighereducation.com/student/advice/tips-studying-online-and-home-university-students#)  
+2. Ask yourself if you have everything you need to do the actions in the article.
+3. If you don't, what do you need? Who do you need to talk to? What do you need to do? Make a plan.
+4. Choose a space in your home where you will be studying. let everyone you live with know this is your study space. 
+5. Set it up with the supplies you will need to study and attend class. \(If you need a laptop, webcam, internet or childcare please speak to your city coordinator\)
+6. Take a photo of your workspace and post it to your class channel on Slack. 
+
+ 
 
 ### Write an "algorithm recipe"
 

@@ -1,9 +1,9 @@
-# Lesson 1 - Instructor Notes
+# Lesson 1
 
 ## Rough Schedule
 
 | Time | Activity |
-|------|----------|
+| :--- | :--- |
 | 10:45 - 11:30 | Preparation of space |
 | 11:30 - 12:30 | Welcome |
 | 12:30 - 13:15 | Code of Conduct & House Rules |
@@ -19,12 +19,15 @@
 
 Kahoot is a web app for running quick, fun quizzes with the whole class.
 
-A prepared quiz is [available here](https://play.kahoot.it/v2/?quizId=62bd599b-af55-41c3-b335-c28c9060c023) (editor view [here](https://create.kahoot.it/details/62bd599b-af55-41c3-b335-c28c9060c023)). It is intended to get a general level of confidence in their programming ability from the class. To be able to compare we suggest running it in the first and last classes.
+A prepared quiz is [available here](https://play.kahoot.it/v2/?quizId=62bd599b-af55-41c3-b335-c28c9060c023) \(editor view [here](https://create.kahoot.it/details/62bd599b-af55-41c3-b335-c28c9060c023)\). It is intended to get a general level of confidence in their programming ability from the class. To be able to compare we suggest running it in the first and last classes.
 
 ## Slack
 
 Create a private channel for the class and invite the whole class to it.
 
+Please use the convention \#CITY-Fundamentals-class number \(eg: \#WestMids-Fund-2
+
 ## Start Code.org homework in class
 
 It is a good idea to spend some time in the class working through the first few lessons. You can help with problems getting signed in, with the interface, etc.
+

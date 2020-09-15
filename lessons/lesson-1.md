@@ -2,15 +2,19 @@
 
 ## Warm up game
 
-Some students will teach Zip-Zap-Boing to the others.
+Online icebreaker game 
 
 ## Introductions
 
-Let's make sure we know each other! Ask for a name tag if you don't already have one.
+Let's make sure we know each other! Make sure your name is visible on Zoom. You can change your name by clicking the three dots on the right hand corner and clicking 'rename' .
 
 ## Shout out your questions
 
-Let's make a list of all of the programming questions we'd like to get answered today, and put them on the whiteboard. When you have time, put your initials next to the questions that interest you the most.
+Let's make a list of all of the programming questions we'd like to get answered today, and put them on our virtual whiteboard. 
+
+We like to use [Miro](https://miro.com/login/).   
+
+Read all the questions put your initials next to the questions that interest you the most.
 
 ## Solving problems
 
@@ -22,31 +26,35 @@ To help develop your problem solving skills, we'll play a fun game in small grou
 
 Last week you should have written a "algorithm recipe". The instructor will pick out a few of the best to read with the rest of the class. We'll see if there are any missing steps!
 
-## Homework presentation
+### Effective Communication 
 
-For last week's homework, you will have made a presentation about something you learned in the last week. Now is your chance to present it! We'll break into groups of 3 - 4 and take turns to present to the rest of your group for **5 minutes**.
+Comms workshop from CG. All students together. 
+
+## Presentations
+
+For last week's assignment, you will have made a presentation about something you learned in the last week. Now is your chance to present it! We'll break into groups of 3 - 4 and take turns to present to the rest of your group for **5 minutes**.
 
 Remember that communicating information to others is a really important skill for programmers. Here are some tips for your presentation:
 
-* Present to your classmates, not just to the volunteer
-* Speak clearly
-* Face the people you're talking to, as much as possible. Don't just face the screen
+* Look at your camera not the squares of faces. It will look like you are talking directly to your audience
+* Make sure you are not on mute
+* Speak clearly - check if everyone can hear you
 * Try to make it fun!
 * Stick to the time. The volunteer will cut you off at 5 minutes!
 
-## Homework in perspective - how is it applicable?
+## Coursework in perspective - how is it applicable?
 
-Although the block-based coding you practiced for homework solved only simple problems with a simple language, we'll look briefly at four concepts you used which are also at the heart of professional coding.
+Although the block-based coding you practiced at home solved only simple problems with a simple language, we'll look briefly at four concepts you used which are also at the heart of professional coding.
 
-## Help with Homework Exercises
+## Help with Coursework Exercises
 
-This is your opportunity to ask questions about last week's homework. If you would like some assistance on any of the exercises, the teaching assistants will be available to help.
+This is your opportunity to ask questions about last week's assignments. If you would like some assistance on any of the exercises, the teaching assistants will be available to help.
 
 ## 1-to-1 programming problem with an instructor
 
 Each student will have a work with one of the instructors to solve a programming problem using the Code.org block-programming environment.
 
-## Homework
+## Coursework Assignments
 
 ### Khan Academy: Intro to JS
 
@@ -71,4 +79,6 @@ If you do not have headphones to watch the videos you can click on "CC" \(subtit
 ### Learning How to Learn course
 
 Continue to **Week 2** of the [Learning How to Learn course](https://www.coursera.org/learn/learning-how-to-learn). It should take around 3 hours to complete.
+
+What kind of communicator are you?
 

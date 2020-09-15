@@ -4,8 +4,8 @@
 
 * It is _normal_ not to know things as programmers
 * The volunteers can't help you if we don't know you are lost
-* Probably someone else in the class has the same question as you, and is too scared to ask
-* If the teacher asks if everyone understands, SAY if you have doubts
+* Someone else in the class probably has the same question as you, and is too scared to ask
+* If the teacher asks if everyone understands, SPEAK UP if you are not sure about something
 
 ## The goal is NOT to complete the exercises. The goal is to learn.
 
@@ -23,11 +23,11 @@ If you've done something in group-work that you don't fully understand:
 
 * Slow things down
 * Get it explained
-* Go back to it after by yourself, and challenge yourself to understand it
+* Go back toby yourself afterwards, and challenge yourself to understand it
 
 _Don't let it go_ because the next time you don't understand something, it will be harder to get things explained.
 
-So if you solve 10 exercises together in a group-work exercise, it is a great idea to go back over and try to solve them yourself the next day.
+So if you solve 10 exercises together in a group-work exercise, it is a great idea to go back over and try to solve them on your own the next day.
 
 ## Take notes about what you don't understand
 
