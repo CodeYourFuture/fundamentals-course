@@ -54,7 +54,8 @@ We'll start to look at JavaScript in week 2. First we're going to use a simpler 
 * Slack
   * [https://slack.com/download](https://slack.com/download)
 * Google Classroom
-  * On Android: [https://play.google.com/store/apps/details?id=com.google.android.apps.classroom&hl=en\_GB](https://play.google.com/store/apps/details?id=com.google.android.apps.classroom&hl=en_GB)
-  * on iOS: [https://apps.apple.com/us/app/google-classroom/id924620788](https://apps.apple.com/us/app/google-classroom/id924620788) 
-* That's it! Most of the software we'll be using is web-based
+  * For Android - [Download](https://play.google.com/store/apps/details?)
+  * For iOS - [Download](https://apps.apple.com/us/app/google-classroom/id924620788%20)
+
+That's it! Most of the software we'll be using is web-based
 
