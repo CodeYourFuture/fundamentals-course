@@ -1,6 +1,6 @@
 # Lesson 2
 
-## Warm up activity
+## Warm up activity \(30 minutes\)
 
 A picture tells a story: Let's start our introductions with an image
 
@@ -14,7 +14,7 @@ A picture tells a story: Let's start our introductions with an image
 
 Let's make sure we know each other! Make sure your name is visible on Zoom. You can change your name by clicking the three dots on the right hand corner and clicking 'rename' .
 
-## Shout out your questions
+## Shout out your questions \(10 minutes\)
 
 Let's make a list of all of the programming questions we'd like to get answered today, and put them on our virtual whiteboard. 
 
@@ -22,21 +22,21 @@ We like to use [Miro](https://miro.com/login/).
 
 Read all the questions and put your initials next to the questions that interest you the most.
 
-## Solving problems
+## Solving problems \(60 minutes\)
 
 Problem solving is a critical skill for programmers, including for experts. Often programmers spend most of their day solving problems in their code. Learning how to solve problems efficiently is an extremely useful skill.
 
 To help develop your problem solving skills, we'll play a fun game in small groups. Followed by a short [presentation](https://docs.google.com/presentation/d/1XzLUVxfiJE2llWTWn7Rf5T0cutcL9HCBwd09GBCzv_4/) about improving your problem solving.
 
-## "Algorithm recipe" review
+## "Algorithm Recipe" Review \(30 Minutes\)
 
 Last week you should have written a "algorithm recipe". The instructor will pick out a few of the best to read with the rest of the class. We'll see if there are any missing steps!
 
 ### Effective Communication 
 
-Comms workshop from CG. All students together. 
+Communications workshop from CG. All students together. 
 
-## Presentations
+## Presentations \(30 minutes\)
 
 For last week's coursework, you will have made a presentation about something you learned in the last week. Now is your chance to present it! We'll break into groups of 3 - 4 and take turns to present to the rest of your group for **5 minutes**.
 
@@ -48,17 +48,19 @@ Remember that communicating information to others is a really important skill fo
 * Try to make it fun!
 * Stick to the time. The volunteer will cut you off at 5 minutes!
 
-## Coursework in perspective - how is it applicable?
+## Coursework In Perspective \(20 minutes\)
 
-Although the block-based coding you practiced at home solved only simple problems with a simple language, we'll look briefly at four concepts you used which are also at the heart of professional coding.
+Although the block-based coding you practised at home solved only simple problems with a simple language, we'll look briefly at four concepts you used which are also at the heart of professional coding.
 
-## Help with Coursework Exercises
+## Coursework Time \(120 minutes\)
+
+### Help with Coursework Exercises 
 
 This is your opportunity to ask questions about last week's assignments. If you would like some assistance on any of the exercises, the teaching assistants will be available to help.
 
-## 1-to-1 programming problem with an instructor
+### 1-to-1 programming problem with an instructor
 
-Each student will have a work with one of the instructors to solve a programming problem using the Code.org block-programming environment.
+Whilst you are getting help with your Coursework exercises, each student will have a work with one of the instructors to solve a programming problem using the Code.org block-programming environment.
 
 ## Coursework Assignments
 
