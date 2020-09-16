@@ -1,4 +1,4 @@
-# Roadmap of concepts
+# Roadmap of Concepts
 
 Here is a list of the main concepts we cover in the fundamentals course, and whether you'll see them in the Code.org course or in the Khan Academy course. You **don't** have to remember the name of the concepts! Some students like to understand where they are, and how much further there is to go.
 

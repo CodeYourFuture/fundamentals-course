@@ -1,4 +1,4 @@
-# Tips for success
+# Tips For Success
 
 ## Don't hide when you don't know.
 
