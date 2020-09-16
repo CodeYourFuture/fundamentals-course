@@ -1,13 +1,13 @@
-# Instructor Notes
+# Overview
 
 General notes for the instructors of this course.
 
 There are instructor notes for each lesson:
 
-- [Lesson 1](./lesson-1/instructor-notes.md)
-- [Lesson 2](./lesson-2/instructor-notes.md)
-- [Lesson 3](./lesson-3/instructor-notes.md)
-- [Lesson 4](./lesson-4/instructor-notes.md)
+* [Lesson 1](instructor-notes.md)
+* [Lesson 2](instructor-notes-1.md)
+* [Lesson 3](instructor-notes-2.md)
+* [Lesson 4](instructor-notes-3.md)
 
 ## Goals
 
@@ -15,10 +15,6 @@ There 2 main goals of this course:
 
 1. Help students with little or no prior programming experience to learn some fundamental concepts of programming
 2. Assess the students to help work out if they would struggle on the web development course
-
-## Learning Objectives
-
-TODO: add some of these
 
 ## Equipment for running the course
 
@@ -41,8 +37,7 @@ TODO: add some of these
 
 ## Khan Academy
 
-<!-- TODO: add notes on signing up as a teacher -->
-In order to monitor student progress on the course, it is recommended that several teacher and TA volunteers set themselves up a 'class' in KA right at the very start of the module, and then get ALL students to join ALL classes.  This gives visibility of the student rota, their exercise progress, and perhaps most importantly, their project attempts.
+In order to monitor student progress on the course, it is recommended that several teacher and TA volunteers set themselves up a 'class' in KA right at the very start of the module, and then get ALL students to join ALL classes. This gives visibility of the student rota, their exercise progress, and perhaps most importantly, their project attempts.
 
 Student progress often won't be updated on your dashboard until as much as 5-10 minutes have passed
 
@@ -57,8 +52,9 @@ Several assessments have been designed for this module. They should be completed
 
 ### 1-to-1 assessments
 
-The goal of these assessments is to assess how well the student is progressing. Based on the outcome of the assessment, the instructor(s) can decide whether the student has a good understanding of the subject.
+The goal of these assessments is to assess how well the student is progressing. Based on the outcome of the assessment, the instructor\(s\) can decide whether the student has a good understanding of the subject.
 
 A volunteer should be assigned to sit down with 1 student at a time to "pair" on a small task. It is however not quite like normal pairing: the volunteer should aim to not "give away" the answer. If the student is struggling the volunteer can ask open questions to provide a suggestion.
 
 Note that they are framed as "1-to-1 programming problems" instead of assessments for students so they are less intimidated by them.
+
