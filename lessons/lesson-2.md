@@ -1,24 +1,30 @@
 # Lesson 3
 
-## Warm up game
-
-Some students will teach Zip-Zap-Boing to the others.
-
-## Introductions
+## Introductions \(30 minutes\)
 
 Let's make sure we know each other! Ask for a name tag if you don't already have one.
 
-## Shout out your questions
+### Warm up game
+
+Some students will teach Zip-Zap-Boing to the others.
+
+## Shout out your questions \(10 minutes\)
+
+\_\_[_Instructors see here for instructions_](https://fundamentals.codeyourfuture.io/teacher-resources/instructor-notes-1#shout-out-questions)
 
 Let's make a list of all of the programming questions we'd like to get answered today, and put them on the whiteboard. When you have time, put your initials next to the questions that interest you the most.
 
-## Getting unstuck
+## Getting Unstuck \(30 minutes\)
+
+\_\_[_Instructors see here for instructions_](https://fundamentals.codeyourfuture.io/teacher-resources/instructor-notes-2#getting-unstuck)
 
 We'll now spend 30 minutes where you can ask the volunteers with help on serious _questions that have really been blocking your progress_ through the Khan Academy course.
 
 If you have other more advanced questions that aren't blocking you, please **don't** ask them yet \(unless you see that the volunteers are clearly not busy helping with more fundamental issues\). We'll have time later for those questions.
 
-## Live coding
+## Live Coding \(60 minutes\)
+
+\_\_[_Instructors see here for instructions_](https://fundamentals.codeyourfuture.io/teacher-resources/instructor-notes-2#live-coding)
 
 The instructor will do some _live-coding_ to demonstrate solutions to some of the class's common questions. This means they will be showing their screen on the projector and working on solving a problem. This is a very effective way to learn! The instructors are professionals and there are many small \(and large!\) tips you can pick up from them.
 
@@ -28,7 +34,7 @@ The instructor will likely ask for suggestions on how to do something from the c
 
 _Tip_: A quiet class with no questions or suggestions is a difficult class to teach
 
-## Present your favourite project to your classmates
+## Present Your Favourite Project \(30 minutes\)
 
 You will give a very, very simple 2 minute presentation to 2 or 3 other students and a volunteer \(if one is available\). Before the presentations we'll have 5 minutes to prep. Pick your favourite project \(or the one that's most interesting to talk about\) and get ready to explain:
 
@@ -48,11 +54,13 @@ With your group, find a quiet space, and set a stopwatch for 2 minutes and prese
 * Stick to the time. The volunteer will cut you off at 2 minutes!
 * Don't go into too much detail on one point - 2 minutes is NOT much time at all
 
-## Improve your favourite Khan Academy project
+## Improve Your Favourite Khan Academy Project \(80 minutes\)
 
 Now we'll work in _pairs_ to make the changes to your favourite Khan Academy you described in your presentation earlier. Remember that if you and your pair are totally stuck on something, ask a volunteer to help you - they're here to help!
 
-### Pair-programming
+### Paired Programming
+
+[_Instructors see here for instructions_](https://fundamentals.codeyourfuture.io/teacher-resources/instructor-notes-2#pairing)\_\_
 
 It's good to code with a friend. You learn SO much. Programmers call this _pair programming_ and many professional teams program in pairs for a part of each day.
 
@@ -105,15 +113,15 @@ If you are working in a pair \(or team\) so that you can hide what you don't und
 
 SHOW what you don't understand, and get help with it. Otherwise you will never learn, and there won't be other people there to support you. Find a team to work in that is at YOUR level, and work on a simpler task that is one you fully understand, at your speed.
 
-## 1-to-1 programming problem with an instructor
+### 1-to-1 programming problem with an instructor
 
-Each student will have a pairing session with one of the instructors to solve a programming problem using the Khan Academy Intro to JavaScript environment. We'll see how you're getting on, what help you need, and hopefully you'll get some tips from the instructor!
+Whilst the above exercise is happening, each student will have a pairing session with one of the instructors to solve a programming problem using the Khan Academy Intro to JavaScript environment. We'll see how you're getting on, what help you need, and hopefully you'll get some tips from the instructor!
 
-## Homework
+## Coursework
 
 Make sure you understand the homework for next week before you leave the classroom. See Google Classroom for the definitive list of homework assignments. Make sure you check it regularly.
 
-### Khan Academy: Intro to JS
+### 1\) Khan Academy: Intro to JS
 
 Continue to work on the [Khan Academy: Intro to JS course](https://www.khanacademy.org/computing/computer-programming/programming).
 
@@ -121,7 +129,7 @@ First, make sure that you have completed everything up to the "Text and Strings"
 
 If you have already done that, then you should continue **AT LEAST UP TO** the ["Writing Clean Code" section](https://www.khanacademy.org/computing/computer-programming/programming#writing-clean-code).
 
-### Learning How to Learn course
+### 2\) Learning How to Learn course
 
 Continue to **Week 3** of the [Learning How to Learn course](https://www.coursera.org/learn/learning-how-to-learn). It should take around 4 hours to complete.
 
