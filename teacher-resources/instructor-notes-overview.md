@@ -45,6 +45,10 @@ Student progress often won't be updated on your dashboard until as much as 5-10 
 
 Several assessments have been designed for this module. They should be completed during the in-person class.
 
+### Before Starting
+
+Make sure you have got access to [this Github repository](https://github.com/CodeYourFuture/fundamentals-course-assessments) before starting. It contains instructions for the assessment pieces.
+
 ### Misc feedback from any volunteer
 
 * Even for small but significant interactions, volunteers should be encouraged to fill out [this feedback form](https://forms.gle/GgpFkgKCRPVtTtrJ7). It's fine to skip bits of it - there's a free text section at the end.
