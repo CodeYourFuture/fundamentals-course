@@ -44,6 +44,8 @@ Let's look at some of the tools we use to communicate with you during the course
 
 Whenever you are not talking, your microphone should be muted! This prevents distracting noise for the other participants.
 
+Keep engaged with what is happening by using the thumbs up and clapping reaction buttons and the chat feature. 
+
 ### Google Classroom
 
 To keep track of your course assignments we use Google Classroom. To set up your account:
@@ -68,7 +70,7 @@ Go ahead and submit the first assignment now, "first assignment: what's your fav
 
 [Here is a list of some tips for success on the course](../other-resources/tips-for-success.md). We'll discuss some of these next week, and add to these as we progress.
 
-Make sure you understand the first tip now \("don't hide when you don't know"\). If you have questions, let the volunteers know.
+Make sure you understand the first tip now \("don't hide when you don't know"\). If you have questions, let the volunteers know. You can use the raise hand button in the chat tools, or ask a question in the chat thread.  
 
 ## Coursework
 

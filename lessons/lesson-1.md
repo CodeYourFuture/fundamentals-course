@@ -1,8 +1,14 @@
 # Lesson 2
 
-## Warm up game
+## Warm up activity
 
-Online icebreaker game 
+A picture tells a story: Let's start our introductions with an image
+
+1. Find an image online of an object that represents you or why are are on the course.  
+2. Add the image to our Slack thread and an explanation of why you chose that particular object.  
+3. Once you have completed your post, look at what other people have posted.
+4. When you find any interesting images and ask a follow up question about it.
+5. If somoene asks a question about your picture. Make sure you reply to the question with an answer.
 
 ## Introductions
 
@@ -14,7 +20,7 @@ Let's make a list of all of the programming questions we'd like to get answered 
 
 We like to use [Miro](https://miro.com/login/).   
 
-Read all the questions put your initials next to the questions that interest you the most.
+Read all the questions and put your initials next to the questions that interest you the most.
 
 ## Solving problems
 
@@ -81,4 +87,14 @@ If you do not have headphones to watch the videos you can click on "CC" \(subtit
 Continue to **Week 2** of the [Learning How to Learn course](https://www.coursera.org/learn/learning-how-to-learn). It should take around 3 hours to complete.
 
 What kind of communicator are you?
+
+### How to improve your workplace communication 
+
+As we work together online it can be even more tricky to communicate effectively. Learn three ways you can improve how you send and receive messages here at CodeYourFuture and in your other workplaces. 
+
+Read this [article on communication](https://www.loom.com/blog/improve-your-workplace-communication)
+
+
+
+
 
