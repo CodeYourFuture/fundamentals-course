@@ -8,7 +8,7 @@
   * [Lesson 3](lessons/lesson-2.md)
   * [Lesson 4](lessons/lesson-3.md)
 * [Teacher Resources](teacher-resources/README.md)
-  * [Overview](lessons/lesson.md)
+  * [Overview](instructor-notes.md)
   * [Lesson 1](teacher-resources/instructor-notes.md)
   * [Lesson 2](teacher-resources/instructor-notes-1.md)
   * [Lesson 3](teacher-resources/instructor-notes-2.md)
