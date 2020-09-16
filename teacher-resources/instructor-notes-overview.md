@@ -34,6 +34,7 @@ There 2 main goals of this course:
 * Post-its
 * Paper/pens for making notes
 * Spare laptops
+* Access to the [Fundamentals Assessment Repository](https://github.com/CodeYourFuture/fundamentals-course-assessments)
 
 ## Khan Academy
 
