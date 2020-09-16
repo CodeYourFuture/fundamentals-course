@@ -38,7 +38,7 @@ Comms workshop from CG. All students together.
 
 ## Presentations
 
-For last week's assignment, you will have made a presentation about something you learned in the last week. Now is your chance to present it! We'll break into groups of 3 - 4 and take turns to present to the rest of your group for **5 minutes**.
+For last week's coursework, you will have made a presentation about something you learned in the last week. Now is your chance to present it! We'll break into groups of 3 - 4 and take turns to present to the rest of your group for **5 minutes**.
 
 Remember that communicating information to others is a really important skill for programmers. Here are some tips for your presentation:
 
@@ -62,7 +62,7 @@ Each student will have a work with one of the instructors to solve a programming
 
 ## Coursework Assignments
 
-### Khan Academy: Intro to JS
+### 1. Khan Academy: Intro to JS
 
 We will be studying the [Khan Academy](https://www.khanacademy.org) Intro to JS course. This will give you an introduction to the JavaScript programming language which we will be using for the rest of the syllabus. To get set up follow these instructions:
 
@@ -82,13 +82,13 @@ There will be some time in class to start the first exercises. Let the instructo
 
 If you do not have headphones to watch the videos you can click on "CC" \(subtitles/closed captions\) in the video window, or underneath the video on "Transcript".
 
-### Learning How to Learn course
+### 2. Learning How to Learn course
 
 Continue to **Week 2** of the [Learning How to Learn course](https://www.coursera.org/learn/learning-how-to-learn). It should take around 3 hours to complete.
 
 What kind of communicator are you?
 
-### How to improve your workplace communication 
+### 3. How to improve your workplace communication 
 
 As we work together online it can be even more tricky to communicate effectively. Learn three ways you can improve how you send and receive messages here at CodeYourFuture and in your other workplaces. 
 

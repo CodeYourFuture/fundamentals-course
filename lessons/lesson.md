@@ -1,34 +1,34 @@
 # Lesson 1
 
-## Welcome
+## Welcome \(30 minutes\)
 
 Welcome to Code Your Future and to the world of programming! This course was designed for people new to coding as well as more experienced people. Now that you have built a website in CodePen, we'll look at the basics of how programming works. We will start writing our own programs and what you can make with programming. We will also explore what kind of jobs are available to programmers.
 
-## Introduction to Code Your Future
+## Introduction to Code Your Future \(30 minutes\)
 
 Before we get started with programming we want to learn a bit about you, and you can learn a bit about us.
 
 We'll start with some introductions so that we can get to know each other. We'll play some games.
 
-## Student Agreement, Code of Conduct & House Rules
+## Student Agreement, Code of Conduct & House Rules \(45 minutes\)
 
 While you're at Code Your Future, we expect you to follow some rules. This is so that **everyone** has a fun, productive and enjoyable experience.
 
 We'll read through the [Student Agreement](https://docs.codeyourfuture.io/students/student-agreement), [Code of Conduct](https://codeyourfuture.github.io/syllabus-master/CODE_OF_CONDUCT.html) and [House Rules](https://codeyourfuture.github.io/syllabus-master/others/house-rules.html) together and answer any questions you have about them.
 
-## Getting into Technology: Why & How
+## Getting into Technology: Why & How \(35 minutes\)
 
 Next we'll have a presentation about why you would want to be a programmer.
 
 Link to the presentation slides: [https://docs.google.com/presentation/d/1XVVq6acZwMb7r1OAx2b54nS5WOguO3V7m7Pspledi60/edit\#slide=id.g253640fe83\_0\_202](https://docs.google.com/presentation/d/1XVVq6acZwMb7r1OAx2b54nS5WOguO3V7m7Pspledi60/edit#slide=id.g253640fe83_0_202)
 
-## What level is the class starting at?
+## What level is the class starting at? \(15 minutes\)
 
 This course is designed for complete beginners. If you've never programmed before, don't worry - you're definitely on the right course!
 
 We'll do a 5-minute quiz to help us find out the class's level, using the fun app called ["Kahoot"](https://play.kahoot.it/v2/?quizId=62bd599b-af55-41c3-b335-c28c9060c023).
 
-## Software Check
+## Software Check \(60 minutes\)
 
 Let's look at some of the tools we use to communicate with you during the course.  You should have installed the following but let's check to make sure we all know what we are doing.
 
@@ -72,7 +72,7 @@ Go ahead and submit the first assignment now, "first assignment: what's your fav
 
 Make sure you understand the first tip now \("don't hide when you don't know"\). If you have questions, let the volunteers know. You can use the raise hand button in the chat tools, or ask a question in the chat thread.  
 
-## Coursework
+## Coursework \(75 minutes\)
 
 As part of your learning journey with CYF you will be expected to work at home on projects that we set for you. This will help you practice what you learn in class and get prepared for next week.
 
@@ -84,7 +84,7 @@ Your first week assignments will mostly be:
 * preparing a very short presentation for the rest of the class
 * working on your learning plan
 
-### Code.org Course 3
+### 1. Code.org Course 3
 
 [Code.org](https://code.org) is a website which teaches beginners how to code and gives them lots of practice.
 
@@ -112,7 +112,7 @@ To get set up, follow these instructions:
 
 Once you're finished, press submit in Google Classroom, and please add a comment mentioning your Code.org username.
 
-### Prepare a presentation for the next class
+### 2. Prepare a presentation for the next class
 
 Part of being a programmer is communicating your ideas to other people on your team. To help you practice this very important skill, for homework we want you to prepare a short \(5 minutes\) presentation about something you learned during the week. You can use [Google Slides](https://www.google.com/slides/about/) if you want to prepare slides \(this is optional\).
 
@@ -124,14 +124,14 @@ Here is a list of topic ideas which you could present about:
 
 If you want to present a different idea, that is fine as well. Then next week, you'll each present what you learned to a few students from the class.
 
-### Learning How to Learn course
+### 3. Learning How to Learn course
 
 [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) is a video course on the Coursera site that teaches you how to be the most effective at learning.
 
 1. Click the "Join for Free" button and sign up for an account
 2. Watch the videos in **Week 1** of the course. It should take around 4 hours to complete
 
-### Get ready for remote learning
+### 4. Get ready for remote learning
 
 We will be working remotely while government regulations prevent large gatherings. As you will be learning at home, it's important to make sure you have what you need to study effectively.
 
@@ -142,9 +142,7 @@ We will be working remotely while government regulations prevent large gathering
 5. Set it up with the supplies you will need to study and attend class. \(If you need a laptop, webcam, internet or childcare please speak to your city coordinator\)
 6. Take a photo of your workspace and post it to your class channel on Slack. 
 
- 
-
-### Write an "algorithm recipe"
+### 5. Write an "algorithm recipe"
 
 Programming is all about writing _algorithms_. What is an algorithm?
 
