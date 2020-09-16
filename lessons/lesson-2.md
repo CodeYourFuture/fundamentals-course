@@ -2,7 +2,7 @@
 
 ## Introductions \(30 minutes\)
 
-Let's make sure we know each other! Ask for a name tag if you don't already have one.
+Let's make sure we know each other!
 
 ### Warm up game
 
