@@ -1,4 +1,4 @@
-# Khan Academy challenges with objects and arrays
+# Challenges with Objects and Arrays
 
 ## Challenge: Make it rain... objects!
 
