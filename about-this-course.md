@@ -13,7 +13,7 @@ We'll also look at what you can make with programming and what kind of jobs are 
 
 ### Concept Roadmap
 
-If you want more detail about the topics that we're covering, take a look at the [concept roadmap](lessons/other-resources/roadmap-of-concepts.md)
+If you want more detail about the topics that we're covering, take a look at the [concept roadmap](other-resources/roadmap-of-concepts.md)
 
 ### About further study on CYF's web-development course:
 

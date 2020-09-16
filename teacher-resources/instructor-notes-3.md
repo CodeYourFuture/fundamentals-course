@@ -68,7 +68,7 @@ You can run the [same Kahoot quiz from the first lesson](https://play.kahoot.it/
 
 ## Course reflection
 
-Look through the [concept roadmap](../lessons/other-resources/roadmap-of-concepts.md) and demonstrate the programming principles that they learned.
+Look through the [concept roadmap](../other-resources/roadmap-of-concepts.md) and demonstrate the programming principles that they learned.
 
 ## Other free resources
 

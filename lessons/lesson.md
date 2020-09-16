@@ -68,7 +68,7 @@ Go ahead and submit the first assignment now, "first assignment: what's your fav
 
 ## Tips for success
 
-[Here is a list of some tips for success on the course](other-resources/tips-for-success.md). We'll discuss some of these next week, and add to these as we progress.
+[Here is a list of some tips for success on the course](../other-resources/tips-for-success.md). We'll discuss some of these next week, and add to these as we progress.
 
 Make sure you understand the first tip now \("don't hide when you don't know"\). If you have questions, let the volunteers know. You can use the raise hand button in the chat tools, or ask a question in the chat thread.  
 

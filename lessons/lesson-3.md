@@ -64,7 +64,7 @@ Let's do the first Kahoot quiz again, to find out if you feel any differently ab
 
 ## Reflection: How is all this relevant in the real world? \(30 minutes\)
 
-Looking back at the [concept roadmap](other-resources/roadmap-of-concepts.md), believe it or not, you've been learning the basics of programming, relevant to a whole range of coding jobs.
+Looking back at the [concept roadmap](../other-resources/roadmap-of-concepts.md), believe it or not, you've been learning the basics of programming, relevant to a whole range of coding jobs.
 
 Now the instructors will look at specific elements you've learned about and how they're relevant elsewhere.
 
@@ -81,7 +81,7 @@ Outside of the Khan Academy course platform, you'll see some differences in Java
 
 We'll have a look at some of our favourite free resources - both online and in person - which can help you towards a career in programming and web development.
 
-See [Free Resources](other-resources/free-resources.md) for this content
+See [Free Resources](../other-resources/free-resources.md) for this content
 
 ## Coursework
 
