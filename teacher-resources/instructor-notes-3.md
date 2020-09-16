@@ -51,8 +51,13 @@ The assessment is also structured a little differently to the previous two, as i
 
 ### Khan Academy - Three Boxes
 
-* [Readme page \(for instructors\)](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/khan-academy-boxes-and-ribbons)
+For students
+
 * [Task description \(for students\)](https://github.com/CodeYourFuture/fundamentals-course-assessments/blob/master/khan-academy-boxes-and-ribbons/assessment-tasks-for-students.md)
+
+For Instructors
+
+* [Readme page \(for instructors\)](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/khan-academy-boxes-and-ribbons)
 * [Example solutions](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/khan-academy-boxes-and-ribbons)
 * [Feedback form \(for volunteer\)](https://docs.google.com/forms/d/e/1FAIpQLSdkyYCIltW9bhoDhpJIDEmCEKWKD7NGVOk-vj3Bc9fJbqkmAA/viewform)
 * TODO: add link to edit the form
@@ -63,9 +68,7 @@ You can run the [same Kahoot quiz from the first lesson](https://play.kahoot.it/
 
 ## Course reflection
 
-Needs fleshing out.
-
-Look through the concept roadmap and demonstrate the programming principles that they learned.
+Look through the [concept roadmap](../lessons/other-resources/roadmap-of-concepts.md) and demonstrate the programming principles that they learned.
 
 ## Other free resources
 

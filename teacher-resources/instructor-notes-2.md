@@ -69,8 +69,15 @@ Please read the [1-to-1 assessment goals](https://github.com/CodeYourFuture/fund
 
 ### Khan Academy - Three Cars
 
-* [Readme page \(for instructors\)](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/khan_academy_cars)
+For this week we have prepared the Three Cars assessment
+
+For students:
+
 * [Task description \(for students\)](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/khan_academy_cars/assessment_task.md)
+
+For Instructors
+
+* [Readme page \(for instructors\)](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/khan_academy_cars)
 * [Volunteer notes](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/khan_academy_cars/mentor_notes.md)
 * [Feedback form \(for volunteer\)](https://docs.google.com/forms/d/e/1FAIpQLSfPlYydoYxlsYtR3ObIzAByOjNd10gQvtUd715b8ntYaFzwbw/viewform)
 * [Edit the form \(for instructors\)](https://docs.google.com/forms/d/1DW-WwKuQhVGlgcUgB8GzFRK6m3Yty0nJGqtxgYQq_EI/edit)

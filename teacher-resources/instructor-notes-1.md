@@ -40,8 +40,13 @@ Please read the [1-to-1 assessment goals](instructor-notes-overview.md#1-to-1-as
 
 For this lesson we have prepared the "Three giraffes" assessment.
 
-* [Readme page \(for instructors\)](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/codeorg_three_giraffes)
+For Students
+
 * [Task description \(for students\)](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/codeorg_three_giraffes/assessment_task.md)
+
+For Instructors
+
+* [Readme page \(for instructors\)](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/codeorg_three_giraffes)
 * [Volunteer notes](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/codeorg_three_giraffes/mentor_notes.md)
 * [Feedback form \(for volunteer\)](https://docs.google.com/forms/d/e/1FAIpQLSf5RN_jYq6Jvh4LdDdjuNL3TyUOcwncSpikTr-WVbBkm3JBCQ/viewform)
 * [Edit the form \(for instructors\)](https://docs.google.com/forms/d/15UtSv_A089jYxdZ7Guusf440FtckUaPLHvJAfv4dOY0/edit)
