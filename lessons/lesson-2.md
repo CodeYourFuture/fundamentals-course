@@ -12,7 +12,7 @@ Some students will teach Zip-Zap-Boing to the others.
 
 \_\_[_Instructors see here for instructions_](https://fundamentals.codeyourfuture.io/teacher-resources/instructor-notes-1#shout-out-questions)
 
-Let's make a list of all of the programming questions we'd like to get answered today, and put them on the whiteboard. When you have time, put your initials next to the questions that interest you the most.
+Let's make a list of all of the programming questions we'd like to get answered today, and put them on the Miro whiteboard. When you have time, put your initials next to the questions that interest you the most.
 
 ## Getting Unstuck \(30 minutes\)
 
