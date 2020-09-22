@@ -40,11 +40,13 @@ There 2 main goals of this course:
 
 In order to monitor student progress on the course, it is recommended that several teacher and TA volunteers set themselves up a 'class' in KA right at the very start of the module, and then get ALL students to join ALL classes. This gives visibility of the student rota, their exercise progress, and perhaps most importantly, their project attempts.
 
-Student progress often won't be updated on your dashboard until as much as 5-10 minutes have passed
+Student progress often won't be updated on your dashboard until as much as 5-10 minutes have passed.   
+  
+Khan Academy has created some '[How to teach remotely'](https://www.khanacademy.org/khan-for-educators/k4e-us-demo/xb78db74671c953a7:khan-for-educators#xb78db74671c953a7:teaching-remotely-with-khan-academy) training materials. 
 
 ## Assessments
 
-Several assessments have been designed for this module. They should be completed during the in-person class.
+Several assessments have been designed for this module. They should be completed during the weekly class.
 
 ### Before Starting
 
@@ -54,7 +56,7 @@ Make sure you have got access to [this Github repository](https://github.com/Cod
 
 The goal of these assessments is to assess how well the student is progressing. Based on the outcome of the assessment, the instructor\(s\) can decide whether the student has a good understanding of the subject.
 
-A volunteer should be assigned to sit down with 1 student at a time to "pair" on a small task. It is however not quite like normal pairing: the volunteer should aim to not "give away" the answer. If the student is struggling the volunteer can ask open questions to provide a suggestion.
+A volunteer should be assigned to work with 1 student at a time to "pair" on a small task. It is however not quite like normal pairing: the volunteer should aim to not "give away" the answer. If the student is struggling the volunteer can ask open questions to provide a suggestion.
 
 Note that they are framed as "1-to-1 programming problems" instead of assessments for students so they are less intimidated by them.
 
