@@ -7,12 +7,14 @@ A picture tells a story: Let's start our introductions with an image
 1. Find an image online of an object that represents you or why are are on the course.  
 2. Add the image to our Slack thread and an explanation of why you chose that particular object.  
 3. Once you have completed your post, look at what other people have posted.
-4. When you find any interesting images and ask a follow up question about it.
+4. When you find any interesting images and ask that person a follow up question about it.
 5. If somoene asks a question about your picture. Make sure you reply to the question with an answer.
 
 ## Introductions
 
 Let's make sure we know each other! Make sure your name is visible on Zoom. You can change your name by clicking the three dots on the right hand corner and clicking 'rename' .
+
+If you are a CYF volunteer please add 'Vol or Volunteer' after your name. 
 
 ## Shout out your questions \(10 minutes\)
 
@@ -34,7 +36,7 @@ Last week you should have written a "algorithm recipe". The instructor will pick
 
 ### Effective Communication 
 
-Communications workshop from CG. All students together. 
+Communications workshop from Capgemini. 
 
 ## Presentations \(30 minutes\)
 
@@ -42,7 +44,7 @@ For last week's coursework, you will have made a presentation about something yo
 
 Remember that communicating information to others is a really important skill for programmers. Here are some tips for your presentation:
 
-* Look at your camera not the squares of faces. It will look like you are talking directly to your audience
+* Look at your camera. Not the squares of faces on your screen. It will look like you are talking directly to your audience
 * Make sure you are not on mute
 * Speak clearly - check if everyone can hear you
 * Try to make it fun!
