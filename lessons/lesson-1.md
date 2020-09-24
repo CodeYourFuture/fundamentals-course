@@ -8,9 +8,9 @@ A picture tells a story: Let's start our introductions with an image
 2. Add the image to our Slack thread and an explanation of why you chose that particular object.  
 3. Once you have completed your post, look at what other people have posted.
 4. When you find any interesting images and ask that person a follow up question about it.
-5. If somoene asks a question about your picture. Make sure you reply to the question with an answer.
+5. If somoene asks a question about your picture. Make sure you reply to the question with an answer
 
-## Introductions
+## What's your name? 
 
 Let's make sure we know each other! Make sure your name is visible on Zoom. You can change your name by clicking the three dots on the right hand corner and clicking 'rename' .
 
@@ -34,9 +34,9 @@ To help develop your problem solving skills, we'll play a fun game in small grou
 
 Last week you should have written a "algorithm recipe". The instructor will pick out a few of the best to read with the rest of the class. We'll see if there are any missing steps!
 
-### Effective Communication 
+## Effective Communication \(1 Hour\)
 
-Communications workshop from Capgemini. 
+Ok so working remotely \(online\) is differnt from working together face to face. We will look at how commuincation works online and get some tips on how to be more effective on this course.  
 
 ## Presentations \(30 minutes\)
 
