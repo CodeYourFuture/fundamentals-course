@@ -8,7 +8,7 @@ A picture tells a story: Let's start our introductions with an image
 2. Add the image to our Slack thread and an explanation of why you chose that particular object.  
 3. Once you have completed your post, look at what other people have posted.
 4. When you find any interesting images and ask that person a follow up question about it.
-5. If somoene asks a question about your picture. Make sure you reply to the question with an answer
+5. If somoene asks a question about your picture. Make sure you reply to their question with an answer
 
 ## What's your name? 
 
