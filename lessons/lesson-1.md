@@ -22,7 +22,13 @@ Let's make a list of all of the programming questions we'd like to get answered 
 
 We like to use [Miro](https://miro.com/login/).   
 
-Read all the questions and put your initials next to the questions that interest you the most.
+1. Log into Miro \(your instructor will give you the link for your Miro Board\)
+2. Find the sticky notes on the board.
+3. Find the note you wrote your name on for your coursework assignment. 
+4. Write your question on your note \(you must ask a question\)
+5. If you have more than 1 question, write each on a separate stiky note. To add a new note, use the toolbar on the left hand side to select a new note.
+
+
 
 ## Solving problems \(60 minutes\)
 
@@ -96,7 +102,15 @@ What kind of communicator are you?
 
 As we work together online it can be even more tricky to communicate effectively. Learn three ways you can improve how you send and receive messages here at CodeYourFuture and in your other workplaces. 
 
-Read this [article on communication](https://www.loom.com/blog/improve-your-workplace-communication)
+1. Read this [article on communication](https://www.loom.com/blog/improve-your-workplace-communication)
+2. Watch the embedded video Karina's Communication and Work Style
+3. After reading and watching the video, go back to **Step two: Determine how you communicate.** 
+4. Think about the scenarios they present in this section
+5. Write down how you would approach each scenario
+6. Think about your preferred ways of communicating, the communication tools you rely on, and the things that annoy you about other's communication.
+7. Using your answers for the above, try to write your own guide to your Communication style \( just this section, not your whole user manual! \). You can also have a go at recording a Loom video if you choose. 
+
+
 
 
 
