@@ -102,6 +102,16 @@ Continue to **Week 2** of the [Learning How to Learn course](https://www.courser
 
 What kind of communicator are you?
 
+### 2a. Learning Online: Communicating and Collaborating \(do this if you have already completed the Learning How to Learn course\)
+
+
+
+Learning Online: Communicating and Collaborating is an online course on Future Learn site that teaches you how to become an effective online learner and develop your online communication skills when working with others..
+
+1. Click the "Join course for Free" button and sign up for an account.
+2. You can do this with your Google account if you want
+3. Work through **Week 1** of the course. It should take around 2 hours to complete.
+4. 
 ### 3. How to improve your workplace communication 
 
 As we work together online it can be even more tricky to communicate effectively. Learn three ways you can improve how you send and receive messages here at CodeYourFuture and in your other workplaces. 
