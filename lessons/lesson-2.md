@@ -6,18 +6,13 @@ Let's make sure we know each other!
 
 ### Warm up game
 
-Online icebreaker 
+Some students will teach Zip-Zap-Boing to the others.
 
 ## Shout out your questions \(10 minutes\)
 
 \_\_[_Instructors see here for instructions_](https://fundamentals.codeyourfuture.io/teacher-resources/instructor-notes-1#shout-out-questions)
 
-Let's make a list of all of the programming questions we'd like to get answered today, and put them on the Miro whiteboard just like we did last week.
-
-1. Log into Miro \(your instructor will give you the link for your Miro Board\)
-2. Find the sticky notes on the board.
-3. Write your question on a sticky note \(you must ask a question\)
-4. If you have more than 1 question, write each on a separate stiky note. To add a new note, use the toolbar on the left hand side to select a new note.
+Let's make a list of all of the programming questions we'd like to get answered today, and put them on the whiteboard. When you have time, put your initials next to the questions that interest you the most.
 
 ## Getting Unstuck \(30 minutes\)
 
@@ -137,10 +132,4 @@ If you have already done that, then you should continue **AT LEAST UP TO** the [
 ### 2\) Learning How to Learn course
 
 Continue to **Week 3** of the [Learning How to Learn course](https://www.coursera.org/learn/learning-how-to-learn). It should take around 4 hours to complete.
-
-### 2a\) Learning Online: Communicating and Collaborating \(do this if you have already completed the Learning How to Learn course\)
-
-Work through **Week 2** of the [Learning Online: Communicating and Collaborating](https://www.futurelearn.com/courses/learning-and-collaborating/) course. It should take around 2 hours to complete.
-
-You need to submit your comments in threads on Slack _**not**_ in the comments section on Future Learn. 
 

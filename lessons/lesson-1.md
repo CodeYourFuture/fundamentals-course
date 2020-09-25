@@ -1,3 +1,7 @@
+---
+description: 'Lesson aims: To gain'
+---
+
 # Lesson 2
 
 ## Warm up activity \(30 minutes\)
@@ -7,12 +11,14 @@ A picture tells a story: Let's start our introductions with an image
 1. Find an image online of an object that represents you or why are are on the course.  
 2. Add the image to our Slack thread and an explanation of why you chose that particular object.  
 3. Once you have completed your post, look at what other people have posted.
-4. When you find any interesting images and ask a follow up question about it.
-5. If somoene asks a question about your picture. Make sure you reply to the question with an answer.
+4. When you find any interesting images and ask that person a follow up question about it.
+5. If someone asks a question about your picture. Make sure you reply to their question with an answer
 
-## Introductions
+## What's your name? 
 
 Let's make sure we know each other! Make sure your name is visible on Zoom. You can change your name by clicking the three dots on the right hand corner and clicking 'rename' .
+
+If you are a CYF volunteer please add 'Vol or Volunteer' after your name. 
 
 ## Shout out your questions \(10 minutes\)
 
@@ -20,21 +26,29 @@ Let's make a list of all of the programming questions we'd like to get answered 
 
 We like to use [Miro](https://miro.com/login/).   
 
-Read all the questions and put your initials next to the questions that interest you the most.
+1. Log into Miro \(your instructor will give you the link for your Miro Board\)
+2. Find the sticky notes on the board.
+3. Find the note you wrote your name on for your coursework assignment. 
+4. Write your question on your note \(you must ask a question\)
+5. If you have more than 1 question, write each on a separate stiky note. To add a new note, use the toolbar on the left hand side to select a new note.
 
-## Solving problems \(60 minutes\)
+
+
+## Solving problems \(90 minutes\)
 
 Problem solving is a critical skill for programmers, including for experts. Often programmers spend most of their day solving problems in their code. Learning how to solve problems efficiently is an extremely useful skill.
 
-To help develop your problem solving skills, we'll play a fun game in small groups. Followed by a short [presentation](https://docs.google.com/presentation/d/1XzLUVxfiJE2llWTWn7Rf5T0cutcL9HCBwd09GBCzv_4/) about improving your problem solving.
+To help develop your problem solving skills, we'll play a [fun game](https://docs.google.com/presentation/d/1iHN8Up0gYLzX1MZztSSLltIIbuad_HcOwWTyC0u6Ybc/edit#slide=id.g4c9cfeb0ce_0_107) in small groups. 
+
+Then later on we, will practice working as a group to help each other solve problems using Miro, Slack and Google Meet. 
 
 ## "Algorithm Recipe" Review \(30 Minutes\)
 
 Last week you should have written a "algorithm recipe". The instructor will pick out a few of the best to read with the rest of the class. We'll see if there are any missing steps!
 
-### Effective Communication 
+## Effective Communication \(1 Hour\)
 
-Communications workshop from CG. All students together. 
+Ok so working remotely \(online\) is differnt from working together face to face. We will look at how commuincation works online and get some tips on how to be more effective on this course.  
 
 ## Presentations \(30 minutes\)
 
@@ -42,7 +56,7 @@ For last week's coursework, you will have made a presentation about something yo
 
 Remember that communicating information to others is a really important skill for programmers. Here are some tips for your presentation:
 
-* Look at your camera not the squares of faces. It will look like you are talking directly to your audience
+* Look at your camera. Not the squares of faces on your screen. It will look like you are talking directly to your audience
 * Make sure you are not on mute
 * Speak clearly - check if everyone can hear you
 * Try to make it fun!
@@ -90,11 +104,30 @@ Continue to **Week 2** of the [Learning How to Learn course](https://www.courser
 
 What kind of communicator are you?
 
+### 2a. Learning Online: Communicating and Collaborating \(do this if you have already completed the Learning How to Learn course\)
+
+[Learning Online: Communicating and Collaborating](https://www.futurelearn.com/courses/learning-and-collaborating/) is an online course on Future Learn site that teaches you how to become an effective online learner and develop your online communication skills when working with others..
+
+1. Click the "Join course for Free" button and sign up for an account.
+2. You can do this with your Google account if you want
+3. Work through **Week 1** of the course. It should take around 2 hours to complete.
+4. You need to submit your comments in threads on Slack _**not**_ in the comments section on Future Learn. 
+
 ### 3. How to improve your workplace communication 
 
 As we work together online it can be even more tricky to communicate effectively. Learn three ways you can improve how you send and receive messages here at CodeYourFuture and in your other workplaces. 
 
-Read this [article on communication](https://www.loom.com/blog/improve-your-workplace-communication)
+1. Read this [article on communication](https://www.loom.com/blog/improve-your-workplace-communication)
+2. Watch the embedded video Karina's Communication and Work Style
+3. After reading and watching the video, go back to **Step two: Determine how you communicate.** 
+4. Think about the scenarios they present in this section
+5. Write down how you would approach each scenario
+6. Think about your preferred ways of communicating, the communication tools you rely on, and the things that annoy you about other's communication.
+7. Using your answers for the above, try to write your own guide to your Communication style \( just this section, not your whole user manual! \). You can also have a go at recording a Loom video if you choose. 
+
+
+
+
 
 
 
