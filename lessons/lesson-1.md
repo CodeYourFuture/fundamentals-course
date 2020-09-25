@@ -106,11 +106,11 @@ What kind of communicator are you?
 
 ### 2a. Learning Online: Communicating and Collaborating \(do this if you have already completed the Learning How to Learn course\)
 
-[Learning Online: Communicating and Collaborating](https://www.futurelearn.com/courses/learning-and-collaborating/) is an online course on Future Learn site that teaches you how to become an effective online learner and develop your online communication skills when working with others..
+[Learning Online: Communicating and Collaborating](https://www.futurelearn.com/courses/learning-and-collaborating/) is an online course on Future Learn site that teaches you how to become an effective online learner and develop your online communication skills when working with others.
 
 1. Click the "Join course for Free" button and sign up for an account.
 2. You can do this with your Google account if you want
-3. Work through **Week 1** of the course. It should take around 2 hours to complete.
+3. Work through **Week 1** of the course. It should take around **2 hours** to complete.
 4. You need to submit your comments in threads on Slack _**not**_ in the comments section on Future Learn. 
 
 ### 3. How to improve your workplace communication 
@@ -124,6 +124,23 @@ As we work together online it can be even more tricky to communicate effectively
 5. Write down how you would approach each scenario
 6. Think about your preferred ways of communicating, the communication tools you rely on, and the things that annoy you about other's communication.
 7. Using your answers for the above, try to write your own guide to your Communication style \( just this section, not your whole user manual! \). You can also have a go at recording a Loom video if you choose. 
+
+### 4. Organise a study session 
+
+Working together is the best way for you to learn. Teaching someone else helps to strengthen your knowledge. And getting help from your fellow students saves you time and keeps you from becoming a passive learner. 
+
+Organise a study session to work on one piece of coursework. 
+
+Make an announcement in Slack with: 
+
+1. The topic of the call 
+2. The time of call \(give people a few hours to get ready. Remember Slack is asynchronous communication!\)
+3. The link to Google Meet where you will have the call. 
+4. Ask people to react if they want to attend.
+5. Open the call in Google Meet. 
+6. Keep to just one topic in the call. Max 5 -6 people in a call.
+
+If there are too many people - what should you do? 
 
 
 
