@@ -12,7 +12,7 @@ A picture tells a story: Let's start our introductions with an image
 2. Add the image to our Slack thread and an explanation of why you chose that particular object.  
 3. Once you have completed your post, look at what other people have posted.
 4. When you find any interesting images and ask that person a follow up question about it.
-5. If somoene asks a question about your picture. Make sure you reply to their question with an answer
+5. If someone asks a question about your picture. Make sure you reply to their question with an answer
 
 ## What's your name? 
 
@@ -104,14 +104,13 @@ What kind of communicator are you?
 
 ### 2a. Learning Online: Communicating and Collaborating \(do this if you have already completed the Learning How to Learn course\)
 
-
-
-Learning Online: Communicating and Collaborating is an online course on Future Learn site that teaches you how to become an effective online learner and develop your online communication skills when working with others..
+[Learning Online: Communicating and Collaborating](https://www.futurelearn.com/courses/learning-and-collaborating/) is an online course on Future Learn site that teaches you how to become an effective online learner and develop your online communication skills when working with others..
 
 1. Click the "Join course for Free" button and sign up for an account.
 2. You can do this with your Google account if you want
 3. Work through **Week 1** of the course. It should take around 2 hours to complete.
-4. 
+4. You need to submit your comments in threads on Slack _**not**_ in the comments section on Future Learn. 
+
 ### 3. How to improve your workplace communication 
 
 As we work together online it can be even more tricky to communicate effectively. Learn three ways you can improve how you send and receive messages here at CodeYourFuture and in your other workplaces. 
