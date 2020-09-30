@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [About this course](about-this-course.md)
+* [About This Course](about-this-course/README.md)
+  * [Graduation Criteria](about-this-course/graduation-criteria.md)
 * [Lessons](lessons/README.md)
   * [Lesson 1](lessons/lesson.md)
   * [Lesson 2](lessons/lesson-1.md)
