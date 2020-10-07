@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [About This Course](about-this-course/README.md)
+  * [Class Preparation](about-this-course/class-preparation.md)
   * [Graduation Criteria](about-this-course/graduation-criteria.md)
 * [Lessons](lessons/README.md)
   * [Lesson 1](lessons/lesson.md)
