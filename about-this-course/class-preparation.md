@@ -1,6 +1,6 @@
 # Class Preparation
 
-Congratulations on being selected to join CodeYourFuture London Fundamentals in Coding course!
+Congratulations on being selected to join CodeYourFuture Fundamentals in Coding course!
 
 We know you are excited for the classes to start!
 
