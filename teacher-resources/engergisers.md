@@ -2,9 +2,9 @@
 
 ## Acrostic Poem
 
-In the morning, students use their own first name to create a short poem. Writing their name vertically, students use each letter to start a line, or be the main word in a line, that describes something about themselves. 
+In the morning \(Week 1\), students and volunteers use their own first name to create a short poem. Writing their name vertically, use each letter to start a line, or be the main word in a line, that describes something about themselves. 
 
-In the afternoon, peers review all poems and try to remember details about each classmate. The instructor then creates a short quiz using the statements posted in different poems. Classmates take this fun quiz to show their knowledge of their peers.
+In the afternoon, peers review all poems and try to remember details about each classmate. The instructor then creates a short quiz \(can use Kahoot\) using the statements posted in different poems. Classmates take this fun quiz to show their knowledge of their peers.
 
 ### Example
 
@@ -26,4 +26,12 @@ If you are more limited for time, choose a few students at random and ask people
 ### Example
 
 🚶‍♂️🌲🌲🌦 = I went for a walk in a forest and then it rained
+
+## A picture tells a story
+
+  
+Change up the text by starting student introductions with an image. Students find an image of an object that represents them or why are are taking the course.  Students share in a thread in Slack and add the image and an explanation of why they chose that particular object. Start this activity by posting your picture and explanation. Once students have completed their initial post, their job is to respond to interesting images and reply with a question. Original students reply to the question with an answer. 
+
+Example   
+
 
