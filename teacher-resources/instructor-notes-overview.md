@@ -44,6 +44,12 @@ Student progress often won't be updated on your dashboard until as much as 5-10 
   
 Khan Academy has created some '[How to teach remotely'](https://www.khanacademy.org/khan-for-educators/k4e-us-demo/xb78db74671c953a7:khan-for-educators#xb78db74671c953a7:teaching-remotely-with-khan-academy) training materials. 
 
+## Games & Energisers
+
+In the morning and afternoon we play games an energisers to get to know each other.
+
+You can find a resources for these [here](engergisers.md).
+
 ## Assessments
 
 Several assessments have been designed for this module. They should be completed during the weekly class.

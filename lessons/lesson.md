@@ -10,6 +10,8 @@ Before we get started with programming we want to learn a bit about you, and you
 
 We'll start with some introductions so that we can get to know each other. We'll play some games.
 
+You can find example games [here](../teacher-resources/engergisers.md).
+
 ## Student Agreement, Code of Conduct & House Rules \(45 minutes\)
 
 While you're at Code Your Future, we expect you to follow some rules. This is so that **everyone** has a fun, productive and enjoyable experience.

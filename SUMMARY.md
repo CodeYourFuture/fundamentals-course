@@ -14,6 +14,7 @@
     * [Workshop on migrating to p5.js](lessons/after-the-course/p5js-and-openprocessing-workshop.md)
 * [Teacher Resources](teacher-resources/README.md)
   * [Overview](teacher-resources/instructor-notes-overview.md)
+  * [Engergisers](teacher-resources/engergisers.md)
   * [Lesson 1](teacher-resources/instructor-notes.md)
   * [Lesson 2](teacher-resources/instructor-notes-1.md)
   * [Lesson 3](teacher-resources/instructor-notes-2.md)
