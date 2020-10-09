@@ -17,7 +17,7 @@ In the afternoon, peers review all poems and try to remember details about each 
 
 ## My Weekend in Emojis
 
-Students are tasked with talking about what they did at the weekend using only Emojis. These should then be shared in a thread of Slack or in the Zoom chat.
+Students are tasked with talking about what they did at the weekend using only Emojis. These should then be shared in a thread of Slack or in the Zoom chat. You should encourage the students to be as inventive as possible and to try to share something unique.
 
 If you have time, break the students out into small breakout rooms and have them guess what each others were.
 
