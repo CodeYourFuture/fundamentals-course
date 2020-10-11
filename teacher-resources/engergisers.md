@@ -32,6 +32,23 @@ If you are more limited for time, choose a few students at random and ask people
   
 Change up the text by starting student introductions with an image. Students find an image of an object that represents them or why are are taking the course.  Students share in a thread in Slack and add the image and an explanation of why they chose that particular object. Start this activity by posting your picture and explanation. Once students have completed their initial post, their job is to respond to interesting images and reply with a question. Original students reply to the question with an answer. 
 
-Example   
+### Example 
+
+## **Lost in Space**
+
+  
+Sometimes we learn more about people through seeing their priorities. In this icebreaker, students pretend they are living on a space station for a year. Suddenly, the station is malfunctioning and they have fifteen minutes to gather only five items to take with them on the evacuating space shuttle. This is not a time for deep thought. Students are instructed to quickly type out the five items they are taking with them. Once all participants have enter their items on their initial posts, peers read through the entries to find similarities and/or curiosities. Students post replies to comment and ask questions about the reasoning behind choosing the items. Give students categories of technology, personal, and survival to start their explanation. 
+
+**Example** 
+
+Technology - radio
+
+Personal - family photo, book
+
+Survival - knife, water  
+
+
+  
+  
 
 
