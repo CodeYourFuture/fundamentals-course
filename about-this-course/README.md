@@ -57,9 +57,9 @@ We'll start to look at JavaScript in week 2. First we're going to use a simpler 
   * For Android - [Download](https://play.google.com/store/apps/details?)
   * For iOS - [Download](https://apps.apple.com/us/app/google-classroom/id924620788%20)
 
-That's it! Most of the software we'll be using is web-based
+Be sure to complete the rest of the preparation requried before you start the course. You can find the full list [here](class-preparation.md).
 
 ## Graduation Criteria
 
-By the end of this course you must have completed all of this 
+By the end of this course you must have completed all of the criteria found [here](graduation-criteria.md).
 
