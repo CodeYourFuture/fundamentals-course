@@ -99,7 +99,7 @@ You should **SKIP** the "Object-Orientated Design" section. It is out-of-date an
 
 Continue to **Week 4** of the [Learning How to Learn course](https://www.coursera.org/learn/learning-how-to-learn). It should take around 4 hours to complete.
 
-## Continuing with JavaScript Drawing and Animation after this course
+### 3\) \(Optional\) Continuing with JavaScript Drawing and Animation 
 
 If you enjoyed using JavaScript to make drawings and animations, we recommend further study and play with the p5.js library, using the [OpenProcessing](https://openprocessing.org) platform or CodePen.
 
@@ -107,9 +107,13 @@ Here are some [notes on moving to p5.js](after-the-course/from-khan-academy-proc
 
 If we have time, we will do [a short workshop on moving your work to to p5.js](after-the-course/p5js-and-openprocessing-workshop.md).
 
-### Some places to get inspiration with p5.js
+#### Some places to get inspiration with p5.js
 
 Here is an essay by Jason Bailey about "generative art". It has lots of interesting examples which might inspire you: ["Why Love Generative Art?"](https://www.artnome.com/news/2018/8/8/why-love-generative-art). If you use Twitter, here is a recommended "generative" artist: [https://twitter.com/manoloidee](https://twitter.com/manoloidee).
+
+### 4\) Feedback
+
+We'd love your feedback on what to improve with this course. Please spend two minutes filling in [this form](https://docs.google.com/forms/d/e/1FAIpQLSdhfO5pSH1UszfJ08w2W4MgkIXE7QdGSc71YGa4rsTSPK3lyQ/viewform?usp=sf_link).
 
 ## End with a game or two
 
