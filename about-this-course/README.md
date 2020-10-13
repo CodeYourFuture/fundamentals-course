@@ -15,17 +15,6 @@ We'll also look at what you can make with programming and what kind of jobs are 
 
 If you want more detail about the topics that we're covering, take a look at the [concept roadmap](../other-resources/roadmap-of-concepts.md)
 
-### About further study on CYF's web-development course:
-
-At the end of this short course,
-
-* if you decide programming is definitely for you
-* and if we think you're ready
-
-there will be the possibility to apply for further study on the next full-stack web development course.
-
-Whether you take that path or not, we want this course to be useful to you.
-
 ## What this course is NOT
 
 ### It's _not_ a web development course
@@ -49,7 +38,7 @@ We'll start to look at JavaScript in week 2. First we're going to use a simpler 
 * Pen and paper \(ideally a simple notebook for the course duration\)
 * Headphones, if you have them - the course contains a lot of video content
 
-## Software you'll need to install
+### Software you'll need to install
 
 * Slack
   * [https://slack.com/download](https://slack.com/download)
@@ -62,4 +51,17 @@ Be sure to complete the rest of the preparation requried before you start the co
 ## Graduation Criteria
 
 By the end of this course you must have completed all of the criteria found [here](graduation-criteria.md).
+
+### Further Study
+
+#### Full Stack Web Development Course
+
+At the end of this short course,
+
+* if you decide programming is definitely for you
+* and if we think you're ready
+
+there will be the possibility to apply for further study on the next full-stack web development course.
+
+Whether you take that path or not, we want this course to be useful to you.
 
