@@ -13,6 +13,7 @@
     * [Migrating from Processing.js to p5.js](lessons/after-the-course/from-khan-academy-processingjs-to-p5js.md)
     * [Workshop on migrating to p5.js](lessons/after-the-course/p5js-and-openprocessing-workshop.md)
 * [Teacher Resources](teacher-resources/README.md)
+  * [Preparation](teacher-resources/preparation.md)
   * [Overview](teacher-resources/instructor-notes-overview.md)
   * [Engergisers](teacher-resources/engergisers.md)
   * [Lesson 1](teacher-resources/instructor-notes.md)
