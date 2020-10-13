@@ -82,3 +82,7 @@ If you have extra time or are keen to continue using concepts from the Khan Acad
 
 There are some notes provided about how to migrate the student's projects to p5.js/the OpenProcessing platform. Although the migration workshop is not very fleshed out currently.
 
+## Feedback
+
+Please ask your stuents to complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSdhfO5pSH1UszfJ08w2W4MgkIXE7QdGSc71YGa4rsTSPK3lyQ/viewform?usp=sf_link) so we can get feedback on how students found the course.
+
