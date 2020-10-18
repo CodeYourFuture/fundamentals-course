@@ -19,17 +19,37 @@
 
 The aim of this session is to welcome students to the space and get them settled. You should choose an [Energiser ](engergisers.md)and work through it with you students. 
 
+## Code of Conduct, Student Agreement & Rules
+
+This section is important to cover early in the course so we set our expectations and requirements of our students early.
+
+### Example Slides
+
+
+
+### Example Exercises
+
+If you like, you can use the exercises below to help teach this section. You are also encouraged to create your own exercises that are tailored to your students.
+
+#### Code of Conduct Exercise
+
+In the exercise below students should put their understanding of the Code of Conduct into 
+
+{% file src="../.gitbook/assets/cyf\_cofc\_exercise.pdf" caption="Code of Conduct Exercise Sheet" %}
+
 ## Kahoot
 
 Kahoot is a web app for running quick, fun quizzes with the whole class.
 
 A prepared quiz is [available here](https://play.kahoot.it/v2/?quizId=62bd599b-af55-41c3-b335-c28c9060c023) \(editor view [here](https://create.kahoot.it/details/62bd599b-af55-41c3-b335-c28c9060c023)\). It is intended to get a general level of confidence in their programming ability from the class. To be able to compare we suggest running it in the first and last classes.
 
+The aim of this quiz is to get to know your students a little and to find out their background. Its important to find out exactly how much your students know before you start teaching. 
+
 ## Slack
 
 Create a private channel for the class and invite the whole class to it.
 
-Please use the convention \#CITY-Fundamentals-class number \(eg: \#WestMids-Fund-2
+Please use the convention \#CITY-Fundamentals-class number \(eg: \#WestMids-Fund-2\)
 
 ## Start Code.org homework in class
 
