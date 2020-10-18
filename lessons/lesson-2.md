@@ -122,6 +122,12 @@ SHOW what you don't understand, and get help with it. Otherwise you will never l
 
 Whilst the above exercise is happening, each student will have a pairing session with one of the instructors to solve a programming problem using the Khan Academy Intro to JavaScript environment. We'll see how you're getting on, what help you need, and hopefully you'll get some tips from the instructor!
 
+## Feedback
+
+To make our course better we love to hear your feedback. Please spend two minutes completing this form.
+
+[Class Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScq8Zgr0pz7aMDj0D768eCpW798XgtDsKfpA6BquqK5Hdtj4A/viewform?embedded=true&entry.1672476057=Fundamentals&entry.74981796=Week+3)
+
 ## Coursework
 
 Make sure you understand the homework for next week before you leave the classroom. See Google Classroom for the definitive list of homework assignments. Make sure you check it regularly.

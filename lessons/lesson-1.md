@@ -76,6 +76,12 @@ This is your opportunity to ask questions about last week's assignments. If you 
 
 Whilst you are getting help with your Coursework exercises, each student will have a work with one of the instructors to solve a programming problem using the Code.org block-programming environment.
 
+## Feedback
+
+To make our course better we love to hear your feedback. Please spend two minutes completing this form.
+
+[Class Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScq8Zgr0pz7aMDj0D768eCpW798XgtDsKfpA6BquqK5Hdtj4A/viewform?embedded=true&entry.1672476057=Fundamentals&entry.74981796=Week+2)
+
 ## Coursework Assignments
 
 ### 1. Khan Academy: Intro to JS

@@ -30,7 +30,7 @@ We'll do a 5-minute quiz to help us find out the class's level, using the fun ap
 
 ## Software Check \(60 minutes\)
 
-Let's look at some of the tools we use to communicate with you during the course.  You should have installed the following but let's check to make sure we all know what we are doing.
+Let's look at some of the tools we use to communicate with you during the course. You should have installed the following but let's check to make sure we all know what we are doing.
 
 ### Slack
 
@@ -44,7 +44,7 @@ Let's look at some of the tools we use to communicate with you during the course
 
 Whenever you are not talking, your microphone should be muted! This prevents distracting noise for the other participants.
 
-Keep engaged with what is happening by using the thumbs up and clapping reaction buttons and the chat feature. 
+Keep engaged with what is happening by using the thumbs up and clapping reaction buttons and the chat feature.
 
 ### Google Classroom
 
@@ -70,7 +70,13 @@ Go ahead and submit the first assignment now, "first assignment: what's your fav
 
 [Here is a list of some tips for success on the course](../other-resources/tips-for-success.md). We'll discuss some of these next week, and add to these as we progress.
 
-Make sure you understand the first tip now \("don't hide when you don't know"\). If you have questions, let the volunteers know. You can use the raise hand button in the chat tools, or ask a question in the chat thread.  
+Make sure you understand the first tip now \("don't hide when you don't know"\). If you have questions, let the volunteers know. You can use the raise hand button in the chat tools, or ask a question in the chat thread.
+
+## Feedback
+
+To make our course better we love to hear your feedback. Please spend two minutes completing this form.
+
+[Class Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScq8Zgr0pz7aMDj0D768eCpW798XgtDsKfpA6BquqK5Hdtj4A/viewform?embedded=true&entry.1672476057=Fundamentals&entry.74981796=Week+1)
 
 ## Coursework \(75 minutes\)
 
