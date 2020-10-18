@@ -23,13 +23,13 @@ The aim of this session is to welcome students to the space and get them settled
 
 This section is important to cover early in the course so we set our expectations and requirements of our students early.
 
-### Example Slides
+### Past Slides
 
 The slides below were created by London Volunteers and delivered on 18/10/2020. You are welcome to use them if they suit your purpose.
 
 {% file src="../.gitbook/assets/cyf\_cofc.pptx" caption="Presentation" %}
 
-### Example Exercises
+### Past Exercises
 
 If you like, you can use the exercises below to help teach this section. You are also encouraged to create your own exercises that are tailored to your students.
 
