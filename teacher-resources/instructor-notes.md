@@ -15,6 +15,10 @@
 | 16:00 - 16:15 | Homework setup |
 | 16:15 - 17:00 | Start on Code.org homework |
 
+## Welcome
+
+The aim of this session is to welcome students to the space and get them settled. You should choose an [Energiser ](engergisers.md)and work through it with you students. 
+
 ## Kahoot
 
 Kahoot is a web app for running quick, fun quizzes with the whole class.

@@ -2,7 +2,9 @@
 
 ## Welcome \(30 minutes\)
 
-Welcome to Code Your Future and to the world of programming! This course was designed for people new to coding as well as more experienced people. Now that you have built a website in CodePen, we'll look at the basics of how programming works. We will start writing our own programs and what you can make with programming. We will also explore what kind of jobs are available to programmers.
+Welcome to Code Your Future and to the world of programming! 
+
+This course was designed for people new to coding as well as more experienced people. Now that you have built a website in CodePen, we'll look at the basics of how programming works. We will start writing our own programs and what you can make with programming. We will also explore what kind of jobs are available to programmers.
 
 ## Introduction to Code Your Future \(30 minutes\)
 
