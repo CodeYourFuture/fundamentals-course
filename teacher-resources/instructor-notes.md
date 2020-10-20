@@ -19,6 +19,20 @@
 
 The aim of this session is to welcome students to the space and get them settled. You should choose an [Energiser ](engergisers.md)and work through it with you students. 
 
+Be sure to cover
+
+* A short introduction to CYF and what we do
+* What the students will be learning on the course
+* The roles of people in the classroom, including
+  * Teacher
+  * Teaching Assistant
+  * Personal Development
+  * Any CYF Staff Present \(e.g. City Coordinators\)
+
+### Past Slides
+
+{% embed url="https://docs.google.com/presentation/d/1-KRbxYoP0rWcVnOec-o95rhtTeBGUpzjwq\_3CUW3J9Q/edit?usp=sharing" caption="Presentation created by Chris Owen \(20/10/2020\)" %}
+
 ## Code of Conduct, Student Agreement & Rules
 
 This section is important to cover early in the course so we set our expectations and requirements of our students early.
