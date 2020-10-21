@@ -15,6 +15,12 @@
 | 16:00 - 16:15 | Homework setup |
 | 16:15 - 17:00 | Start on Code.org homework |
 
+## Overview
+
+This lesson is mostly about welcoming students to the course, letting them know the rules and the course and getting them started with Block Based coding.
+
+Be sure to take attendence at the start of class - this will be an important data point for the Selection for the Full Class.
+
 ## Welcome
 
 The aim of this session is to welcome students to the space and get them settled. You should choose an [Energiser ](engergisers.md)and work through it with you students. 
