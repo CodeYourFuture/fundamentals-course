@@ -84,5 +84,9 @@ There are some notes provided about how to migrate the student's projects to p5.
 
 ## Feedback
 
-Please ask your stuents to complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSdhfO5pSH1UszfJ08w2W4MgkIXE7QdGSc71YGa4rsTSPK3lyQ/viewform?usp=sf_link) so we can get feedback on how students found the course.
+Please ask your students to complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSdhfO5pSH1UszfJ08w2W4MgkIXE7QdGSc71YGa4rsTSPK3lyQ/viewform?usp=sf_link) so we can get feedback on how students found the course.
+
+## Assigning Homework
+
+At the end of Class, assign the homework for this week through Google Classroom.
 

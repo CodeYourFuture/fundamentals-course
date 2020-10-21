@@ -110,3 +110,7 @@ Please use the convention \#CITY-Fundamentals-class number \(eg: \#WestMids-Fund
 
 It is a good idea to spend some time in the class working through the first few lessons. You can help with problems getting signed in, with the interface, etc.
 
+### Assigning Homework
+
+At the end of Class, assign the homework for this week through Google Classroom.
+

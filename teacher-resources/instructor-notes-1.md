@@ -57,3 +57,7 @@ It is a good idea to spend some time in the class working through the first few 
 
 However, note that most of the Khan Academy lessons start with a \(short\) video. Encourage students to bring a pair of headphones or to turn on subtitles.
 
+### Assigning Homework
+
+At the end of Class, assign the homework for this week through Google Classroom.
+
