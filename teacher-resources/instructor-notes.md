@@ -19,7 +19,9 @@
 
 This lesson is mostly about welcoming students to the course, letting them know the rules and the course and getting them started with Block Based coding.
 
-Be sure to take attendence at the start of class - this will be an important data point for the Selection for the Full Class.
+Be sure to take attendance at the start of class - this will be an important data point for the Selection for the Full Class.
+
+As this is the first class, make sure you chase up students who are having trouble finding the space or connecting online. There will always be problems for the first class!
 
 ## Welcome
 
