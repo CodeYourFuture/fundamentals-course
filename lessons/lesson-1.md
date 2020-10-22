@@ -1,7 +1,3 @@
----
-description: 'Lesson aims: To gain'
----
-
 # Lesson 2
 
 ## Warm up activity \(30 minutes\)
