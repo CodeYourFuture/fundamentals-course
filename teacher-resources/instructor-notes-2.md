@@ -63,6 +63,12 @@ This is very likely to be the first time they have ever paired on a programming 
 * Don't run the session too long - it is stressful for some
 * Switch partners at least once \(e.g. different partners before and after lunch\)
 
+### Previous Slides
+
+{% embed url="https://docs.google.com/presentation/d/11XKf7yVRh6Z6pcfgXeM9WxDLvmDT7hUEb5QkLOuHlDo/edit" %}
+
+
+
 ## 1-to-1 assessment
 
 Please read the [1-to-1 assessment goals](https://github.com/CodeYourFuture/fundamentals-course/tree/235b87473817bb3a95403fbbeb9c54297c282998/instructor-notes.md#1-to-1-assessments).
@@ -81,4 +87,8 @@ For Instructors
 * [Volunteer notes](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/khan_academy_cars/mentor_notes.md)
 * [Feedback form \(for volunteer\)](https://docs.google.com/forms/d/e/1FAIpQLSfPlYydoYxlsYtR3ObIzAByOjNd10gQvtUd715b8ntYaFzwbw/viewform)
 * [Edit the form \(for instructors\)](https://docs.google.com/forms/d/1DW-WwKuQhVGlgcUgB8GzFRK6m3Yty0nJGqtxgYQq_EI/edit)
+
+## Assigning Homework
+
+At the end of Class, assign the homework for this week through Google Classroom.
 
