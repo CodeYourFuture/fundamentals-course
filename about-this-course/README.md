@@ -50,7 +50,7 @@ Be sure to complete the rest of the preparation requried before you start the co
 
 ## Graduation Criteria
 
-By the end of this course you must have completed all of the criteria found [here](graduation-criteria.md).
+By the end of this course you must have completed all of the criteria found [here](graduation/).
 
 ### Further Study
 

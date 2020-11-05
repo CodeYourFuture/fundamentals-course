@@ -1,4 +1,8 @@
-# Graduation Criteria
+---
+description: What is our expected benchmark to progress to the full course?
+---
+
+# Criteria
 
 This page contains the base level that we expect from you in order to graduate from this course and be eligible for the Full Stack course.
 
