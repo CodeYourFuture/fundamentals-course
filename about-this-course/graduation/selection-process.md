@@ -4,7 +4,7 @@ description: How do we decide who moves onto the Full Course?
 
 # Selection Process
 
-In this document you will find the selection process that can be followed to choose who should move from the Fundamenals to the Full Stack course.
+In this document you will find the selection process that can be followed to choose who should move from the Fundamentals to the Full Stack course.
 
 As with everything at CodeYourFuture you are welcome to edit, remix and change this as necessary to fit your specific circumstance. You are fully in control of this process. 
 
