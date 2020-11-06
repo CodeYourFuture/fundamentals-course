@@ -31,13 +31,13 @@ The goal of this process is as follows
 
 ### Selection Spreadsheet
 
-To begin, create a copy of this template spreadsheet
+To begin, **create a copy** of this template spreadsheet
 
 [https://docs.google.com/spreadsheets/d/1xoDbP8P4hD3iuovHkd\_zmFkKMHLhsXa3U6Pa7YUjZyc/edit\#gid=0](https://docs.google.com/spreadsheets/d/1xoDbP8P4hD3iuovHkd_zmFkKMHLhsXa3U6Pa7YUjZyc/edit#gid=0)
 
 Spend some time investigating each of the categories and filling in the spreadsheet with as much visibility as you have. The most details you can add to that sheet the better.
 
-You are welcome to add and remove columns as you see fit from your copy of the spreadsheet.
+You are welcome to add and remove columns **as you see fit** from your copy of the spreadsheet.
 
 Each section is as follows
 
