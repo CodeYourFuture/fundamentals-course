@@ -8,7 +8,7 @@ In this document you will find the selection process that can be followed to cho
 
 As with everything at CodeYourFuture **you are welcome to edit, remix and change this as necessary to fit your specific circumstance**. You are fully in control of this process. 
 
-## Fundamentals Aims
+## Fundamental Course Aims
 
 It's worth restating the aims of the Fundamentals Modules from our point of view. 
 
@@ -19,9 +19,15 @@ At it's core, this module has been created to bring the majority of our students
 * How people **ask for help** when they need it
 * How well they fit into our **community**
 
-Our Interviews will never be able to give us the insight we need to choosing the people who think are most likely to succeed on our course. 
+## Selection Process
 
-## Process
+### Goal
+
+The goal of this process is as follows
+
+> **Above all else, we want to give people a chance.   
+>   
+> Our aim is to remove people who we believe to have a very low chance of succeeding or who are not as committed to the course as we need them to be.**
 
 ### Selection Spreadsheet
 
@@ -60,11 +66,9 @@ Each section is as follows
 * **Week 4 Challenge**
   * How well did the student do on the [Box & Ribbons](../../teacher-resources/instructor-notes-2.md#1-to-1-assessment) challenge
 
-### Selection
+### Process
 
-The aim of the selection is to find the people who are obviously not ready to join the course. Broadly, if it a student has completed all of the coursework and been responsive to working then they will be a good fit for the course. 
-
-> **Above all else, we want to give people a chance. Our aim is to remove people who we believe to have a very low chance of succeeding.**
+The aim of the selection is to find the people who are obviously not ready to join the course. Broadly, if it a student has completed all of the coursework and been responsive to working then they will likely be a good fit for the course. 
 
 #### Homework & Attendance Pass
 
