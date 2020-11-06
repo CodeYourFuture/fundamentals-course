@@ -38,7 +38,7 @@ There 2 main goals of this course:
 
 ## Khan Academy
 
-In order to monitor student progress on the course, it is recommended that several teacher and TA volunteers set themselves up a 'class' in KA right at the very start of the module, and then get ALL students to join ALL classes. This gives visibility of the student rota, their exercise progress, and perhaps most importantly, their project attempts.
+In order to monitor student progress on the course, it is recommended that several teacher and TA volunteers set themselves up a 'class' in KhanAcademy right at the very start of the course, and then get ALL students to join ALL classes. This gives visibility of the student rota, their exercise progress, and perhaps most importantly, their project attempts.
 
 Student progress often won't be updated on your dashboard until as much as 5-10 minutes have passed.   
   
@@ -52,7 +52,7 @@ You can find a resources for these [here](engergisers.md).
 
 ## Assessments
 
-Several assessments have been designed for this module. They should be completed during the weekly class.
+Several assessments have been designed for this course. They should be completed during the weekly class.
 
 ### Before Starting
 

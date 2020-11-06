@@ -10,9 +10,9 @@ As with everything at CodeYourFuture **you are welcome to edit, remix and change
 
 ## Fundamental Course Aims
 
-It's worth restating the aims of the Fundamentals Modules from our point of view. 
+It's worth restating the aims of the Fundamentals Course from our point of view. 
 
-At it's core, this module has been created to bring the majority of our students up to the same level before they progress on to the main course. However it is also great to dig deeper into
+At it's core, this course has been created to bring the majority of our students up to the same level before they progress on to the main course. However it is also great to dig deeper into
 
 * How **committed** people are to the course
 * How well people **self teach**
@@ -49,13 +49,13 @@ Each section is as follows
   * Do not include lessons that the student missed with a valid excuse \(e.g. sickness, technical issues\)
 * **Code.org Completed**
   * How much of the Code.org has this student completed.
-  * This is the homework for Week 1
+  * This is the coursework for Week 1
 * **KhanAcademy Completed**
   * How much of the Code.org has this student completed.
-  * This is the homework for Week 2,3,4
+  * This is the coursework for Week 2,3,4
 * **Learning Online Completed**
   * How much of the Learning Online tutorial has the student completed
-  * This is the homework for Week 2, 3, 4
+  * This is the coursework for Week 2, 3, 4
 * **Slack Interaction**
   * How much did the student interact on Slack over the course
   * This includes starting calls, joining calls, asking questions, answering questions and general conversation
@@ -70,12 +70,12 @@ Each section is as follows
 
 The aim of the selection is to find the people who are obviously not ready to join the course. Broadly, if it a student has completed all of the coursework and been responsive to working then they will likely be a good fit for the course. 
 
-#### Homework & Attendance Pass
+#### Coursework & Attendance Pass
 
 As a first pass, find the people that we are sure are not ready for the course. This is people who
 
 * Have not shown any commitment to the course
-* Have not completed most of the homework
+* Have not completed most of the coursework
 
 #### Technical Pass
 
