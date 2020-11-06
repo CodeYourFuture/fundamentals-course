@@ -77,7 +77,12 @@ Did any of the students stand out as performing poorly on then technical challen
 
 This is people who 
 
+* Score very poorly in their 1-to-1s
 
+Scoring poorly means
+
+* They did not show they had learnt over the four week course
+* They could not apply the learning from KhanAcademy to the 1-to-1s
 
 #### Soft Skills Development Pass
 
