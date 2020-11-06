@@ -62,6 +62,8 @@ Each section is as follows
 
 ### Selection
 
+The aim of the selection is to find the people who are obviously 
+
 #### Homework & Attendance Pass
 
 As a first pass, find the people that we are sure are not ready for the course. This is people who
@@ -85,6 +87,12 @@ Scoring poorly means
 * They could not apply the learning from KhanAcademy to the 1-to-1s
 
 #### Soft Skills Development Pass
+
+Finally, the Soft Skills pass should try to work out if the students will be a good fit for the course. 
+
+This is people who
+
+* Were actively distruptive in lessons 
 
 
 
