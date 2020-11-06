@@ -89,7 +89,7 @@ See [Free Resources](../other-resources/free-resources.md) for this content
 
 ## Coursework
 
-Make sure you understand the coursework for next week before you leave the classroom. See Google Classroom for the definitive list of homework assignments. Make sure you check it regularly.
+Make sure you understand the coursework for next week before you leave the classroom. See Google Classroom for the definitive list of coursework assignments. Make sure you check it regularly.
 
 ### 1\) Khan Academy: Intro to JS
 

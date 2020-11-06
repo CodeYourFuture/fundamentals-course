@@ -106,11 +106,11 @@ Create a private channel for the class and invite the whole class to it.
 
 Please use the convention \#CITY-Fundamentals-class number \(eg: \#WestMids-Fund-2\)
 
-## Start Code.org homework in class
+## Start Code.org coursework in class
 
 It is a good idea to spend some time in the class working through the first few lessons. You can help with problems getting signed in, with the interface, etc.
 
-### Assigning Homework
+### Assigning coursework
 
-At the end of Class, assign the homework for this week through Google Classroom.
+At the end of Class, assign the coursework for this week through Google Classroom.
 

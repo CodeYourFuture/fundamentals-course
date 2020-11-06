@@ -39,7 +39,7 @@ See [last lesson's instructor notes](instructor-notes-2.md#favourite-khan-academ
 
 See [last lesson's instructor notes](instructor-notes-2.md#pairing)
 
-We recommend that the students focus on using arrays and objects as they should covered this in the coursework. There are some good examples of improvements listed [here](https://github.com/CodeYourFuture/fundamentals-course/tree/b9ad64a78202f4e8151b2b7a4c9fbc0be7f05925/post-khan-academy-challenges.md). Most of them involve refactoring an existing project to use an array of objects. Note that objects within arrays is challenging for some students so this may need some explanation - perhaps a good live coding topic.
+We recommend that the students focus on using arrays and objects as they should covered this in the homework. There are some good examples of improvements listed [here](https://github.com/CodeYourFuture/fundamentals-course/tree/b9ad64a78202f4e8151b2b7a4c9fbc0be7f05925/post-khan-academy-challenges.md). Most of them involve refactoring an existing project to use an array of objects. Note that objects within arrays is challenging for some students so this may need some explanation - perhaps a good live coding topic.
 
 ## 1-to-1 assessment
 
@@ -86,7 +86,7 @@ There are some notes provided about how to migrate the student's projects to p5.
 
 Please ask your students to complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSdhfO5pSH1UszfJ08w2W4MgkIXE7QdGSc71YGa4rsTSPK3lyQ/viewform?usp=sf_link) so we can get feedback on how students found the course.
 
-## Assigning Coursework
+## Assigning Homework
 
-At the end of Class, assign the Coursework for this week through Google Classroom.
+At the end of Class, assign the homework for this week through Google Classroom.
 

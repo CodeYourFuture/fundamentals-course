@@ -14,7 +14,7 @@
 | 14:00 - 14:45 | Lunch |
 | 14:45 - 14:50 | Introduce pairing |
 | 14:50 - 17:15 | Pairing/1-to-1 assessments |
-| 17:15 - 17:30 | Set up coursework |
+| 17:15 - 17:30 | Set up homework |
 
 ## Shout out questions
 
@@ -88,7 +88,7 @@ For Instructors
 * [Feedback form \(for volunteer\)](https://docs.google.com/forms/d/e/1FAIpQLSfPlYydoYxlsYtR3ObIzAByOjNd10gQvtUd715b8ntYaFzwbw/viewform)
 * [Edit the form \(for instructors\)](https://docs.google.com/forms/d/1DW-WwKuQhVGlgcUgB8GzFRK6m3Yty0nJGqtxgYQq_EI/edit)
 
-## Assigning Coursework 
+## Assigning Homework
 
-At the end of Class, assign the coursework for this week through Google Classroom.
+At the end of Class, assign the homework for this week through Google Classroom.
 
