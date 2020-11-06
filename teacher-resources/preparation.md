@@ -6,7 +6,7 @@ There are a series of tasks that you need to complete to be ready to deliver thi
 
 ### 1.1\) Google Classroom
 
-In the past we've used Google Classroom to manage homework assignment and submission. 
+In the past we've used Google Classroom to manage coursework assignment and submission. 
 
 The easiest way to do this is to copy a class from previous years. Ask your class coordinator how to do this.
 

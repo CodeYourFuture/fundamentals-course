@@ -17,7 +17,7 @@ This page contains the base level that we expect from you in order to graduate f
 ## Motivation
 
 * The student has actively expressed an interest in having a career as a developer or other role in tech. 
-* The student must have completed all of the homework that has been set to show they are invested in their education
+* The student must have completed all of the coursework that has been set to show they are invested in their education
 
 ## English Skill
 
@@ -33,7 +33,7 @@ This page contains the base level that we expect from you in order to graduate f
 
 ## Personal Development
 
-### Homework
+### Coursework
 
 * The student must have completed the “Learning How To Learn” course
 * The student must have organised a study group with other students

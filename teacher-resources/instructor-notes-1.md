@@ -9,14 +9,14 @@
 | 11:30 - 11:40 | Shout out questions |
 | 11:40 - 12:40 | Solving problems workshop |
 | 12:40 - 12:50 | Break/Prayers |
-| 12:50 - 13:30 | Homework presentation |
-| 13:30 - 14:00 | Homework in perspective |
+| 12:50 - 13:30 | Coursework presentation |
+| 13:30 - 14:00 | Coursework in perspective |
 | 14:00 - 14:45 | Lunch |
 | 14:45 - 16:45 | Help with homework exercises/1-to-1 assessments |
 | 16:45 - 17:00 | Set up Khan Academy homework |
 | 17:00 - 17:30 | Start on Khan Academy homework |
 
-## Shout out questions
+## Shout Out Questions
 
 At the beginning of the lesson, get the students thinking about questions that they had during the week. To avoid getting distracted with answering a question for too long, run a short session where you write down all the questions on a whiteboard.
 
@@ -24,7 +24,7 @@ You can then prioritise answering the questions on your own time, or split into 
 
 It is also useful to get a volunteer write up the questions in a more permanent place \(e.g. [as a Gist](https://gist.github.com/)\) and share on Slack.
 
-## Homework in perspective
+## Coursework In Perspective
 
 Quick presentation to discuss how block-based programming is relevant in the "real world", as it can appear a little "childish" to adults.
 
