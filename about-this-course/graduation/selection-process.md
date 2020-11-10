@@ -97,7 +97,7 @@ Each section is as follows
 * Average - The student achieved all of the goals in a sub-optimal way and with some help
 * Poor - The student achieved the goals but only with significant help **or** the student could not achieve some of the goals
 * Very Poor - The student could not complete the goals of the assessment 
-* n/a - The 
+* n/a - The student did not do the assessment
 
 ### Groups
 
