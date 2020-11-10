@@ -66,6 +66,10 @@ Each section is as follows
 * **Week 4 Challenge**
   * How well did the student do on the [Box & Ribbons](../../teacher-resources/instructor-notes-2.md#1-to-1-assessment) challenge
 
+### Groups
+
+Make sure you split into small groups and go through a smaller set of students each. Do **not** attempt to go through all of the students as a large group. This will take a very long time.
+
 ### Process
 
 The aim of the selection is to find the people who are obviously not ready to join the course. Broadly, if it a student has completed all of the coursework and been responsive to working then they will likely be a good fit for the course. 
