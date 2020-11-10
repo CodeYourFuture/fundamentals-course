@@ -50,21 +50,54 @@ Each section is as follows
 * **Code.org Completed**
   * How much of the Code.org has this student completed.
   * This is the coursework for Week 1
+  * Grading
+    * Completed - The student has completed all of the coursework
+    * Nearly Completed - The student has completed 90% or more of the coursework
+    * Only Started - The student has completed less than 90% of the coursework
+    * Not Started - The student has not started the coursework
 * **KhanAcademy Completed**
-  * How much of the Code.org has this student completed.
+  * How much of the "KhanAcademy Intro to JS" course has this student completed.
   * This is the coursework for Week 2,3,4
+  * Grading
+    * Completed - The student has completed all of the coursework
+    * Nearly Completed - The student has completed 90% or more of the coursework
+    * Only Started - The student has completed less than 90% of the coursework
+    * Not Started - The student has not started the coursework
 * **Learning Online Completed**
   * How much of the Learning Online tutorial has the student completed
   * This is the coursework for Week 2, 3, 4
+  * Grading
+    * Completed - The student has completed all of the coursework
+    * Nearly Completed - The student has completed 90% or more of the coursework
+    * Only Started - The student has completed less than 90% of the coursework
+    * Not Started - The student has not started the coursework
 * **Slack Interaction**
   * How much did the student interact on Slack over the course
   * This includes starting calls, joining calls, asking questions, answering questions and general conversation
+  * Grading
+    * Above Expected - The student hosted calls and helped other students
+    * Expected - The student sent messages and joined at least one call
+    * Below Expected - The student sent the occasional message
+    * None - The student did not interact on Slack
+    * Could not judge - Couldn't work out their interaction from Slack
 * **Week 2 Challenge**
   * How well did the student do on the [Three Giraffes](../../teacher-resources/instructor-notes-1.md#1-to-1-assessment) challenge
+  * Grading: [See below](selection-process.md#challenge-grading-criteria).
 * **Week 3 Challenge**
   * How well did the student do on the [Three Cars](../../teacher-resources/instructor-notes-2.md#1-to-1-assessment) challenge
+  * Grading: [See below](selection-process.md#challenge-grading-criteria).
 * **Week 4 Challenge**
   * How well did the student do on the [Box & Ribbons](../../teacher-resources/instructor-notes-2.md#1-to-1-assessment) challenge
+  * Grading: [See below](selection-process.md#challenge-grading-criteria).
+
+#### Challenge Grading Criteria
+
+* Very Good - The student excelled at the assessment achieving all goals in the most optimal way with little to no help or issues
+* Good - The student achieved all of the goals in a sub-optimal way with a little help
+* Average - The student achieved all of the goals in a sub-optimal way and with some help
+* Poor - The student achieved the goals but only with significant help **or** the student could not achieve some of the goals
+* Very Poor - The student could not complete the goals of the assessment 
+* n/a - The 
 
 ### Groups
 
