@@ -12,3 +12,7 @@ Classes will take place every Saturday/Sunday \(check in your city!\) and will _
 
 Please arrive on time so that we can finish on time.
 
+## Editing this Website
+
+This website is hosted on [Gitbook](https://www.gitbook.com/). To get edit access, please speak to a CodeYourFuture Coordinator.
+
