@@ -53,7 +53,9 @@ Then give 5 minutes for the students to prepare which project they want to prese
 
 Finally split into small groups \(per-table usually works well\) and take it turns to present. If possible, have a volunteer sit with each group to listen in and time-keep.
 
-## Pairing
+## Improve Your Favourite Khan Academy Project 
+
+### Pairing
 
 This is very likely to be the first time they have ever paired on a programming problem. Here are some tips on running a good pairing session:
 
@@ -63,13 +65,17 @@ This is very likely to be the first time they have ever paired on a programming 
 * Don't run the session too long - it is stressful for some
 * Switch partners at least once \(e.g. different partners before and after lunch\)
 
-### Previous Slides
+#### Previous Slides
 
 {% embed url="https://docs.google.com/presentation/d/11XKf7yVRh6Z6pcfgXeM9WxDLvmDT7hUEb5QkLOuHlDo/edit" %}
 
+### 1-to-1 Assessments
 
+While the class is working on their coursework, volunteers should begin the second round of assessments with students. They should be completing the "Khan Academy - Three Cars"
 
-## 
+Details for this assessment can be found here.
+
+[Khan Academy - Three Cars](assessments.md#week-3-khan-academy-three-cars)
 
 ## Assigning Coursework 
 
