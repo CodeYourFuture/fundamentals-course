@@ -60,19 +60,13 @@ If you need a reminder on how to pair-program effectively, see the [the notes fr
 
 ### 1-to-1 programming problem with an instructor
 
-\_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes-3.md#1-to-1-assessment)\_\_
-
 Each student will have a pairing session with one of the instructors to solve a programming problem using the Khan Academy Intro to JavaScript environment. We'll see how you're getting on, what help you need, and hopefully you'll get some tips from the instructor!
 
 ## Kahoot - again! \(15 minutes\)
 
-\_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes-3.md#kahoot)\_\_
-
 Let's do the first Kahoot quiz again, to find out if you feel any differently about programming now.
 
 ## Reflection: How is all this relevant in the real world? \(30 minutes\)
-
-\_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes-3.md#course-reflection)\_\_
 
 Looking back at the [concept roadmap](../other-resources/roadmap-of-concepts.md), believe it or not, you've been learning the basics of programming, relevant to a whole range of coding jobs.
 
