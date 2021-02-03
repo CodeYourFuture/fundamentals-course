@@ -17,6 +17,7 @@
 * [Teacher Resources](teacher-resources/README.md)
   * [Overview](teacher-resources/instructor-notes-overview.md)
   * [Preparation](teacher-resources/preparation.md)
+  * [Assessments](teacher-resources/assessments.md)
   * [Energisers](teacher-resources/engergisers.md)
   * [Lesson 1](teacher-resources/instructor-notes.md)
   * [Lesson 2](teacher-resources/instructor-notes-1.md)

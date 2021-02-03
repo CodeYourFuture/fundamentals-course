@@ -22,6 +22,8 @@ If you are a CYF volunteer please add 'Vol or Volunteer' after your name.
 
 ## Shout out your questions \(10 minutes\)
 
+\_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes-1.md#shout-out-questions)\_\_
+
 Let's make a list of all of the programming questions we'd like to get answered today, and put them on our virtual whiteboard. 
 
 We like to use [Miro](https://miro.com/login/).   
@@ -31,8 +33,6 @@ We like to use [Miro](https://miro.com/login/).
 3. Find the note you wrote your name on for your coursework assignment. 
 4. Write your question on your note \(you must ask a question\)
 5. If you have more than 1 question, write each on a separate stiky note. To add a new note, use the toolbar on the left hand side to select a new note.
-
-
 
 ## Solving problems \(90 minutes\)
 
@@ -48,7 +48,7 @@ Last week you should have written a "algorithm recipe". The instructor will pick
 
 ## Effective Communication \(1 Hour\)
 
-Ok so working remotely \(online\) is differnt from working together face to face. We will look at how commuincation works online and get some tips on how to be more effective on this course.  
+Working remotely \(online\) is different from working together face to face. We will look at how communication works online and get some tips on how to be more effective on this course.  
 
 ## Presentations \(30 minutes\)
 
@@ -63,6 +63,8 @@ Remember that communicating information to others is a really important skill fo
 * Stick to the time. The volunteer will cut you off at 5 minutes!
 
 ## Coursework In Perspective \(20 minutes\)
+
+\_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes-1.md#coursework-in-perspective)\_\_
 
 Although the block-based coding you practised at home solved only simple problems with a simple language, we'll look briefly at four concepts you used which are also at the heart of professional coding.
 
