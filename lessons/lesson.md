@@ -12,15 +12,11 @@ This course was designed for people new to coding as well as more experienced pe
 
 ## Introduction to Code Your Future \(30 minutes\)
 
-\_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes.md#past-slides)
-
 Before we get started with programming we want to learn a bit about you, and you can learn a bit about us.
 
 We'll start with some introductions so that we can get to know each other. We'll play some games.
 
 ## Student Agreement, Code of Conduct & House Rules \(45 minutes\)
-
-\_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes.md#code-of-conduct-student-agreement-and-rules)\_\_
 
 While you're at Code Your Future, we expect you to follow some rules. This is so that **everyone** has a fun, productive and enjoyable experience.
 
@@ -28,21 +24,17 @@ We'll read through the [Student Agreement](https://docs.codeyourfuture.io/studen
 
 ## Getting into Technology: Why & How \(35 minutes\)
 
-\_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes.md#getting-into-technology-why-and-how-35-minutes)\_\_
-
 Next we'll have a presentation about why you would want to be a programmer.
 
-## What level is the class starting at? \(15 minutes\)
+Link to the presentation slides: [https://docs.google.com/presentation/d/1XVVq6acZwMb7r1OAx2b54nS5WOguO3V7m7Pspledi60/edit\#slide=id.g253640fe83\_0\_202](https://docs.google.com/presentation/d/1XVVq6acZwMb7r1OAx2b54nS5WOguO3V7m7Pspledi60/edit#slide=id.g253640fe83_0_202)
 
-[_Instructors see here for instructions_](../teacher-resources/instructor-notes.md#kahoot)\_\_
+## What level is the class starting at? \(15 minutes\)
 
 This course is designed for complete beginners. If you've never programmed before, don't worry - you're definitely on the right course!
 
 We'll do a 5-minute quiz to help us find out the class's level, using the fun app called ["Kahoot"](https://play.kahoot.it/v2/?quizId=62bd599b-af55-41c3-b335-c28c9060c023).
 
 ## Software Check \(60 minutes\)
-
-\_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes.md#slack)\_\_
 
 Let's look at some of the tools we use to communicate with you during the course. You should have installed the following but let's check to make sure we all know what we are doing.
 

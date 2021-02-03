@@ -32,23 +32,21 @@ Sequence, repetition with loops, conditional execution with if/else, and breakin
 
 Possibly showing representations in JS, by clicking the "Show code" button on Code.org.
 
-## 1-to-1 assessment
-
-Please read the [1-to-1 assessment goals](instructor-notes-overview.md#1-to-1-assessments).
-
-### Code.org - Three giraffes
-
-Details for this assessment can be found here.
-
-[Three Giraffes Assessment](assessments.md#week-2-code-org-three-giraffes)
-
 ## Start Khan Academy coursework in class
 
 It is a good idea to spend some time in the class working through the first few lessons. You can help with problems getting signed in, with the interface, etc.
 
 However, note that most of the Khan Academy lessons start with a \(short\) video. Encourage students to bring a pair of headphones or to turn on subtitles.
 
-### Assigning Homework
+### 1-to-1 assessment
+
+While the class is working on their coursework, volunteers should begin the first round of assessments with students. They should be completing the "Code.org - Three Giraffes"
+
+Details for this assessment can be found here.
+
+[Three Giraffes Assessment](assessments.md#week-2-code-org-three-giraffes)
+
+## Assigning Homework
 
 At the end of Class, assign the homework for this week through Google Classroom.
 

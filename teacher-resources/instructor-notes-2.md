@@ -14,7 +14,7 @@
 | 14:00 - 14:45 | Lunch |
 | 14:45 - 14:50 | Introduce pairing |
 | 14:50 - 17:15 | Pairing/1-to-1 assessments |
-| 17:15 - 17:30 | Set up homework |
+| 17:15 - 17:30 | Set up coursework |
 
 ## Shout out questions
 
@@ -69,26 +69,9 @@ This is very likely to be the first time they have ever paired on a programming 
 
 
 
-## 1-to-1 assessment
+## 
 
-Please read the [1-to-1 assessment goals](https://github.com/CodeYourFuture/fundamentals-course/tree/235b87473817bb3a95403fbbeb9c54297c282998/instructor-notes.md#1-to-1-assessments).
+## Assigning Coursework 
 
-### Khan Academy - Three Cars
-
-For this week we have prepared the Three Cars assessment
-
-For students:
-
-* [Task description \(for students\)](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/khan_academy_cars/assessment_task.md)
-
-For Instructors
-
-* [Readme page \(for instructors\)](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/khan_academy_cars)
-* [Volunteer notes](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/khan_academy_cars/mentor_notes.md)
-* [Feedback form \(for volunteer\)](https://docs.google.com/forms/d/e/1FAIpQLSfPlYydoYxlsYtR3ObIzAByOjNd10gQvtUd715b8ntYaFzwbw/viewform)
-* [Edit the form \(for instructors\)](https://docs.google.com/forms/d/1DW-WwKuQhVGlgcUgB8GzFRK6m3Yty0nJGqtxgYQq_EI/edit)
-
-## Assigning Homework
-
-At the end of Class, assign the homework for this week through Google Classroom.
+At the end of Class, assign the coursework for this week through Google Classroom.
 
