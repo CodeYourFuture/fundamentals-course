@@ -39,17 +39,28 @@ See [last lesson's instructor notes](instructor-notes-2.md#favourite-khan-academ
 
 See [last lesson's instructor notes](instructor-notes-2.md#pairing)
 
-We recommend that the students focus on using arrays and objects as they should covered this in the coursework. There are some good examples of improvements listed [here](https://github.com/CodeYourFuture/fundamentals-course/tree/b9ad64a78202f4e8151b2b7a4c9fbc0be7f05925/post-khan-academy-challenges.md). Most of them involve refactoring an existing project to use an array of objects. Note that objects within arrays is challenging for some students so this may need some explanation - perhaps a good live coding topic.
+We recommend that the students focus on using arrays and objects as they should covered this in the homework. There are some good examples of improvements listed [here](https://github.com/CodeYourFuture/fundamentals-course/tree/b9ad64a78202f4e8151b2b7a4c9fbc0be7f05925/post-khan-academy-challenges.md). Most of them involve refactoring an existing project to use an array of objects. Note that objects within arrays is challenging for some students so this may need some explanation - perhaps a good live coding topic.
 
 ## 1-to-1 assessment
+
+Please read the [1-to-1 assessment goals](https://github.com/CodeYourFuture/fundamentals-course/tree/b9ad64a78202f4e8151b2b7a4c9fbc0be7f05925/instructor-notes.md#1-to-1-assessments).
 
 This lesson's assessment is quite similar to last lesson's. We recommend focusing on students that most need assessment \(i.e. you know less about their level\), so that you can make decisions about their progress.
 
 The assessment is also structured a little differently to the previous two, as it can be run as a in-class test as well as a 1-to-1 session. If you have many students that you need to prioritise, then an in-class test may the best choice, however it sometimes can be difficult to make decisions without observation of the student \(they could be along the right lines, just missing a crucial detail\).
 
-Details for this assessment can be found here.
+### Khan Academy - Three Boxes
 
-[Khan Academy - Three Boxes](assessments.md#week-4-khan-academy-three-boxes)
+For students
+
+* [Task description \(for students\)](https://github.com/CodeYourFuture/fundamentals-course-assessments/blob/master/khan-academy-boxes-and-ribbons/assessment-tasks-for-students.md)
+
+For Instructors
+
+* [Readme page \(for instructors\)](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/khan-academy-boxes-and-ribbons)
+* [Example solutions](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/khan-academy-boxes-and-ribbons)
+* [Feedback form \(for volunteer\)](https://docs.google.com/forms/d/e/1FAIpQLSdkyYCIltW9bhoDhpJIDEmCEKWKD7NGVOk-vj3Bc9fJbqkmAA/viewform)
+* TODO: add link to edit the form
 
 ## Kahoot
 
@@ -75,7 +86,7 @@ There are some notes provided about how to migrate the student's projects to p5.
 
 Please ask your students to complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSdhfO5pSH1UszfJ08w2W4MgkIXE7QdGSc71YGa4rsTSPK3lyQ/viewform?usp=sf_link) so we can get feedback on how students found the course.
 
-## Assigning Coursework
+## Assigning Homework
 
-At the end of Class, assign the Coursework for this week through Google Classroom.
+At the end of Class, assign the homework for this week through Google Classroom.
 
