@@ -13,30 +13,24 @@ There are instructor notes for each lesson:
 
 There 2 main goals of this course:
 
-1. Help students with little or no prior programming experience to learn some fundamental concepts of programming
-2. Assess the students to help work out if they would struggle on the web development course
+> 1. **Help** students with little or **no prior programming experience** to learn some fundamental concepts of programming
+> 2. **Assess** the students to help work out if they would **struggle** on the web development course
 
-## Equipment for running the course
+## Course Overview
 
-* Wifi
-* Screencasting
-  * Some set-up for presenting your screen and live coding
-  * Bring a spare if there's space for 2 rooms
-  * A good, cheap solution is a Chromecast
-* Power extensions/strips
-  * Student laptops tend to have poor battery life
-* Spare headphones
-  * Useful video courses for week 2 onwards
-* Blank stickers for name tags
-* Attendance sheets
-  * Clipboard might be useful too
-* Whiteboard markers
-* Post-its
-* Paper/pens for making notes
-* Spare laptops
-* Access to the [Fundamentals Assessment Repository](https://github.com/CodeYourFuture/fundamentals-course-assessments)
+### 1\) Code.org
 
-## Khan Academy
+At the start of the course we use Code.org and Block Based coding to start the process of learning about algorithmic thinking. It might seem easy but it helps to lay the foundation that build the rest of the course off!
+
+![](../.gitbook/assets/image.png)
+
+### 2\) Khan Academy
+
+![](../.gitbook/assets/image%20%281%29.png)
+
+Next, we use KhanAcademy to guide the students along a visual course using JavaScript. This is the  majority of the course.
+
+#### Monitoring
 
 In order to monitor student progress on the course, it is recommended that several teacher and TA volunteers set themselves up a 'class' in KhanAcademy right at the very start of the course, and then get ALL students to join ALL classes. This gives visibility of the student rota, their exercise progress, and perhaps most importantly, their project attempts.
 
@@ -44,13 +38,17 @@ Student progress often won't be updated on your dashboard until as much as 5-10 
   
 Khan Academy has created some '[How to teach remotely'](https://www.khanacademy.org/khan-for-educators/k4e-us-demo/xb78db74671c953a7:khan-for-educators#xb78db74671c953a7:teaching-remotely-with-khan-academy) training materials. 
 
-## Games & Energisers
+### 3\) Games & Energisers
 
 In the morning and afternoon we play games an energisers to get to know each other.
 
 You can find a resources for these [here](engergisers.md).
 
-## Assessments
+### 4\) Assessments
 
-See the [Assessments ](assessments.md)page
+A really important part of this course is the assessment section which happens either during classes or in the time in between. The question we are trying to answer during Fundamentals is 
+
+> Does this student have the commitment and show the qualities we need for them to complete the Full Stack Course?
+
+The assessments take place in weeks 2, 3 and 4. See the [Assessments ](assessments.md)page for more details. 
 

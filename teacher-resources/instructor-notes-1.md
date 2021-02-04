@@ -32,32 +32,21 @@ Sequence, repetition with loops, conditional execution with if/else, and breakin
 
 Possibly showing representations in JS, by clicking the "Show code" button on Code.org.
 
-## 1-to-1 assessment
-
-Please read the [1-to-1 assessment goals](instructor-notes-overview.md#1-to-1-assessments).
-
-### Code.org - Three giraffes
-
-For this lesson we have prepared the "Three giraffes" assessment.
-
-For Students
-
-* [Task description \(for students\)](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/codeorg_three_giraffes/assessment_task.md)
-
-For Instructors
-
-* [Readme page \(for instructors\)](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/codeorg_three_giraffes)
-* [Volunteer notes](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/codeorg_three_giraffes/mentor_notes.md)
-* [Feedback form \(for volunteer\)](https://docs.google.com/forms/d/e/1FAIpQLSf5RN_jYq6Jvh4LdDdjuNL3TyUOcwncSpikTr-WVbBkm3JBCQ/viewform)
-* [Edit the form \(for instructors\)](https://docs.google.com/forms/d/15UtSv_A089jYxdZ7Guusf440FtckUaPLHvJAfv4dOY0/edit)
-
 ## Start Khan Academy coursework in class
 
 It is a good idea to spend some time in the class working through the first few lessons. You can help with problems getting signed in, with the interface, etc.
 
 However, note that most of the Khan Academy lessons start with a \(short\) video. Encourage students to bring a pair of headphones or to turn on subtitles.
 
-### Assigning Homework
+### 1-to-1 assessment
+
+While the class is working on their coursework, volunteers should begin the first round of assessments with students. They should be completing the "Code.org - Three Giraffes"
+
+Details for this assessment can be found here.
+
+[Three Giraffes Assessment](assessments.md#week-2-code-org-three-giraffes)
+
+## Assigning Homework
 
 At the end of Class, assign the homework for this week through Google Classroom.
 

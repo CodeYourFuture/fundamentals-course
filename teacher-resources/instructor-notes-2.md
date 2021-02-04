@@ -14,7 +14,7 @@
 | 14:00 - 14:45 | Lunch |
 | 14:45 - 14:50 | Introduce pairing |
 | 14:50 - 17:15 | Pairing/1-to-1 assessments |
-| 17:15 - 17:30 | Set up homework |
+| 17:15 - 17:30 | Set up coursework |
 
 ## Shout out questions
 
@@ -53,7 +53,9 @@ Then give 5 minutes for the students to prepare which project they want to prese
 
 Finally split into small groups \(per-table usually works well\) and take it turns to present. If possible, have a volunteer sit with each group to listen in and time-keep.
 
-## Pairing
+## Improve Your Favourite Khan Academy Project 
+
+### Pairing
 
 This is very likely to be the first time they have ever paired on a programming problem. Here are some tips on running a good pairing session:
 
@@ -63,32 +65,19 @@ This is very likely to be the first time they have ever paired on a programming 
 * Don't run the session too long - it is stressful for some
 * Switch partners at least once \(e.g. different partners before and after lunch\)
 
-### Previous Slides
+#### Previous Slides
 
 {% embed url="https://docs.google.com/presentation/d/11XKf7yVRh6Z6pcfgXeM9WxDLvmDT7hUEb5QkLOuHlDo/edit" %}
 
+### 1-to-1 Assessments
 
+While the class is working on their coursework, volunteers should begin the second round of assessments with students. They should be completing the "Khan Academy - Three Cars"
 
-## 1-to-1 assessment
+Details for this assessment can be found here.
 
-Please read the [1-to-1 assessment goals](https://github.com/CodeYourFuture/fundamentals-course/tree/235b87473817bb3a95403fbbeb9c54297c282998/instructor-notes.md#1-to-1-assessments).
+[Khan Academy - Three Cars](assessments.md#week-3-khan-academy-three-cars)
 
-### Khan Academy - Three Cars
+## Assigning Coursework 
 
-For this week we have prepared the Three Cars assessment
-
-For students:
-
-* [Task description \(for students\)](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/khan_academy_cars/assessment_task.md)
-
-For Instructors
-
-* [Readme page \(for instructors\)](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/khan_academy_cars)
-* [Volunteer notes](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/khan_academy_cars/mentor_notes.md)
-* [Feedback form \(for volunteer\)](https://docs.google.com/forms/d/e/1FAIpQLSfPlYydoYxlsYtR3ObIzAByOjNd10gQvtUd715b8ntYaFzwbw/viewform)
-* [Edit the form \(for instructors\)](https://docs.google.com/forms/d/1DW-WwKuQhVGlgcUgB8GzFRK6m3Yty0nJGqtxgYQq_EI/edit)
-
-## Assigning Homework
-
-At the end of Class, assign the homework for this week through Google Classroom.
+At the end of Class, assign the coursework for this week through Google Classroom.
 
