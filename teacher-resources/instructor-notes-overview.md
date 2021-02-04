@@ -30,14 +30,6 @@ At the start of the course we use Code.org and Block Based coding to start the p
 
 Next, we use KhanAcademy to guide the students along a visual course using JavaScript. This is the  majority of the course.
 
-#### Monitoring
-
-In order to monitor student progress on the course, it is recommended that several teacher and TA volunteers set themselves up a 'class' in KhanAcademy right at the very start of the course, and then get ALL students to join ALL classes. This gives visibility of the student rota, their exercise progress, and perhaps most importantly, their project attempts.
-
-Student progress often won't be updated on your dashboard until as much as 5-10 minutes have passed.   
-  
-Khan Academy has created some '[How to teach remotely'](https://www.khanacademy.org/khan-for-educators/k4e-us-demo/xb78db74671c953a7:khan-for-educators#xb78db74671c953a7:teaching-remotely-with-khan-academy) training materials. 
-
 ### 3\) Games & Energisers
 
 In the morning and afternoon we play games an energisers to get to know each other.

@@ -4,6 +4,8 @@ There are a series of tasks that you need to complete to be ready to deliver thi
 
 ## 1\) Equipment for running the course
 
+### Physical Classes
+
 * Wifi
 * Screencasting
   * Some set-up for presenting your screen and live coding
@@ -21,6 +23,13 @@ There are a series of tasks that you need to complete to be ready to deliver thi
 * Paper/pens for making notes
 * Spare laptops
 * Access to the [Fundamentals Assessment Repository](https://github.com/CodeYourFuture/fundamentals-course-assessments)
+
+### Online Classes
+
+* Access to the [Fundamentals Assessment Repository](https://github.com/CodeYourFuture/fundamentals-course-assessments)
+* Wifi
+* Zoom Account
+* A good microphone and website
 
 ## 2\) Tool Setup
 
@@ -43,6 +52,12 @@ Be sure to invite all of the students to the class before the course starts.
 Follow the instructions [here ](https://www.khanacademy.org/khan-for-educators/resources/teacher-essentials/getting-started-on-khan-academy/a/teacher-quick-start-checklist)for to setup a Khan Academy Classroom. This will make it easier to track the students progress through the course.
 
 Be sure to invite all of the students to the class before the course starts.
+
+In order to monitor student progress on the course, it is recommended that several teacher and TA volunteers set themselves up a 'class' in KhanAcademy right at the very start of the course, and then get ALL students to join ALL classes. This gives visibility of the student rota, their exercise progress, and perhaps most importantly, their project attempts.
+
+Student progress often won't be updated on your dashboard until as much as 5-10 minutes have passed.   
+  
+Khan Academy has created some '[How to teach remotely'](https://www.khanacademy.org/khan-for-educators/k4e-us-demo/xb78db74671c953a7:khan-for-educators#xb78db74671c953a7:teaching-remotely-with-khan-academy) training materials. 
 
 ## 3\) Student Setup
 
