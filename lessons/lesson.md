@@ -24,7 +24,7 @@ We'll start with some introductions so that we can get to know each other. We'll
 
 While you're at Code Your Future, we expect you to follow some rules. This is so that **everyone** has a fun, productive and enjoyable experience.
 
-We'll read through the [Student Agreement](https://docs.codeyourfuture.io/students/student-agreement), [Code of Conduct](https://codeyourfuture.github.io/syllabus-master/CODE_OF_CONDUCT.html) and [House Rules](https://codeyourfuture.github.io/syllabus-master/others/house-rules.html) together and answer any questions you have about them.
+We'll read through the [Student Agreement](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement), [Code of Conduct](https://codeyourfuture.github.io/syllabus-master/CODE_OF_CONDUCT.html) and [House Rules](https://codeyourfuture.github.io/syllabus-master/others/house-rules.html) together and answer any questions you have about them.
 
 ## Getting into Technology: Why & How \(35 minutes\)
 
