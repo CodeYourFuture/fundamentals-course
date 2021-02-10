@@ -81,7 +81,7 @@ This course benefits from their being a few Teaching Assistants to provide one-t
 
 * The aims of the course
 * The structure of the days
-* What their specific role is - outline [here ](https://teachertraining.codeyourfuture.io/roles/teaching-assistant/role)
+* What their specific role is - [outlined here ](https://docs.codeyourfuture.io/teams/education/education-roles/teaching-assitant)
 * When and where they should be attending
 
 ### **4.2\) Content Knowledge**
