@@ -69,7 +69,7 @@ If you have time, a short phone call with each of them to run through the checkl
 
 ### **3.2\) Student Invites**
 
-Atleast a week before the first class make sure that all students know when and where they are meant to be attending. 
+At least a week before the first class make sure that all students know when and where they are meant to be attending. 
 
 It is wise to tell them to be there 5-10 minutes before you plan to start to allow for late comers. 
 
