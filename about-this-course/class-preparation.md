@@ -112,11 +112,3 @@ We use the [Kahoot! App](https://kahoot.com/home/mobile-app/) to play games and 
 
 * Download and install on your phone, available for either Android or IOS. 
 
-## **4. Course Assignments \(3-4 hours\)**
-
-Login to your account on [course1.codeyourfuture.io](https://course1.codeyourfuture.io)
-
-You will have a set of tasks to complete before starting class.
-
-It is essential that you complete all of the work to prepare you for the course!
-
