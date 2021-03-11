@@ -49,7 +49,11 @@ In this session we're covering these three topics
 
 * The [Code of Conduct](https://codeyourfuture.io/about/code-of-conduct/)
 * The [Student Agreement](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement)
-* Our [House Rules](https://docs.codeyourfuture.io/organisation/agreements-and-rules/house-rules)
+* Our [House Rules](https://docs.codeyourfuture.io/organisation/agreements-and-rules/house-rules) \(or/and any other rules you have for your classroom\)
+
+The aim of these sessions is to have the student engage with the content in an active way. It may not be enough for them to simply read the agreement and sign it - they should understand what each of the rules mean in practice. 
+
+We spend a good amount of time on this on the first day to set the expected behaviour of our students in our community. 
 
 ### Past Slides
 
