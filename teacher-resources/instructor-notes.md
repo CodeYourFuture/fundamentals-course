@@ -55,6 +55,12 @@ The aim of these sessions is to have the student engage with the content in an a
 
 We spend a good amount of time on this on the first day to set the expected behaviour of our students in our community. 
 
+Go through each of them in details and define how they differ from each other. Example talking points are: 
+
+* Our code of conduct is followed by ALL members of our community. All good communities should have one. 99% of people will never do anything against it.
+* Our student agreement is what we need of you - we're all volunteers so we need you to meet us halfway. We're going to spending alot of time with you to make sure you succeed. 
+* Our House Rules are just so everything runs smoothly - we've learnt from exerperience!
+
 ### Past Slides
 
 The slides below were created by London Volunteers and delivered on 18/10/2020. You are welcome to use them if they suit your purpose.
@@ -82,9 +88,11 @@ Give this list of words and phrases to the students.
 11. Ostracising People
 12. Belittling
 
-The students should select all the words that they don't understand or know the meaning of. 
+To run this exercise
 
-Consider using a Slack Poll or a [Menti Poll](https://www.menti.com/) to run this exercise.
+1. Create a post in Slack with each of the above words listed. 
+2. Assign an emoji response to each word
+3. Instruct students to click the emoji for all of the areas that they completely understand
 
 When the students have voted either have a group discussion with all the students about the top unknown words or split into smaller groups and and have small discussions. 
 
