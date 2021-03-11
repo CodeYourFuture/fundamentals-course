@@ -6,14 +6,14 @@
 | :--- | :--- |
 | 00:00 - 00:30 | Preparation of space \(30 mins\) |
 | 00:30 - 01:30 | Welcome \(1 hour\) |
-| 01:30 - 02:45 | Code of Conduct & House Rules \(1 Hour, 15 mins\) |
-| 02:45 - 02:55 | Break/Prayers \(10 mins\) |
-| 02:55 - 03:30 | Getting into Technology presentation \(35 mins\) |
-| 03:30 - 04:25 | Lunch \(45 mins\) |
-| 04:25 - 04:40 | Kahoot quiz \(15 mins\) |
-| 04:40 - 05:40 | Software setup \(1 hour\) |
-| 05:40 - 05:55 | Homework setup \(15 mins\) |
-| 05:55 - End | Start on Code.org homework \(Rest of day\) |
+| 01:30 - 02:15 | Code of Conduct & House Rules \(45 mins\) |
+| 02:15 - 02:25 | Break/Prayers \(10 mins\) |
+| 02:25 - 03:00 | Getting into Technology presentation \(35 mins\) |
+| 03:00 - 03:55 | Lunch \(45 mins\) |
+| 03:55 - 04:10 | Kahoot quiz \(15 mins\) |
+| 04:10 - 05:10 | Software setup \(1 hour\) |
+| 05:10 - 05:25 | Homework setup \(15 mins\) |
+| 05:25 - End | Start on Code.org homework \(Rest of day\) |
 
 ## Overview
 
