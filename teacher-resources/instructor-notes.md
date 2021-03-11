@@ -4,16 +4,16 @@
 
 | Time | Activity |
 | :--- | :--- |
-| 10:45 - 11:30 | Preparation of space |
-| 11:30 - 12:30 | Welcome |
-| 12:30 - 13:15 | Code of Conduct & House Rules |
-| 13:15 - 13:25 | Break/Prayers |
-| 13:25 - 14:00 | Getting into Technology presentation |
-| 14:00 - 14:45 | Lunch |
-| 14:45 - 15:00 | Kahoot quiz |
-| 15:00 - 16:00 | Software setup |
-| 16:00 - 16:15 | Homework setup |
-| 16:15 - 17:00 | Start on Code.org homework |
+| 00:00 - 00:30 | Preparation of space \(30 mins\) |
+| 00:30 - 01:30 | Welcome \(1 hour\) |
+| 01:30 - 02:45 | Code of Conduct & House Rules \(1 Hour, 15 mins\) |
+| 02:45 - 02:55 | Break/Prayers \(10 mins\) |
+| 02:55 - 03:30 | Getting into Technology presentation \(35 mins\) |
+| 03:30 - 04:25 | Lunch \(45 mins\) |
+| 04:25 - 04:40 | Kahoot quiz \(15 mins\) |
+| 04:40 - 05:40 | Software setup \(1 hour\) |
+| 05:40 - 05:55 | Homework setup \(15 mins\) |
+| 05:55 - End | Start on Code.org homework \(Rest of day\) |
 
 ## Overview
 
@@ -44,6 +44,12 @@ Be sure to cover
 ## Code of Conduct, Student Agreement & Rules
 
 This section is important to cover early in the course so we set our expectations and requirements of our students early.
+
+In this session we're covering these three topics
+
+* The [Code of Conduct](https://codeyourfuture.io/about/code-of-conduct/)
+* The [Student Agreement](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement)
+* Our [House Rules](https://docs.codeyourfuture.io/organisation/agreements-and-rules/house-rules)
 
 ### Past Slides
 
