@@ -49,7 +49,7 @@ This section is important to cover early in the course so we set our expectation
 
 The slides below were created by London Volunteers and delivered on 18/10/2020. You are welcome to use them if they suit your purpose.
 
-{% file src="../.gitbook/assets/cyf\_cofc.pptx" caption="Presentation" %}
+{% embed url="https://docs.google.com/presentation/d/14KBCv1VslZaMri068MogOb36zSo1a8fgUSjKBzUnxbU/edit?usp=sharing" caption="The slides below were created by London Volunteers and delivered on 18/10/2020. " %}
 
 ### Past Exercises
 
