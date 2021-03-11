@@ -4,7 +4,7 @@
 
 | Time | Activity |
 | :--- | :--- |
-| 00:00 - 00:30 | Preparation of space \(30 mins\) |
+| 00:00 - 00:30 | Preparation of space \(30 mins\) \(Before students arrive\) |
 | 00:30 - 01:30 | Welcome \(1 hour\) |
 | 01:30 - 02:15 | Code of Conduct & House Rules \(45 mins\) |
 | 02:15 - 02:25 | Break/Prayers \(10 mins\) |
