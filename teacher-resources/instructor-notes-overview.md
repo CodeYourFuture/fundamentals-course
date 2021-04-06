@@ -34,7 +34,7 @@ Next, we use KhanAcademy to guide the students along a visual course using JavaS
 
 In the morning and afternoon we play games an energisers to get to know each other.
 
-You can find a resources for these [here](engergisers.md).
+You can find a resources for these [here](energisers.md).
 
 ### 4\) Assessments
 

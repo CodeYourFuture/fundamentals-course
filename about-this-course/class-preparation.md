@@ -50,9 +50,9 @@ This will save us lots of time during the first class and we can get on with the
 
 ## 3. Software & Websites \(1 hour\)
 
-Download and install the following software or register for the app. 
+Download and install the following software or register for the app.
 
-Click on the links to go to the registration pages.  **Please keep your login details for all sites/apps consistent and make sure you use your real name.** 
+Click on the links to go to the registration pages. **Please keep your login details for all sites/apps consistent and make sure you use your real name.**
 
 ### 3.1 Gmail
 

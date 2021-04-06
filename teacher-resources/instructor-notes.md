@@ -25,7 +25,7 @@ As this is the first class, make sure you chase up students who are having troub
 
 ## Welcome
 
-The aim of this session is to welcome students to the space and get them settled. You should choose an [Energiser ](engergisers.md)and work through it with you students. 
+The aim of this session is to welcome students to the space and get them settled. You should choose an [Energiser ](energisers.md)and work through it with you students. 
 
 Be sure to cover
 
