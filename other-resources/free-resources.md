@@ -19,7 +19,7 @@ We'll have a look at some of our favourite free resources - both online and in p
 * [The Odin Project](https://www.theodinproject.com/)
 * Youtube: Some favourite channels of the recent graduates include [Traversy Media](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX) and [Wes Bos](https://www.youtube.com/user/wesbos). 
   * Find the teaching and learning style you like, but... [be cautious that you are not following tutorials blindly](https://www.youtube.com/watch?v=g_aMpyMvQ9k)
-* [Free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#javascript)
+* [Free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#javascript)
 * [Stack Overflow](https://stackoverflow.com/)
   * A forum for posting programming questions
   * It can be a little intimidating, but it has a huge community so someone is likely to know the answer to your question
