@@ -65,5 +65,5 @@ For Instructors
 * [Readme page \(for instructors\)](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/khan-academy-boxes-and-ribbons)
 * [Example solutions](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/khan-academy-boxes-and-ribbons)
 * [Feedback form \(for volunteer\)](https://docs.google.com/forms/d/e/1FAIpQLSdkyYCIltW9bhoDhpJIDEmCEKWKD7NGVOk-vj3Bc9fJbqkmAA/viewform)
-* TODO: add link to edit the form
+* [Edit the form \(for instructors\)](https://docs.google.com/forms/d/18vDgm2_Wk4NEcJ66COyoeUt-dytTLR7q8axNmv-8nH4/edit?usp=sharing)
 
