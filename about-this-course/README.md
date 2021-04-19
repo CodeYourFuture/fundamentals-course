@@ -1,6 +1,6 @@
-# About This Course
+# About The Fundamentals Course
 
-## What this course IS
+## What this course is:
 
 A one-month short course from [Code Your Future](https://codeyourfuture.io/)
 
