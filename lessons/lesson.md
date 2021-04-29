@@ -16,7 +16,9 @@ This course was designed for people new to coding as well as more experienced pe
 
 Before we get started with programming we want to learn a bit about you, and you can learn a bit about us.
 
-We'll start with some introductions so that we can get to know each other. We'll play some games.
+We'll start with some introductions so that we can get to know each other. We'll also play some games.
+
+When we've done that we have a short introduction to CodeYourFuture and this module.
 
 ## Student Agreement, Code of Conduct & House Rules \(45 minutes\)
 
