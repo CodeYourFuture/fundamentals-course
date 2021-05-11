@@ -167,7 +167,7 @@ Please read this [Introduction to Reflecting on Experience](https://www.ed.ac.uk
 Next read about the [What? So what? Now what?](https://www.ed.ac.uk/reflection/reflectors-toolkit/reflecting-on-experience/what-so-what-now-what) model of reflection.   
 You will be using this model in another assinment this week. 
 
-### 4. Get ready for remote learning
+### 5. Get ready for remote learning
 
 We will be working remotely while government regulations prevent large gatherings. As you will be learning at home, it's important to make sure you have what you need to study effectively.
 
@@ -177,7 +177,7 @@ We will be working remotely while government regulations prevent large gathering
 4. Set it up with the supplies you will need to study and attend class. \(If you need a laptop, webcam, internet or childcare please speak to your city coordinator\)
 5. Take a photo of your workspace and post it to your workspace on Google Classroom. 
 
-### 5. Write an "algorithm recipe"
+### 6. Write an "algorithm recipe"
 
 Programming is all about writing _algorithms_. What is an algorithm?
 
