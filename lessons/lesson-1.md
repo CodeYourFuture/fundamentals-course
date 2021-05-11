@@ -135,7 +135,7 @@ As we work together online it can be even more tricky to communicate effectively
 4. Think about the scenarios they present in this section
 5. Write down how you would approach each scenario
 6. Think about your preferred ways of communicating, the communication tools you rely on, and the things that annoy you about other's communication.
-7. Using your answers for the above, try to write your own guide to your Communication style \(just this section, not your whole user manual! \).  You can also have a go at recording a Loom video if you choose. 
+7. Using your answers for the above, try to write your own guide to your Communication style \(just this section, not your whole user manual! \).  Post your guide in your studetn area on Google Classroom You can also have a go at recording a Loom video if you choose. 
 
 ### 4. Organise a study session 
 
