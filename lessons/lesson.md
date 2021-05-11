@@ -164,11 +164,11 @@ If you want to present a different idea, that is fine as well. Then next week, y
 We will be working remotely while government regulations prevent large gatherings. As you will be learning at home, it's important to make sure you have what you need to study effectively.
 
 1. Read this article on [Tips for Studying Online](https://www.timeshighereducation.com/student/advice/tips-studying-online-and-home-university-students#)  
-2. Write a refection in your learning journalAsk yourself if you have everything you need to do the actions in the article.
+2. Write a refection in your learning journal. Ask yourself if you have everything you need to do the actions in the article.
 3. If you don't, what do you need? Who do you need to talk to? What do you need to do? Make a plan.
 4. Choose a space in your home where you will be studying. let everyone you live with know this is your study space. 
 5. Set it up with the supplies you will need to study and attend class. \(If you need a laptop, webcam, internet or childcare please speak to your city coordinator\)
-6. Take a photo of your workspace and post it to your class channel on Slack. 
+6. Take a photo of your workspace and post it to your workspace on Google Classroom. 
 
 ### 5. Write an "algorithm recipe"
 
