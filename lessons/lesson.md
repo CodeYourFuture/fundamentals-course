@@ -2,7 +2,7 @@
 description: 'Welcome, Agreements & Block Based Coding'
 ---
 
-# Week 1
+# Lesson 1
 
 ## Welcome \(30 minutes\)
 
@@ -94,7 +94,7 @@ To make our course better we love to hear your feedback. Please spend two minute
 
 [Class Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScq8Zgr0pz7aMDj0D768eCpW798XgtDsKfpA6BquqK5Hdtj4A/viewform?embedded=true&entry.1672476057=Fundamentals&entry.74981796=Week+1)
 
-## Coursework
+## Coursework \(75 minutes\)
 
 As part of your learning journey with CYF you will be expected to work at home on projects that we set for you. This will help you practice what you learn in class and get prepared for next week.
 
@@ -136,13 +136,7 @@ Once you're finished, press submit in Google Classroom, and please add a comment
 
 ### 2. Prepare a presentation for the next class
 
-Part of being a programmer is communicating your ideas to other people on your team.   
-  
-To help you practice this very important skill, we want you to **pair up with someone** else in the class and prepare a short **\(8 minute\)** presentation about something you learned during the week.   
-  
-You will work with each other to create your talk. You must divide the time equally between you.   
-  
-You can use [Google Slides](https://www.google.com/slides/about/) or [Canva](https://www.canva.com/q/pro/presentations/) if you want to prepare slides \(this is optional\).
+Part of being a programmer is communicating your ideas to other people on your team. To help you practice this very important skill, for homework we want you to prepare a short \(5 minutes\) presentation about something you learned during the week. You can use [Google Slides](https://www.google.com/slides/about/) if you want to prepare slides \(this is optional\).
 
 Here is a list of topic ideas which you could present about:
 
@@ -150,39 +144,32 @@ Here is a list of topic ideas which you could present about:
 * Why are "Functions" useful?
 * Why is the "Conditional" block useful?
 
-If you want to present a different idea, that is fine as well. Then next week, you'll each present what you learned to a few students in the group.
+If you want to present a different idea, that is fine as well. Then next week, you'll each present what you learned to a few students from the class.
 
-### 3. Learning How to Learn course \(4 hours\)
+### 3. Learning How to Learn course
 
 [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) is a video course on the Coursera site that teaches you how to be the most effective at learning.
 
 1. Click the "Join for Free" button and sign up for an account
 2. Watch the videos in **Week 1** of the course. It should take around 4 hours to complete
 
-### 4. Get started with reflective journaling
-
-Through out the Fundamentals Course and the Full Stack, we will ass you to reflect on your learning in a journal. This means you will write about what yu learned and how you will apply that learning.   
-  
-Please read this [Introduction to Reflecting on Experience](https://www.ed.ac.uk/reflection/reflectors-toolkit/reflecting-on-experience) from the University of Edinburgh  
-Next read about the [What? So what? Now what?](https://www.ed.ac.uk/reflection/reflectors-toolkit/reflecting-on-experience/what-so-what-now-what) model of reflection.   
-You will be using this model in another assinment this week. 
-
-### 5. Get ready for remote learning
+### 4. Get ready for remote learning
 
 We will be working remotely while government regulations prevent large gatherings. As you will be learning at home, it's important to make sure you have what you need to study effectively.
 
 1. Read this article on [Tips for Studying Online](https://www.timeshighereducation.com/student/advice/tips-studying-online-and-home-university-students#)  
-2. Write a refection using the [What? So what? Now what?](https://www.ed.ac.uk/reflection/reflectors-toolkit/reflecting-on-experience/what-so-what-now-what) model of reflection.  Ask yourself if you have everything you need to do the actions in the article. If you don't, what do you need? Who do you need to talk to? What do you need to do?  Make a plan of what you need to do. Post your reflection in your workspace on Google Classroom. 
-3. Choose a space in your home where you will be studying. let everyone you live with know this is your study space. 
-4. Set it up with the supplies you will need to study and attend class. \(If you need a laptop, webcam, internet or childcare please speak to your city coordinator\)
-5. Take a photo of your workspace and post it to your workspace on Google Classroom. 
+2. Ask yourself if you have everything you need to do the actions in the article.
+3. If you don't, what do you need? Who do you need to talk to? What do you need to do? Make a plan.
+4. Choose a space in your home where you will be studying. let everyone you live with know this is your study space. 
+5. Set it up with the supplies you will need to study and attend class. \(If you need a laptop, webcam, internet or childcare please speak to your city coordinator\)
+6. Take a photo of your workspace and post it to your class channel on Slack. 
 
-### 6. Write an "algorithm recipe"
+### 5. Write an "algorithm recipe"
 
 Programming is all about writing _algorithms_. What is an algorithm?
 
-1. Read this [section of the book](https://github.com/thejsway/thejsway/blob/master/manuscript/intro02.md#introduction-to-algorithms) the JS Way 
-2. Watch [this video](http://youtube.com/watch?v=cDA3_5982h8) on The Exact Instructions Challenge😄
+1. Read this [section of a book](https://github.com/thejsway/thejsway/blob/master/manuscript/intro02.md#introduction-to-algorithms)
+2. Watch [this video](http://youtube.com/watch?v=cDA3_5982h8) 😄
 
 These show "algorithm recipes", and the video shows that you have to think carefully when writing them!
 
