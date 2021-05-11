@@ -159,7 +159,7 @@ If you want to present a different idea, that is fine as well. Then next week, y
 1. Click the "Join for Free" button and sign up for an account
 2. Watch the videos in **Week 1** of the course. It should take around 4 hours to complete
 
-### 4. Get started with reflective journalling
+### 4. Get started with reflective journaling
 
 Through out the Fundamentals Course and the Full Stack, we will ass you to reflect on your learning in a journal. This means you will write about what yu learned and how you will apply that learning.   
   
