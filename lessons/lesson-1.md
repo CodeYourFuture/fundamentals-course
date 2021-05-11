@@ -52,7 +52,7 @@ Working remotely \(online\) is different from working together face to face. We 
 
 ## Presentations \(30 minutes\)
 
-For last week's coursework, you will have made a presentation about something you learned in the last week. Now is your chance to present it! We'll break into groups of 3 - 4 and take turns to present to the rest of your group for **5 minutes**.
+For last week's coursework, you and a partner will have made a presentation about something you learned in the last week. Now is your chance to present it! We'll break into small groups  take turns to present to the rest of your group for **8 minutes**.
 
 Remember that communicating information to others is a really important skill for programmers. Here are some tips for your presentation:
 
@@ -60,7 +60,7 @@ Remember that communicating information to others is a really important skill fo
 * Make sure you are not on mute
 * Speak clearly - check if everyone can hear you
 * Try to make it fun!
-* Stick to the time. The volunteer will cut you off at 5 minutes!
+* Stick to the time. Make sure each of you speak equally. The volunteer will cut you off at 8 minutes!
 
 ## Coursework In Perspective \(20 minutes\)
 
