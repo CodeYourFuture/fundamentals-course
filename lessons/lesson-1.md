@@ -2,7 +2,7 @@
 description: Algorithms & Intro to JavaScript
 ---
 
-# Week 2
+# Lesson 2
 
 ## Warm up activity \(30 minutes\)
 

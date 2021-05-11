@@ -2,7 +2,7 @@
 description: Live Coding & Visual Coding
 ---
 
-# Week 3
+# Lesson 3
 
 ## Introductions \(30 minutes\)
 
