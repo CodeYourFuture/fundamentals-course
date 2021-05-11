@@ -50,6 +50,10 @@ Last week you should have written a "algorithm recipe". The instructor will pick
 
 Working remotely \(online\) is different from working together face to face. We will look at how communication works online and get some tips on how to be more effective on this course.  
 
+{% embed url="https://drive.google.com/file/d/1oaseUqyttdETn\_wJiB6SLuu115aLwN5f/view?usp=sharing" %}
+
+
+
 ## Presentations \(30 minutes\)
 
 For last week's coursework, you and a partner will have made a presentation about something you learned in the last week. Now is your chance to present it! We'll break into small groups  take turns to present to the rest of your group for **8 minutes**.
