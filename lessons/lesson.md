@@ -164,7 +164,8 @@ If you want to present a different idea, that is fine as well. Then next week, y
 Through out the Fundamentals Course and the Full Stack, we will ass you to reflect on your learning in a journal. This means you will write about what yu learned and how you will apply that learning.   
   
 Please read this [Introduction to Reflecting on Experience](https://www.ed.ac.uk/reflection/reflectors-toolkit/reflecting-on-experience) from the University of Edinburgh  
-Next read about the [What? So what? Now what?](https://www.ed.ac.uk/reflection/reflectors-toolkit/reflecting-on-experience/what-so-what-now-what) model of reflection. 
+Next read about the [What? So what? Now what?](https://www.ed.ac.uk/reflection/reflectors-toolkit/reflecting-on-experience/what-so-what-now-what) model of reflection.   
+You will be using this model in another assinment this week. 
 
 ### 4. Get ready for remote learning
 
