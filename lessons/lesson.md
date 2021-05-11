@@ -2,7 +2,7 @@
 description: 'Welcome, Agreements & Block Based Coding'
 ---
 
-# Lesson 1
+# Week 1
 
 ## Welcome \(30 minutes\)
 
