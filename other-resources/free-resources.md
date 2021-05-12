@@ -2,7 +2,7 @@
 
 We'll have a look at some of our favourite free resources - both online and in person - which can help you towards a career in programming and web development.
 
-### 1\) In-person events
+## 1\) In-person events
 
 * Coding "meetups"
   * Free evening events, with 2 - 3 talks from other developers
@@ -13,7 +13,7 @@ We'll have a look at some of our favourite free resources - both online and in p
   * Meetup for people learning to code
   * Professional developers will help with your coding problems
 
-### 2\) Online
+## 2\) Online
 
 * [freeCodeCamp](https://www.freecodecamp.org/)
 * [The Odin Project](https://www.theodinproject.com/)
@@ -24,18 +24,18 @@ We'll have a look at some of our favourite free resources - both online and in p
   * A forum for posting programming questions
   * It can be a little intimidating, but it has a huge community so someone is likely to know the answer to your question
 
-### 3\) Podcasts
+## 3\) Podcasts
 
 * [CodeNewbie](https://www.codenewbie.org/podcast)
 
-### Editors and hosting
+## Editors and hosting
 
 * [CodePen](https://codepen.io/)
 * [Glitch](https://glitch.com/)
 * [CodeSandbox.io](https://codesandbox.io/)
 * [repl.it](https://repl.it/)
 
-### Program stepped visualisation
+## Program stepped visualisation
 
 * [pythontutor.com](http://pythontutor.com/javascript.html) - it does JavaScript, too.
 

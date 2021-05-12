@@ -154,5 +154,28 @@ Continue to **Week 3** of the [Learning How to Learn course](https://www.courser
 
 Work through **Week 2** of the [Learning Online: Communicating and Collaborating](https://www.futurelearn.com/courses/learning-and-collaborating/) course. It should take around 2 hours to complete.
 
-You need to submit your comments in threads on Slack _**not**_ in the comments section on Future Learn. 
+In each of the Have your say sections, write your comments in a thread on Slack _**not**_ in the comments section on Future Learn.   
+
+
+> #### Have your say on How can communication help you learn?: <a id="have-your-say"></a>
+>
+> What’s your experience? Think about the times you’ve worked together with others and communicated with others to help in your learning.
+>
+> * Do you agree with the points above?
+> * Can you think of any other reasons why online conversations help you as a learner?
+>
+> Share your thoughts in a thread on Slack.
+>
+>
+>
+> #### Have your say on What is Netiqette?: <a id="have-your-say"></a>
+>
+> Think about what you’ve seen in this video. How do your views compare? Share your responses to these questions in the Comments section:
+>
+> * What is your understanding of netiquette?
+> * Do you have an example to share?
+>
+> Share your thoughts in a thread on Slack.
+
+![](../.gitbook/assets/screenshot-2021-05-12-at-11.20.25.png)
 

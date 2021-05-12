@@ -2,7 +2,7 @@
 description: 'More JavaScript, Reflection & Wrapping Up'
 ---
 
-# Lesson 4
+# Week 4
 
 ## Introductions \(30 minutes\)
 

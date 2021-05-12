@@ -1,4 +1,4 @@
-# About The Fundamentals Course
+# About This Course
 
 ## What this course is:
 

@@ -1,2 +1,2 @@
-# Lessons
+# Sessions
 
