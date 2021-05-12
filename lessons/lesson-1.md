@@ -123,7 +123,30 @@ What kind of communicator are you?
 1. Click the "Join course for Free" button and sign up for an account.
 2. You can do this with your Google account if you want
 3. Work through **Week 1** of the course. It should take around **2 hours** to complete.
-4. You need to submit your comments in threads on Slack _**not**_ in the comments section on Future Learn. 
+
+
+
+> #### Have your say on How can communication help you learn?: <a id="have-your-say"></a>
+>
+> What’s your experience? Think about the times you’ve worked together with others and communicated with others to help in your learning.
+>
+> * Do you agree with the points above?
+> * Can you think of any other reasons why online conversations help you as a learner?
+>
+> Share your thoughts in a thread on Slack.
+>
+>
+>
+> #### Have your say on What is Netiqette?: <a id="have-your-say"></a>
+>
+> Think about what you’ve seen in this video. How do your views compare? Share your responses to these questions in the Comments section:
+>
+> * What is your understanding of netiquette?
+> * Do you have an example to share?
+>
+> Share your thoughts in a thread on Slack.
+
+![](../.gitbook/assets/screenshot-2021-05-12-at-11.20.25.png)
 
 ### 3. How to improve your workplace communication 
 
