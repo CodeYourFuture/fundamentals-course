@@ -116,6 +116,8 @@ Continue to **Week 2** of the [Learning How to Learn course](https://www.courser
 
 What kind of communicator are you?
 
+### OR this if you have already completed the Learning How to Learn course
+
 ### 2a. Learning Online: Communicating and Collaborating \(do this if you have already completed the Learning How to Learn course\)
 
 [Learning Online: Communicating and Collaborating](https://www.futurelearn.com/courses/learning-and-collaborating/) is an online course on Future Learn site that teaches you how to become an effective online learner and develop your online communication skills when working with others.
