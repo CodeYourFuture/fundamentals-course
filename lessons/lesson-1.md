@@ -155,7 +155,36 @@ What kind of communicator are you?
 >
 > What kind of situations will come up during this Fundamentals course?  
 >
-> Share your thoughts in a thread on Slack.
+> Share your thoughts in a thread on Slack.  
+>
+>
+> #### Apply your learning
+>
+> The topic of the discussion is:
+>
+> > **Do you think it is right that people can post anonymously online?**
+>
+> Think carefully about your views on this topic. You may want to share the question with people in your social networks, to get their views. You can use the course tag to see what other people are saying.
+>
+> If you are posting on Twitter, tag your posts with [\#FLCommunicatingOnline](https://twitter.com/search?q=%23FLcommunicatingOnline) and [@uoldigital](https://twitter.com/uoldigital?lang=en).
+>
+> Remember to apply your learning from this course when talking to others on your social networks.
+>
+> When contributing to the conversation, you might want to consider points such as:
+>
+> * Should people be held accountable for comments left online?
+> * When \(if ever\) might it be important to be able to post anonymously?
+> * Is it appropriate that many posts remain online forever?
+> * Should an online post be treated the same as a face-to-face comment?
+>
+> > **Taking part in the discussion**
+> >
+> > Once you have thought about your answer, and potentially heard from others, summarise your views on a thread in Slack.
+> >
+> > Remember that this is a discussion, so as well as making your own comment, read and respond to other people’s views:
+> >
+> > * You can use reactions on posts you find interesting or useful.
+> > * Try to reply meaningfully to at least two other comments.
 
 ![](../.gitbook/assets/screenshot-2021-05-12-at-11.20.25.png)
 
