@@ -118,13 +118,14 @@ What kind of communicator are you?
 
 ### OR this if you have already completed the Learning How to Learn course
 
-### 2a. Learning Online: Communicating and Collaborating \(do this if you have already completed the Learning How to Learn course\)
+### 2a. Learning Online: Communicating and Collaborating 
 
 [Learning Online: Communicating and Collaborating](https://www.futurelearn.com/courses/learning-and-collaborating/) is an online course on Future Learn site that teaches you how to become an effective online learner and develop your online communication skills when working with others.
 
 1. Click the "Join course for Free" button and sign up for an account.
 2. You can do this with your Google account if you want
 3. Work through **Week 1** of the course. It should take around **2 hours** to complete.
+4. In each of the Have your say sections, write your comments in a thread on Slack _**not**_ in the comments section on Future Learn. 
 
 
 
