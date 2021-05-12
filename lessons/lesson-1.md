@@ -142,7 +142,7 @@ What kind of communicator are you?
 >
 > #### Have your say on What is Netiqette?: <a id="have-your-say"></a>
 >
-> Think about what you’ve seen in this video. How do your views compare? Share your responses to these questions in the Comments section:
+> Think about what you’ve seen in this video. How do your views compare? 
 >
 > * What is your understanding of netiquette?
 > * Do you have an example to share?
@@ -151,7 +151,9 @@ What kind of communicator are you?
 >
 > #### Have your say on Communicating online: <a id="have-your-say"></a>
 >
-> Have you experienced anything like these situations in your own online interactions? 
+> Have you experienced anything like these situations in your own online interactions?
+>
+> What kind of situations will come up during this Fundamentals course?  
 >
 > Share your thoughts in a thread on Slack.
 
