@@ -2,7 +2,7 @@
 description: Live Coding & Visual Coding
 ---
 
-# Lesson 3
+# Week 3
 
 ## Introductions \(30 minutes\)
 
@@ -144,11 +144,13 @@ First, make sure that you have completed everything up to the "Text and Strings"
 
 If you have already done that, then you should continue **AT LEAST UP TO** the ["Writing Clean Code" section](https://www.khanacademy.org/computing/computer-programming/programming#writing-clean-code).
 
-### 2\) Learning How to Learn course
+### 2\) Learning How to Learn course \(4 hours\)
 
 Continue to **Week 3** of the [Learning How to Learn course](https://www.coursera.org/learn/learning-how-to-learn). It should take around 4 hours to complete.
 
-### 2a\) Learning Online: Communicating and Collaborating \(do this if you have already completed the Learning How to Learn course\)
+### OR this if you have already completed the Learning How to Learn course
+
+### 2a\) Learning Online: Communicating and Collaborating 
 
 Work through **Week 2** of the [Learning Online: Communicating and Collaborating](https://www.futurelearn.com/courses/learning-and-collaborating/) course. It should take around 2 hours to complete.
 

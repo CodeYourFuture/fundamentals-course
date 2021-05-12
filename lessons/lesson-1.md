@@ -2,7 +2,7 @@
 description: Algorithms & Intro to JavaScript
 ---
 
-# Week 2
+# Lesson 2
 
 ## Warm up activity \(30 minutes\)
 
@@ -50,13 +50,9 @@ Last week you should have written a "algorithm recipe". The instructor will pick
 
 Working remotely \(online\) is different from working together face to face. We will look at how communication works online and get some tips on how to be more effective on this course.  
 
-{% embed url="https://drive.google.com/file/d/1oaseUqyttdETn\_wJiB6SLuu115aLwN5f/view?usp=sharing" %}
-
-
-
 ## Presentations \(30 minutes\)
 
-For last week's coursework, you and a partner will have made a presentation about something you learned in the last week. Now is your chance to present it! We'll break into small groups  take turns to present to the rest of your group for **8 minutes**.
+For last week's coursework, you will have made a presentation about something you learned in the last week. Now is your chance to present it! We'll break into groups of 3 - 4 and take turns to present to the rest of your group for **5 minutes**.
 
 Remember that communicating information to others is a really important skill for programmers. Here are some tips for your presentation:
 
@@ -64,7 +60,7 @@ Remember that communicating information to others is a really important skill fo
 * Make sure you are not on mute
 * Speak clearly - check if everyone can hear you
 * Try to make it fun!
-* Stick to the time. Make sure each of you speak equally. The volunteer will cut you off at 8 minutes!
+* Stick to the time. The volunteer will cut you off at 5 minutes!
 
 ## Coursework In Perspective \(20 minutes\)
 
@@ -110,7 +106,7 @@ There will be some time in class to start the first exercises. Let the instructo
 
 If you do not have headphones to watch the videos you can click on "CC" \(subtitles/closed captions\) in the video window, or underneath the video on "Transcript".
 
-### 2. Learning How to Learn course \(3 hours\) 
+### 2. Learning How to Learn course
 
 Continue to **Week 2** of the [Learning How to Learn course](https://www.coursera.org/learn/learning-how-to-learn). It should take around 3 hours to complete.
 
@@ -135,28 +131,24 @@ As we work together online it can be even more tricky to communicate effectively
 4. Think about the scenarios they present in this section
 5. Write down how you would approach each scenario
 6. Think about your preferred ways of communicating, the communication tools you rely on, and the things that annoy you about other's communication.
-7. Using your answers for the above, try to write your own guide to your Communication style \(just this section, not your whole user manual! \).  Post your guide in your studetn area on Google Classroom You can also have a go at recording a Loom video if you choose. 
+7. Using your answers for the above, try to write your own guide to your Communication style \( just this section, not your whole user manual! \). You can also have a go at recording a Loom video if you choose. 
 
 ### 4. Organise a study session 
 
-Working together is the best way for you to learn. Teaching someone else helps to strengthen your knowledge. And getting help from your fellow students saves you time and keeps you from becoming a passive learner.  
+Working together is the best way for you to learn. Teaching someone else helps to strengthen your knowledge. And getting help from your fellow students saves you time and keeps you from becoming a passive learner. 
 
-You will be randomly assigned a group using [random list team generator](https://www.randomlists.com/team-generator) 
+Organise a study session to work on one piece of coursework. 
 
-In small groups of 3, organise a study session to work on one piece of coursework. 
-
-As a group you must decide on: 
+Make an announcement in Slack with: 
 
 1. The topic of the call 
 2. The time of call \(give people a few hours to get ready. Remember Slack is asynchronous communication!\)
-3. Who will create the link to Google Meet where you will have the call. 
-4. Who will open \(start\) the call in Google Meet. 
+3. The link to Google Meet where you will have the call. 
+4. Ask people to react if they want to attend.
+5. Open the call in Google Meet. 
+6. Keep to just one topic in the call. Max 5 -6 people in a call.
 
-Once you have decided the above: 
-
-1. Make an announcement in Slack with your topic, time and link to call \(anyone in can join even if they are not in your group. Just keep to just one topic and max 5 -6 people in a call\)
-2. Ask people to react if they want to attend
-3. If there are too many people - what should you do? Decide on a plan of action 
+If there are too many people - what should you do? 
 
 
 
