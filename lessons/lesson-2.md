@@ -150,7 +150,7 @@ Continue to **Week 3** of the [Learning How to Learn course](https://www.courser
 
 ### OR this if you have already completed the Learning How to Learn course
 
-### 2a\) Learning Online: Communicating and Collaborating 
+### 2a\) Learning Online: Communicating and Collaborating \(2 hours\)
 
 Work through **Week 2** of the [Learning Online: Communicating and Collaborating](https://www.futurelearn.com/courses/learning-and-collaborating/) course. It should take around 2 hours to complete.
 
