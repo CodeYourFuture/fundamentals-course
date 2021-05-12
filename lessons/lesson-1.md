@@ -148,6 +148,12 @@ What kind of communicator are you?
 > * Do you have an example to share?
 >
 > Share your thoughts in a thread on Slack.
+>
+> #### Have your say on Communicating online: <a id="have-your-say"></a>
+>
+> Have you experienced anything like these situations in your own online interactions? 
+>
+> Share your thoughts in a thread on Slack.
 
 ![](../.gitbook/assets/screenshot-2021-05-12-at-11.20.25.png)
 
