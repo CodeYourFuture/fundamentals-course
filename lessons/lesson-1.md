@@ -139,11 +139,10 @@ As we work together online it can be even more tricky to communicate effectively
 
 ### 4. Organise a study session 
 
-Working together is the best way for you to learn. Teaching someone else helps to strengthen your knowledge. And getting help from your fellow students saves you time and keeps you from 
+Working together is the best way for you to learn. Teaching someone else helps to strengthen your knowledge. And getting help from your fellow students saves you time and keeps you from becoming a passive learner.  
 
-You will be randomly assigned a group using [Random List team generator](https://www.randomlists.com/team-generator) becoming a passive learner. 
+You will be randomly assigned a group using [random list team generator](https://www.randomlists.com/team-generator) 
 
-  
 In small groups of 3, organise a study session to work on one piece of coursework. 
 
 As a group you must decide on: 
@@ -151,11 +150,11 @@ As a group you must decide on:
 1. The topic of the call 
 2. The time of call \(give people a few hours to get ready. Remember Slack is asynchronous communication!\)
 3. Who will create the link to Google Meet where you will have the call. 
-4. Who will open the call in Google Meet. 
+4. Who will open \(start\) the call in Google Meet. 
 
 Once you have decided the above: 
 
-1. Make an announcement in Slack with your topic, time and link to call \(anyone in can join just keep to just one topic and max 5 -6 people in a call\)
+1. Make an announcement in Slack with your topic, time and link to call \(anyone in can join even if they are not in your group. Just keep to just one topic and max 5 -6 people in a call\)
 2. Ask people to react if they want to attend
 3. If there are too many people - what should you do? Decide on a plan of action 
 
