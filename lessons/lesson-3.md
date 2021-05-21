@@ -107,11 +107,17 @@ You should **SKIP** the "Object-Orientated Design" section. It is out-of-date an
 
 ### 2\) Learning How to Learn course
 
-Continue to **Week 4** of the [Learning How to Learn course](https://www.coursera.org/learn/learning-how-to-learn). It should take around 4 hours to complete.
+Continue to **Week 4** of the [Learning How to Learn course](https://www.coursera.org/learn/learning-how-to-learn). 
 
-1. 
-  
-Honors Assignments Optional - complete these to earn honors distinction for this course.Reflective Essay about a Learning Challenge
+1. Work through the assignmets for **Week 4** of the course. It should take around 4 hours to complete.
+2. When you complete the exercises for the week  go to the grades area and post a screenshot in your student area on Google Classroom which shows what you have done.
+3. Optional Further readings and videos are not required. You may choose to do them to further your learning. 
+4. Honors Assignments are required!!! You will need to complete your:
+
+   **Final Project on Learning**
+
+   * [**Honors Peer-graded Assignment:** Final Project: Learn by teaching others how to learn. ](https://www.coursera.org/learn/learning-how-to-learn/peer/vLE3U/final-project-learn-by-teaching-others-how-to-learn)
+   * [**Review Your Peers:** Final Project: Learn by teaching others how to learn](https://www.coursera.org/learn/learning-how-to-learn/peer/vLE3U/final-project-learn-by-teaching-others-how-to-learn/give-feedback)
 
 --
 
