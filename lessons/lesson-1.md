@@ -112,9 +112,12 @@ If you do not have headphones to watch the videos you can click on "CC" \(subtit
 
 ### 2. Learning How to Learn course \(3 hours\) 
 
-Continue to **Week 2** of the [Learning How to Learn course](https://www.coursera.org/learn/learning-how-to-learn). It should take around 3 hours to complete.
+Continue to **Week 2** of the [Learning How to Learn course](https://www.coursera.org/learn/learning-how-to-learn). What kind of communicator are you?
 
-What kind of communicator are you?
+1. Work through the assignmets for **Week 2** of the course. It should take around 3 hours to complete.
+2. When you complete the exercises for the week  go to the grades area and post a screenshot in your student area on Google Classroom which shows what you have done.
+
+![](../.gitbook/assets/screenshot-2021-05-18-at-13.20.34.png)
 
 ### OR this if you have already completed the Learning How to Learn course
 
