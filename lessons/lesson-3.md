@@ -119,13 +119,17 @@ Continue to **Week 4** of the [Learning How to Learn course](https://www.courser
    * [**Honors Peer-graded Assignment:** Final Project: Learn by teaching others how to learn. ](https://www.coursera.org/learn/learning-how-to-learn/peer/vLE3U/final-project-learn-by-teaching-others-how-to-learn)
    * [**Review Your Peers:** Final Project: Learn by teaching others how to learn](https://www.coursera.org/learn/learning-how-to-learn/peer/vLE3U/final-project-learn-by-teaching-others-how-to-learn/give-feedback)
 
---
+### 4\) Join your local coding community
 
---[Review 3 peers' assignments.](https://www.coursera.org/learn/learning-how-to-learn/peer/e68iX/reflective-essay-about-a-learning-challenge/give-feedback)
+1. In small groups, go to meetup.com and research tech-related meetups, discuss which ones are most relevant to you right now, then sign up and attend one in the next month. 
 
---Final Project: Learn by teaching others how to learn
+### 5\) Crowd source inspirational/ informative podcasts
 
-### 3\) \(Optional\) Continuing with JavaScript Drawing and Animation 
+1. Run a poll on the most popular free podcast platform;
+2. Research inspirational / informative podcasts;
+3. As a class make one collaborative playlist on the most popular platform you use and add at least 2 podcasts to the list. 
+
+### 6\) \(Optional\) Continuing with JavaScript Drawing and Animation 
 
 If you enjoyed using JavaScript to make drawings and animations, we recommend further study and play with the p5.js library, using the [OpenProcessing](https://openprocessing.org) platform or CodePen.
 
