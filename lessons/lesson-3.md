@@ -116,8 +116,8 @@ Continue to **Week 4** of the [Learning How to Learn course](https://www.courser
 
    **Final Project on Learning**
 
-   * [**Honors Peer-graded Assignment:** Final Project: Learn by teaching others how to learn. ](https://www.coursera.org/learn/learning-how-to-learn/peer/vLE3U/final-project-learn-by-teaching-others-how-to-learn)
-   * [**Review Your Peers:** Final Project: Learn by teaching others how to learn](https://www.coursera.org/learn/learning-how-to-learn/peer/vLE3U/final-project-learn-by-teaching-others-how-to-learn/give-feedback)
+   * \*\*\*\*[**Final Project**: Learn by teaching others how to learn. ](https://www.coursera.org/learn/learning-how-to-learn/peer/vLE3U/final-project-learn-by-teaching-others-how-to-learn)
+   * [**Review 3 of Your Peers**](https://www.coursera.org/learn/learning-how-to-learn/peer/vLE3U/final-project-learn-by-teaching-others-how-to-learn/give-feedback)
 
 ### 4\) Join your local coding community
 
