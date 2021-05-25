@@ -159,6 +159,6 @@ We'd love your feedback on what to improve with this course. Please spend two mi
 
 Suggestions:
 
-* More Zip-Zap-Boing
-* Happy Salmon
-
+* More Zip-Zap-Boing \(face to face class\)
+* Happy Salmon \(face to face\)
+* 
