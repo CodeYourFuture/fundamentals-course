@@ -121,12 +121,14 @@ Continue to **Week 4** of the [Learning How to Learn course](https://www.courser
 
 ### 4\) Join your local coding community
 
-1. In small groups, go to meetup.com and research tech-related meetups, discuss which ones are most relevant to you right now, then sign up and attend one in the next month. 
+1. In small groups, go to meetup.com and research tech-related meetups in your local community.
+2. Discuss which ones are most relevant to you right now, then sign up to meetup.com
+3. Attend one event in the next month. 
 
 ### 5\) Crowd source inspirational/ informative podcasts
 
-1. Run a poll on the most popular free podcast platform;
-2. Research inspirational / informative podcasts;
+1. Run a poll on the most popular free podcast platform that the group uses.
+2. Research inspirational / informative podcasts
 3. As a class make one collaborative playlist on the most popular platform you use and add at least 2 podcasts to the list. 
 
 ### 6\) \(Optional\) Continuing with JavaScript Drawing and Animation 
@@ -141,13 +143,13 @@ If we have time, we will do [a short workshop on moving your work to to p5.js](a
 
 Here is an essay by Jason Bailey about "generative art". It has lots of interesting examples which might inspire you: ["Why Love Generative Art?"](https://www.artnome.com/news/2018/8/8/why-love-generative-art). If you use Twitter, here is a recommended "generative" artist: [https://twitter.com/manoloidee](https://twitter.com/manoloidee).
 
-### 4\) Lesson Feedback
+### 7\) Lesson Feedback
 
 To make our course better we love to hear your feedback. Please spend two minutes completing this form.
 
 [Class Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScq8Zgr0pz7aMDj0D768eCpW798XgtDsKfpA6BquqK5Hdtj4A/viewform?embedded=true&entry.1672476057=Fundamentals&entry.74981796=Week+4)
 
-### 5\) Course Feedback
+### 8\) Course Feedback
 
 We'd love your feedback on what to improve with this course. Please spend two minutes filling in this form.
 
