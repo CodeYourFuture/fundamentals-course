@@ -10,7 +10,7 @@ Let's make sure we know each other! Ask for a name tag if you don't already have
 
 ### Warm up game
 
-Some students will teach Zip-Zap-Boing to the others.
+Some students will teach Zip-Zap-Boing to the others \(face to face class\).
 
 ## Shout out your questions \(10 minutes\)
 
