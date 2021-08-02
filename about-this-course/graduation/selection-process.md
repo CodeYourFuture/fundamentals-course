@@ -12,7 +12,7 @@ As with everything at CodeYourFuture **you are welcome to edit, remix and change
 
 It's worth restating the aims of the Fundamentals Course from our point of view. 
 
-At it's core, this course has been created to bring the majority of our students up to the same level before they progress on to the main course. However it is also great to dig deeper into
+At its core, this course has been created to bring the majority of our students up to the same level before they progress to the main course. However it is also great to dig deeper into
 
 * How **committed** people are to the course
 * How well people **self teach**
@@ -111,31 +111,25 @@ As a first pass, find the people that we are sure are not ready for the course. 
 
 #### Technical Pass
 
-The second pass is about finding student who didn't make the technical process that we would have hoped on the course.
-
-Did any of the students stand out as performing poorly on then technical challenges that they should be removed from the process.
-
-This is people who 
-
-* Score very poorly in their 1-to-1s
+The second pass is about finding trainees who didn't make progress. The full course moves quickly and trainees need to be able to improve their work and apply their learning. Look for people who scored poorly in their 1-to-1s.
 
 Scoring poorly means
 
 * They did not show they had learnt over the four week course
 * They could not apply the learning from KhanAcademy to the 1-to-1s
 
-Read over the [Technical & Coding Graduation Criteria](criteria.md#technical-and-coding) for the course, we are looking for students who fulfil the majority of these criteria but not necessarily all of them - if we are seeing development or growth in all of the areas that is what the Fundamentals is about. 
+Read over the [Technical & Coding Graduation Criteria](criteria.md#technical-and-coding). We are looking for students who fulfil the majority of these criteria but not necessarily all of them. Look for development and growth in these areas. That is what Fundamentals is about. 
 
 #### Soft Skills Development Pass
 
-Finally, the Soft Skills pass should try to work out if the students will be a good fit for the course. 
+Finally, the Soft Skills pass should try to work out if a trainee will be a good fit for the course. 
 
 This is people who
 
 * Were actively disruptive in lessons 
 * Were actively rude or dismissive of volunteers or other students
 
-Read over the [Personal Development Graduation Criteria](criteria.md#personal-development) for the course, we are looking for students who fulfil the majority of these criteria but not necessarily all of them - if we are seeing development or growth in all of the areas that is what the Fundamentals is about. 
+Read over the [Personal Development Graduation Criteria](criteria.md#personal-development). We are looking for students who fulfil the majority of these criteria but not necessarily all of them. Look for development and growth in these areas. That is what Fundamentals is about. 
 
 
 
