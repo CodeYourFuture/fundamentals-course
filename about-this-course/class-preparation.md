@@ -8,7 +8,7 @@ Congratulations on being selected to join CodeYourFuture Fundamentals of Tech co
 
 We know you are excited for the classes to start!
 
-You need to do some preparation now so you are ready and able to participate fully in this course. Check off each task as you complete it, so you know you are ready to come to work.
+You need to do some preparation now so you are ready and able to participate fully in this course. You might find it helpful to print this page. Check off each task as you complete it, so you know you are ready to come to work. 
 
 ## 1. Working Agreement \(15 minutes\)
 
