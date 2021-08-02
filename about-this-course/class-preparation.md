@@ -20,7 +20,7 @@ Make a note of anything you don’t understand or don’t agree with. We will be
 If you have any questions, please contact your city coordinator.
 {% endhint %}
 
-* [ ] I have read the [Student Agreement](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement).
+* [x] I have read the [Student Agreement](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement).
 
 ## 2. Hardware Check \(20 minutes\)
 
