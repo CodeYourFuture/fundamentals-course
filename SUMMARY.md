@@ -24,6 +24,7 @@
   * [Lesson 3](teacher-resources/instructor-notes-2.md)
   * [Lesson 4](teacher-resources/instructor-notes-3.md)
 * [Other resources](other-resources/README.md)
+  * [Brain Games](other-resources/brain-games.md)
   * [Free Resources](other-resources/free-resources.md)
   * [Tips For Success](other-resources/tips-for-success.md)
   * [Roadmap of Concepts](other-resources/roadmap-of-concepts.md)
