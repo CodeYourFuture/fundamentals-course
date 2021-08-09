@@ -42,6 +42,10 @@ Download and install the following software or register for the apps.
 
 Click on the links to go to the registration pages. **Keep your login details for all sites/apps consistent and always use your real name.**
 
+{% hint style="success" %}
+CYF recognises **you may need to keep your birth name private**. When we say real name, we mean the name you go by.  It does not have to match your birth certificate or any other legal document.
+{% endhint %}
+
 ### 3.1 Gmail, Google Account
 
 Make a new Google account. Use your real name. Don’t use any numbers or words that are not your name. Never put the year of your birth in your professional email address. Your email address should look something like this:
