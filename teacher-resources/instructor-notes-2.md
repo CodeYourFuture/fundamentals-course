@@ -57,6 +57,14 @@ Finally split into small groups \(per-table usually works well\) and take it tur
 
 ### Pairing
 
+Two volunteers will spend 10 minutes demonstrating pair programming, so please prepare a Khan Academy project and both have the page ready. Say not much more than:
+
+"We are going to pair programme. I will _drive,_ which means I will type the code, and NAME will _navigate_, which means they will tell me what to do."
+
+Nominate a trainee to [set a timer](https://www.google.com/search?q=set+a+timer+for+5+minutes) for five minutes. Driver, share your screen. Navigator, talk clearly and simply through one improvement. Go much more slowly than feels reasonable. Only make one change. Then switch and make one more change.
+
+Then if necessary show the slides before setting up trainee pairs.
+
 This is very likely to be the first time they have ever paired on a programming problem. Here are some tips on running a good pairing session:
 
 * Assign a volunteer to call out to switch navigator and driver roles every 10 minutes loosely
