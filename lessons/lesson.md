@@ -52,7 +52,7 @@ Let's look at some of the tools we use to communicate with you during the course
 
 1. Install Slack on your laptop \(and phone, if possible\)
 2. Log in to the [Code Your Future Intro to Coding Workspace](https://cyf-introtocoding.slack.com)
-3. Make sure your Slack name is your real name and you have put 'Trainee' in your profile.
+3. Make sure your Slack name is your real name
 4. Add a clear face photo of yourself 
 5. Post 5 interesting things about yourself in a thread
 
