@@ -23,7 +23,7 @@ If you've done something in group-work that you don't fully understand:
 
 * Slow things down
 * Get it explained
-* Go back toby yourself afterwards, and challenge yourself to understand it
+* Go back to the work by yourself afterwards, and challenge yourself to understand it
 
 _Don't let it go_ because the next time you don't understand something, it will be harder to get things explained.
 
