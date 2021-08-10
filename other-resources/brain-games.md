@@ -24,3 +24,13 @@ Here's a version you can play against the computer. \(Azul means blue, Rojo mean
 
 {% embed url="https://dominion.games/" caption="Deckbuilding, probability, strategy" %}
 
+## Interpreting Requirements 
+
+Longer team games for study groups to play together: practice interpreting requirements and communicate in code.
+
+{% embed url="https://codenames.game/" %}
+
+{% embed url="https://garticphone.com/" %}
+
+
+
