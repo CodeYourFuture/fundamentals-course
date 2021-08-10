@@ -4,6 +4,8 @@ description: Logic and reasoning games for programmers
 
 # Brain Games
 
+## Strategy and logic 
+
 ### First steps
 
 {% embed url="https://0hh1.com/" caption="Boolean logic" %}
@@ -25,6 +27,8 @@ Here's a version you can play against the computer. \(Azul means blue, Rojo mean
 {% embed url="https://dominion.games/" caption="Deckbuilding, probability, strategy" %}
 
 ## Interpreting Requirements 
+
+{% embed url="https://www.lenstore.co.uk/vc/the-stroop-effect/" caption="Experience the attention level you need to interpret requirements" %}
 
 Longer team games for study groups to play together: practice interpreting requirements and communicate in code.
 
