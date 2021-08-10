@@ -46,13 +46,13 @@ We'll do a 5-minute quiz to help us find out the class's level, using the fun ap
 
 \_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes.md#slack)\_\_
 
-Let's look at some of the tools we use to communicate with you during the course. You should have installed the following but let's check to make sure we all know what we are doing.
+Let's look at some of the tools we use to communicate with you during the course. You have installed these accounts during [your class preparation](../about-this-course/class-preparation.md#3-professional-accounts-2-hours). Together we will now check to make sure we all know what we are doing.
 
 ### Slack
 
-1. Install Slack on your laptop \(and phone, if possible\)
+1. You should have [installed Slack on your computer and phone](../about-this-course/class-preparation.md#3-3-slack) during your class preparation
 2. Log in to the [Code Your Future Intro to Coding Workspace](https://cyf-introtocoding.slack.com)
-3. Make sure your Slack name is your real name
+3. Make sure your Slack name is your real name and you have put 'Trainee' in your profile.
 4. Add a clear face photo of yourself 
 5. Post 5 interesting things about yourself in a thread
 
@@ -67,9 +67,9 @@ Keep engaged with what is happening by using the thumbs up and clapping reaction
 To keep track of your course assignments we use Google Classroom. To set up your account:
 
 1. Go to [classroom.google.com](https://classroom.google.com)
-2. Log in to \(or create\) your Google account
+2. Log in to the [Google account you made during your class preparation](../about-this-course/class-preparation.md#3-1-gmail-google-account)
 3. Click the "+" button in the top right, then "Join class"
-4. Paste in this classroom code that your instructor gives you and click "Join"
+4. Paste in the classroom code that your instructor gives you and click "Join"
 
 #### Submitting homework on Google Classroom
 
@@ -84,13 +84,13 @@ Go ahead and submit the first assignment now, "first assignment: what's your fav
 
 ## Tips for success
 
-[Here is a list of some tips for success on the course](../other-resources/tips-for-success.md). We'll discuss some of these next week, and add to these as we progress.
+[Here is a list of some tips for success on the course](../other-resources/tips-for-success.md). We'll discuss some of these next week, and add to these as we go on.
 
-Make sure you understand the first tip now \("don't hide when you don't know"\). If you have questions, let the volunteers know. You can use the raise hand button in the chat tools, or ask a question in the chat thread.
+Make sure you understand the first tip now \("don't hide when you don't know"\). When you have questions, let the volunteers know. You can use the raise hand button in the chat tools, or ask a question in the chat thread.
 
 ## Feedback
 
-To make our course better we love to hear your feedback. Please spend two minutes completing this form.
+To make our course better we love to hear your feedback. Please now spend two minutes completing this form.
 
 [Class Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScq8Zgr0pz7aMDj0D768eCpW798XgtDsKfpA6BquqK5Hdtj4A/viewform?embedded=true&entry.1672476057=Fundamentals&entry.74981796=Week+1)
 
@@ -116,7 +116,7 @@ We will be completing the course called "Course 3".
 
 To get set up, follow these instructions:
 
-1. Follow the instructions for registering a Code.org account provided by the instructors
+1. Use the account you made [during your class preparation.](../about-this-course/class-preparation.md#3-7-code-org)
 2. Start by clicking on [item 1 from lesson "2. Maze"](https://studio.code.org/s/course3/stage/2/puzzle/1). \(Yes, you should skip lesson 1\). Let the instructors know if you get stuck - it is easiest for us to help you during class
 3. Read the instructions carefully and try to complete all stages of ALL lessons **EXCEPT** the ones below
 
