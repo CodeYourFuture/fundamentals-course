@@ -10,6 +10,8 @@ description: Logic and reasoning games for programmers
 
 {% embed url="https://0hh1.com/" caption="Boolean logic" %}
 
+{% embed url="https://www.webgamesonline.com/mastermind/index.php" caption="Six colours, four pegs - what is the best strategy?" %}
+
 {% embed url="https://setwithfriends.com/" caption="Patterns and sets" %}
 
 ### Azul
