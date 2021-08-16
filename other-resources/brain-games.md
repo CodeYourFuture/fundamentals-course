@@ -32,6 +32,10 @@ Here's a version you can play with friends or against the computer. \(Azul means
 
 {% embed url="https://www.lenstore.co.uk/vc/the-stroop-effect/" caption="Experience the attention level you need to interpret requirements" %}
 
+Play a Google a Day to hone your study skills
+
+{% embed url="http://www.agoogleaday.com/" %}
+
 Longer team games for study groups to play together: practice interpreting requirements and communicate in code.
 
 {% embed url="https://codenames.game/" %}
