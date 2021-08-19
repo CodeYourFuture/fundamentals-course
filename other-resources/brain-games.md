@@ -32,7 +32,7 @@ Here's a version you can play with friends or against the computer. \(Azul means
 
 {% embed url="https://www.lenstore.co.uk/vc/the-stroop-effect/" caption="Experience the attention level you need to interpret requirements" %}
 
-Longer team games for study groups to play together: practice interpreting requirements and communicate in code.
+Longer team games for study groups to play together: practice interpreting requirements and communicating in code.
 
 {% embed url="https://codenames.game/" %}
 
