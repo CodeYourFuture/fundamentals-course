@@ -38,5 +38,9 @@ Longer team games for study groups to play together: practice interpreting requi
 
 {% embed url="https://garticphone.com/" %}
 
+{% hint style="info" %}
+A Telephone game in Normal Mode with 5 people takes approximately 10 minutes with the drawing/answering part. Don't have groups of more than 5.
+{% endhint %}
+
 
 
