@@ -24,6 +24,10 @@ Here's a version you can play with friends or against the computer. \(Azul means
 
 {% embed url="http://boardwebgames.com/rojo/" caption="Logic, patterns and strategy" %}
 
+### Rush Hour
+
+{% embed url="https://www.crazygames.com/game/rush-hour-online" caption="Planning, planning, planning" %}
+
 ### Dominion
 
 {% embed url="https://dominion.games/" caption="Deckbuilding, probability, strategy" %}
