@@ -8,7 +8,7 @@ Congratulations on being selected to join CodeYourFuture Fundamentals of Tech co
 
 We know you are excited for the classes to start!
 
-You need to do some preparation now so you are ready and able to participate fully in this course. You might find it helpful to print this page. Check off each task as you complete it, so you know you are ready to come to work. 
+You need to do some preparation now so you are ready and able to participate fully in this course. You might find it helpful to print this page. Check off each task as you complete it, so you know you are ready to come to work on day one.
 
 ## 1. Working Agreement \(15 minutes\)
 
@@ -43,7 +43,11 @@ Download and install the following software or register for the apps.
 Click on the links to go to the registration pages. **Keep your login details for all sites/apps consistent and always use your real name.**
 
 {% hint style="success" %}
-CYF recognises **you may need to keep your birth name private**. When we say real name, we mean the name you go by.  It does not have to match your birth certificate or any other legal document. It has to be consistent.
+CYF recognises **you may need to keep your birth name private**. When we say real name, we mean the name you go by.  It does not have to match your birth certificate or any other legal document. It has to be consistent and professional.
+{% endhint %}
+
+{% hint style="success" %}
+CYF understands you may need to keep your picture off the internet. In this case, generate [a robohash picture](https://robohash.org/GermanBencci?set=set3) from your name, and use that for all these accounts. Use your [robohash](https://robohash.org/) consistently and it will help us recognise each other.  
 {% endhint %}
 
 ### 3.1 Gmail, Google Account
@@ -75,6 +79,7 @@ Use your professional Chrome profile for all your CYF work. You will often have 
 * [x] I have downloaded the [Slack app](https://slack.com/intl/en-gb/) on my computer _and_ phone
 * [x] I have logged in to the [Code Your Future Intro to Coding Workspace](https://cyf-introtocoding.slack.com/)
 * [x] I have found and joined my class channels
+* [x] I have updated my profile with my picture and class 
 
 ### 3.4 Zoom
 
