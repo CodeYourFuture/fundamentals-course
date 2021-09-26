@@ -24,6 +24,45 @@ You can then prioritise answering the questions on your own time, or split into 
 
 It is also useful to get a volunteer write up the questions in a more permanent place \(e.g. [as a Gist](https://gist.github.com/)\) and share on Slack.
 
+## Solving Problems Workshop
+
+**Start on Level 6 or above and get people to load the page before you go into breakout rooms**
+
+{% hint style="info" %}
+TAs can only be passengers. No driving or navigating. TAs may ask questions but not answer them. TAs will make sure the driver and navigators are following their roles correctly. 
+{% endhint %}
+
+#### **TA: Check in questions**
+
+Model ways of thinking about the game strategically instead of just trying stuff randomly:
+
+* Which car is the blocker? Everyone guess!
+* What shall we do first? 
+* What do you notice about the cars? Are they different sizes?
+* What do you notice about the board? What does this mean for our choices?
+* Is it frustrating being the driver?
+* Are we there yet? Shall we play another round?
+* What one thing shall we say we noticed about this game, back in the main room?
+
+**TA: Evolve the game**
+
+Evolve the game each time you play to guide the players to insights:
+
+* **Round 2:** You must discuss for 1 minute before you make any moves
+* **Round 3:** A single navigator can make no more than three moves in one go
+* **Round 4:** Try to solve the puzzle in as few moves as you can
+
+### Leader example reflection:
+
+> **This game interests me because** to be successful you have to identify the blockers, which is something we all need to get better at. In this game, the blocker is often not the immediately obvious car ‘in the way’. To find it you might have to trace backwards around the board, thinking: to move this one I need to move that one, to move that one, I need to move this next one…And then you need to explain that to your team!  
+>   
+> It’s a good reflection on blockers and planning.
+
+#### More resources
+
+* Backup alternative online game: [https://www.crazygames.com/game/rush-hour-online](https://www.crazygames.com/game/rush-hour-online)
+* Physical version of this game: [https://www.thinkfun.com/products/rush-hour/](https://www.thinkfun.com/products/rush-hour/)
+
 ## Coursework In Perspective
 
 Quick presentation to discuss how block-based programming is relevant in the "real world", as it can appear a little "childish" to adults.

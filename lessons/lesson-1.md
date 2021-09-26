@@ -34,13 +34,46 @@ We like to use [Miro](https://miro.com/login/).
 4. Write your question on your note \(you must ask a question\)
 5. If you have more than 1 question, write each on a separate stiky note. To add a new note, use the toolbar on the left hand side to select a new note.
 
-## Solving problems \(90 minutes\)
+## Solving problems \(60 minutes\)
+
+{% hint style="warning" %}
+Volunteers, please [**read the setup**](../teacher-resources/instructor-notes-1.md#solving-problems-workshop) and resources for this workshop in [Teacher Resource](../teacher-resources/)s so your trainees can get the most out of it. Try playing it beforehand too!
+{% endhint %}
 
 Problem solving is a critical skill for programmers, including for experts. Often programmers spend most of their day solving problems in their code. Learning how to solve problems efficiently is an extremely useful skill.
 
-To help develop your problem solving skills, we'll play a [fun game](https://docs.google.com/presentation/d/1iHN8Up0gYLzX1MZztSSLltIIbuad_HcOwWTyC0u6Ybc/edit#slide=id.g4c9cfeb0ce_0_107) in small groups. 
+To help develop your problem solving skills, we'll play a fun game in small groups called...
 
-Then later on we, will practice working as a group to help each other solve problems using Miro, Slack and Google Meet. 
+### **Blockers!** 
+
+[**Online Version of this game**](https://www.dr-mikes-math-games-for-kids.com/online-traffic-jam-game.html) ****
+
+#### **Objectives**
+
+* Share your screen
+* Identify the blocker
+* Use driver and navigator pattern
+* Break down a problem into steps
+* Negotiate a strategy with your team
+* Follow directions
+
+### **Exercise - 30 minutes**
+
+In groups or breakout rooms of 4 trainees maximum.
+
+One person will share their screen and be the driver. The driver can only move the pieces where you are told by the navigators. The driver cannot make any decisions!
+
+The others will be the navigators. Together, the navigators must figure out a strategy to unblock the car, and tell the driver how to do it!  
+  
+**Each person must drive,** so set a timer for ****[**5 minutes per round**](https://www.google.com/search?q=set+a+timer+for+5+minutes) ****and then swap.
+
+{% hint style="info" %}
+TAs can only be passengers. No driving or navigating. TAs may ask questions but not answer them. TAs will make sure the driver and navigators are following their roles correctly. 
+{% endhint %}
+
+### **Back in the main room - 15 minutes**
+
+What did people think about this game? Let’s go around and each group share **one thing** they noticed about it. 
 
 ## "Algorithm Recipe" Review \(30 Minutes\)
 
