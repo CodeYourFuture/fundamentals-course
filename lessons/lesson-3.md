@@ -64,6 +64,57 @@ If you need a reminder on how to pair-program effectively, see the [the notes fr
 
 Each student will have a pairing session with one of the instructors to solve a programming problem using the Khan Academy Intro to JavaScript environment. We'll see how you're getting on, what help you need, and hopefully you'll get some tips from the instructor!
 
+## Ship It! \(60 minutes\)
+
+**Objectives**
+
+* Export your Codepen to zip
+* Upload your folder to Github
+* Deploy your folder to Netlify
+
+#### **Exercise**
+
+In ITC you built [a Landing Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page) or [Tribute Page](https://codepen.io/limograf/pen/QWdJRMW) in [Codepen](https://codepen.io/your-work) . Now we’ll ship it to become a “real” website! When developers talk about shipping or deployment they mean turning the version that they’re developing into something that users can access.
+
+{% hint style="success" %}
+You’ll export your page to a folder on your computer, upload it to Github, and deploy it to Netlify.
+{% endhint %}
+
+#### **You will need:**
+
+* Your landing page on Codepen
+* [An account with Github](https://fundamentals.codeyourfuture.io/about-this-course/class-preparation#3-10-github) and to be logged in
+* An account with Netlify, so [sign up now](https://app.netlify.com/signup) using the “Sign up with Github” option
+
+### **Step by step**
+
+#### Step One : Codepen
+
+Find your landing page on Codepen and click **Export &gt; Export as zip**
+
+#### Step Two : Github
+
+**Create a new repo** by going to [repo.new](https://repo.new) or by clicking the + icon in the top navigation
+
+1. Leave the Repository Template as “No template”
+2. Type in a name for your project. It can be anything, but “landing-page” or “tribute-page” are probably good choices
+3. Leave the rest of the options as the defaults
+4. Click “Create repository”. Once it’s created it will take you to your new repo
+
+Now click the link to **upload an existing file**, which takes you to https://github.com/YOUR\_GITHUB\_NAME/YOUR\_PROJECT\_NAME/upload
+
+Find your downloaded zip file on your computer, unzip it and drag the folder on to your Github web interface.
+
+#### Step Three: Netlify
+
+Log in to Netlify and follow this workshop to **deploy your site.** [https://syllabus.codeyourfuture.io/workshops/deployment/workshop/instructions](https://syllabus.codeyourfuture.io/workshops/deployment/workshop/instructions) 
+
+[🎉](https://emojipedia.org/party-popper/#:~:text=Emoji%20Meaning&text=Like%20%F0%9F%8E%8A%20Confetti%20Ball%2C%20commonly,to%20Emoji%201.0%20in%202015.) Congratulations! You shipped it!
+
+{% hint style="info" %}
+**Stretch goal?** Follow the instructions in the workshop to change the site name to YOUR\_GITHUB\_NAME-landing-page or YOUR\_GITHUB\_NAME-tribute-page
+{% endhint %}
+
 ## Kahoot - again! \(15 minutes\)
 
 \_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes-3.md#kahoot)\_\_
