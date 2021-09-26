@@ -61,9 +61,9 @@ To help develop your problem solving skills, we'll play a fun game in small grou
 
 In groups or breakout rooms of 4 trainees maximum.
 
-One person will share their screen and be the driver. The driver can only move the pieces where you are told by the navigators. The driver cannot make any decisions!
+One person will share their screen and be the **driver**. The driver can only move the pieces where you are told by the navigators. The driver cannot make any decisions!
 
-The others will be the navigators. Together, the navigators must figure out a strategy to unblock the car, and tell the driver how to do it!  
+The others will be the **navigators**. Together, the navigators must figure out a strategy to unblock the car, and tell the driver how to do it!  
   
 **Each person must drive,** so set a timer for ****[**5 minutes per round**](https://www.google.com/search?q=set+a+timer+for+5+minutes) ****and then swap.
 
