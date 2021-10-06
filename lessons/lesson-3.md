@@ -56,7 +56,7 @@ If you have finished all of the Khan Academy projects up to and including the ar
 
 It's good to code with a friend. You learn SO much. Programmers call this _pair programming_ and many professional teams program in pairs for a part of each day.
 
-If you need a reminder on how to pair-program effectively, see the [the notes from lesson 3](https://github.com/CodeYourFuture/fundamentals-course/tree/223d67a828fe3554aa7bcceb3bbc6f125a390e49/lesson-4/lesson-3.md#pair-programming).
+If you need a reminder on how to pair-program effectively, see [the notes from lesson 3](https://github.com/CodeYourFuture/fundamentals-course/tree/223d67a828fe3554aa7bcceb3bbc6f125a390e49/lesson-4/lesson-3.md#pair-programming).
 
 ### 1-to-1 programming problem with an instructor
 
@@ -109,7 +109,7 @@ You should **SKIP** the "Object-Orientated Design" section. It is out-of-date an
 
 Continue to **Week 4** of the [Learning How to Learn course](https://www.coursera.org/learn/learning-how-to-learn). 
 
-1. Work through the assignmets for **Week 4** of the course. It should take around 4 hours to complete.
+1. Work through the assignments for **Week 4** of the course. It should take around 4 hours to complete.
 2. When you complete the exercises for the week  go to the grades area and post a screenshot in your student area on Google Classroom which shows what you have done.
 3. Optional Further readings and videos are not required. You may choose to do them to further your learning. 
 4. Honors Assignments are required!!! You will need to complete your:
@@ -137,7 +137,7 @@ If you enjoyed using JavaScript to make drawings and animations, we recommend fu
 
 Here are some [notes on moving to p5.js](after-the-course/from-khan-academy-processingjs-to-p5js.md).
 
-If we have time, we will do [a short workshop on moving your work to to p5.js](after-the-course/p5js-and-openprocessing-workshop.md).
+If we have time, we will do [a short workshop on moving your work to p5.js](after-the-course/p5js-and-openprocessing-workshop.md).
 
 #### Some places to get inspiration with p5.js
 
